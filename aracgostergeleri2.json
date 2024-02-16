@@ -1,0 +1,102 @@
+[
+ {
+  "Question": "SORU",
+  "A": "Isıtma bujileri",
+  "B": "Motor sıvısı",
+  "C": "Dış ışık",
+  "D": "Debriyaj",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189499746440728576\/Trafik_Levhalar12.png?ex=659e62f7&is=658bedf7&hm=97f4da6a3685af22806c0e60b9b103ec26f7d49924e2ac3e8152cd21debd14db&",
+  "Explaination": "Debriyaj",
+  "Answer": "Debriyaj"
+ },
+ {
+  "Question": "SORU",
+  "A": "Kısa farlar açık",
+  "B": "Uzun farlar açık",
+  "C": "Dörtlüler açık",
+  "D": "Ön sis lambası",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189500876482674758\/Trafik_Levhalar13.png?ex=659e6404&is=658bef04&hm=eae6042250b7bc9c758c7867cae0428c264b901f94941fda538a1ee54fd7e2a6&",
+  "Explaination": "Uzun farlar açık",
+  "Answer": "Uzun farlar açık"
+ },
+ {
+  "Question": "SORU",
+  "A": "Enjeksiyon hatası",
+  "B": "Motor yağını değiştir",
+  "C": "Motor gücünde azalma",
+  "D": "Debriyaj",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189501908809945209\/Trafik_Levhalar14.png?ex=659e64fa&is=658beffa&hm=2f3793a26d6782fbc35938955b54ec2a3dce6211adb15a0703f2d018279b1b9e&",
+  "Explaination": "Motor gücünde azalma",
+  "Answer": "Motor gücünde azalma"
+ },
+ {
+  "Question": "SORU",
+  "A": "Enjeksiyon hatası",
+  "B": "Motor yağını değiştir",
+  "C": "Gaz kapağı",
+  "D": "Isıtma bujileri",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189502247579680768\/Trafik_Levhalar15.png?ex=659e654b&is=658bf04b&hm=58fada59dcfbfb0011dfa3516db14d5930cc13d298aaaf9bf1fbfbc3180499ee&",
+  "Explaination": "Enjeksiyon hatası",
+  "Answer": "Enjeksiyon hatası"
+ },
+ {
+  "Question": "SORU",
+  "A": "Enjeksiyon hatası",
+  "B": "Ana uyarı ışığı",
+  "C": "Motor gücünde azalma",
+  "D": "Debriyaj",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189502820295131207\/Trafik_Levhalar16.png?ex=659e65d4&is=658bf0d4&hm=685283eea8d7e6c57af849d52be3220b39696d2a84b4e1da1cb48a513cf6caa0&",
+  "Explaination": "Ana uyarı ışığı",
+  "Answer": "Ana uyarı ışığı"
+ },
+ {
+  "Question": "SORU",
+  "A": "Düşük yakıt",
+  "B": "Motor yakıt filtresi",
+  "C": "Motor sıvısı",
+  "D": "Yakıt arızası",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189503284826873866\/Trafik_Levhalar17.png?ex=659e6643&is=658bf143&hm=af7c172067489255fd906d5b6945c93ce7dcacd0aac35a225ef65ecb9e05d8c4&",
+  "Explaination": "Yakıt arızası",
+  "Answer": "Yakıt arızası"
+ },
+ {
+  "Question": "SORU",
+  "A": "Uzun farlar açık",
+  "B": "Akü arızası",
+  "C": "Motor yağını değişitir",
+  "D": "Motor arızası",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189504078594707526\/Trafik_Levhalar18.png?ex=659e6700&is=658bf200&hm=07eef4b2de9ceaeb16686dd3e1275d7a02a7906835bf5eee0859abccba456175&",
+  "Explaination": "Motor yağını değişitir",
+  "Answer": "Motor yağını değişitir"
+ },
+ {
+  "Question": "SORU",
+  "A": "Hidrolik direksiyon sistemi sorunu",
+  "B": "Far seviyesi",
+  "C": "Fren lambası",
+  "D": "Yakıt arızası",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189505209404231720\/Trafik_Levhalar21.png?ex=659e680d&is=658bf30d&hm=3bae6cc40e7e4a96579677cf05eb032894b9e82b669968b92297d9d1996e5c37&",
+  "Explaination": "Hidrolik direksiyon sistemi sorunu",
+  "Answer": "Hidrolik direksiyon sistemi sorunu"
+ },
+ {
+  "Question": "SORU",
+  "A": "Otomatik vites kolu",
+  "B": "Katalizör arızası",
+  "C": "Düşük yakıt",
+  "D": "Motor gücünde azalma",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189631468843057272\/Trafik_Levhalar22.png?ex=659edda4&is=658c68a4&hm=1ae5209abd99069cd1f391f98cbbb2c1e364fb0e52fcceb8a5d58d614eb5c386&",
+  "Explaination": "Otomatik vites kolu",
+  "Answer": "Otomatik vites kolu"
+ },
+ {
+  "Question": "SORU",
+  "A": "Motor sıvısı",
+  "B": "Yağ sensörü arızası",
+  "C": "Yağ seviyesi",
+  "D": "Yağ seviyesi azalmış",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189632535165157478\/Trafik_Levhalar23.png?ex=659edea2&is=658c69a2&hm=be80b28bf6ba66e022537ec08de087a7ab6bb29843bc7f43fe3f1a1650d6168a&",
+  "Explaination": "Yağ sensörü arızası",
+  "Answer": "Yağ sensörü arızası"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "Question": "SORU",
+  "A": "Orta Şerit Devamlı Olarak İşgal Edilemez",
+  "B": "Öndeki Aracı Geçmek Yasaktır.",
+  "C": "Öndeki Araç Geçilebilir.",
+  "D": "Yaya Geçidi",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189835635406680144\/Trafik_Levhalar24.png?ex=659f9bc9&is=658d26c9&hm=379bff83d3500b0b47c5874d12a4d1c3b6bea4b6502bff780c8a392acd3dd54e&",
+  "Explaination": "Öndeki Aracı Geçmek Yasaktır.",
+  "Answer": "Öndeki Aracı Geçmek Yasaktır."
+ },
+ {
+  "Question": "SORU",
+  "A": "Öndeki Aracı Geçmek Yasaktır.",
+  "B": "Öndeki Araç Geçilebilir.",
+  "C": "Yavaşlama Uyarı Çizgileri",
+  "D": " Her İki Yöndeki Araçlar da Çizginin Diğer Tarafına Geçemez.",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189836371481866311\/Trafik_Levhalar25.png?ex=659f9c79&is=658d2779&hm=166c028014d14c7a1bfbf4c7c42320bd1786ea90679d3d076510a8322eab19a6&",
+  "Explaination": "Öndeki Aracı Geçmek Yasaktır.",
+  "Answer": "Öndeki Aracı Geçmek Yasaktır."
+ },
+ {
+  "Question": "SORU",
+  "A": "Öndeki Aracı Geçmek Yasaktır.",
+  "B": "Kesikli Çizgi Tarafındaki Araç Öndeki Aracı Geçebilir ve Devamlı Çizgi Tarafındaki Aracın Öndeki Aracı Geçmesi Yasaktır.\n",
+  "C": "Öndeki Araç Geçilebilir.",
+  "D": "Her İki Yöndeki Araçlar da Çizginin Diğer Tarafına Geçemez.",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189837010114990171\/Trafik_Levhalar26.png?ex=659f9d11&is=658d2811&hm=6113ce8b2fd1a27330f2040a9c41c6b42a340fa8037dd0ef62d998e8c607633f&",
+  "Explaination": "Kesikli Çizgi Tarafındaki Araç Öndeki Aracı Geçebilir ve Devamlı Çizgi Tarafındaki Aracın Öndeki Aracı Geçmesi Yasaktır.\n",
+  "Answer": "Kesikli Çizgi Tarafındaki Araç Öndeki Aracı Geçebilir ve Devamlı Çizgi Tarafındaki Aracın Öndeki Aracı Geçmesi Yasaktır.\n"
+ },
+ {
+  "Question": "SORU",
+  "A": "Öndeki Araç Geçilebilir.",
+  "B": "Her İki Yöndeki Araçlar da Çizginin Diğer Tarafına Geçemez.",
+  "C": "Orta Şerit Sadece Geçiş İçindir. Devamlı Olarak İşgal Edilemez.",
+  "D": "Öndeki Aracı Geçmek Yasaktır.",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189838613911961611\/Trafik_Levhalar27.png?ex=659f9e8f&is=658d298f&hm=f33461cea3f0a786f11c60159bbe51f86bf0d29ee923a459ab7018fdaa6771bd&",
+  "Explaination": "Orta Şerit Sadece Geçiş İçindir. Devamlı Olarak İşgal Edilemez.",
+  "Answer": "Orta Şerit Sadece Geçiş İçindir. Devamlı Olarak İşgal Edilemez."
+ },
+ {
+  "Question": "SORU",
+  "A": "Öndeki Araç Geçilebilir.",
+  "B": "Orta Şerit Sadece Geçiş İçindir. Devamlı Olarak İşgal Edilemez.",
+  "C": "Bölünmüş Yol Başlangıcı",
+  "D": "Her İki Yöndeki Araçlar da Çizginin Diğer Tarafına Geçemez.",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189839605449637999\/Trafik_Levhalar28.png?ex=659f9f7c&is=658d2a7c&hm=9758d99a9a3de6b5a00e19ce1c4375458a093302c8383b94aad4dc5dc2f84cb2&",
+  "Explaination": "Her İki Yöndeki Araçlar da Çizginin Diğer Tarafına Geçemez.",
+  "Answer": "Her İki Yöndeki Araçlar da Çizginin Diğer Tarafına Geçemez."
+ },
+ {
+  "Question": "SORU",
+  "A": "Bölünmüş Yol Başlangıcı",
+  "B": "Ayrılma",
+  "C": "Katılma",
+  "D": "Taralı Alana Girilmez",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189847997270466560\/Trafik_Levhalar29.png?ex=659fa74c&is=658d324c&hm=e45b07b085d8924b22625dfa58571e3956b10713acd88bf0f5fbcbe05538ba51&",
+  "Explaination": "Bölünmüş Yol Başlangıcı",
+  "Answer": "Bölünmüş Yol Başlangıcı"
+ },
+ {
+  "Question": "SORU",
+  "A": "Öndeki Araç Geçilebilir.",
+  "B": "Bölünmüş Yol Başlangıcı",
+  "C": "Katılma",
+  "D": "Ayrılma",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189848796696424480\/Trafik_Levhalar30.png?ex=659fa80b&is=658d330b&hm=eba0299d4ce1b1c2a893aadd5e99b41df8ca3a99aa4e2cca4858366cfee47174&",
+  "Explaination": "Ayrılma",
+  "Answer": "Ayrılma"
+ },
+ {
+  "Question": "SORU",
+  "A": "Bölünmüş Yol Başlangıcı",
+  "B": "Taralı Alana Girilmez",
+  "C": "Katılma",
+  "D": "Ayrılma",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189849795498622986\/Trafik_Levhalar32.png?ex=659fa8f9&is=658d33f9&hm=46a09799c49eb1dcf7ab07fedb2c2f688e6fc98a14c50b530237dc187616ddb5&",
+  "Explaination": "Katılma",
+  "Answer": "Katılma"
+ },
+ {
+  "Question": "SORU",
+  "A": "Yol ver",
+  "B": "Yaya geçidi",
+  "C": "Dur",
+  "D": "Azami Hız",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189850445561221200\/Trafik_Levhalar33.png?ex=659fa994&is=658d3494&hm=b4a91a0d9b08d31ff3b5d55d03c395f14871d713c83b2bbd1d1f2ea0178b5f06&",
+  "Explaination": "Yol ver",
+  "Answer": "Yol ver"
+ },
+ {
+  "Question": "SORU",
+  "A": "Öndeki Aracı Geçmek Yasaktır.",
+  "B": "Katılma",
+  "C": "Ayrılma",
+  "D": "Taralı Alana Girilmez",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1189851119883653241\/Trafik_Levhalar34.png?ex=659faa35&is=658d3535&hm=b6a52a3b5ac46179d83dbc4c7a9822929f756541c31e095c0049d7d1a6ee82c1&",
+  "Explaination": "Taralı Alana Girilmez",
+  "Answer": "Taralı Alana Girilmez"
+ }
+]

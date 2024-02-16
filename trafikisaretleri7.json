@@ -1,0 +1,101 @@
+[
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Geçme Yasağı Sonu",
+  "B": "Kamyonlar İçin Geçme Yasağı Sonu",
+  "C": "Bütün Yasakalama ve Kısıtlamaların Sonu",
+  "D": "Hız Sınırlaması Sonu",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187737807796568135\/sss.png?ex=6597fa08&is=65858508&hm=fe8cd06e76990292ac7d6a8f630926dca7ff03a5c893902cd2e6200e934fcc2c&",
+  "Explaination": "Hız Sınırlaması Sonu",
+  "Answer": "Hız Sınırlaması Sonu"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Bütün Yasakalama ve Kısıtlamaların Sonu",
+  "B": "Kamyonlar İçin Geçme Yasağı Sonu",
+  "C": "Geçme Yasağı Sonu",
+  "D": "Hız Sınırlaması Sonu",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187738494706139258\/Trafik_Levhalar7.png?ex=6597faac&is=658585ac&hm=6a7b0f367c5bc9ffbedfe2a1a992eed5887da8cba02618a0d0c77f20cbe63268&",
+  "Explaination": "Geçme Yasağı Sonu",
+  "Answer": "Geçme Yasağı Sonu"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Kamyonlar İçin Geçme Yasağı Sonu",
+  "B": "Bütün Yasakalama ve Kısıtlamaların Sonu",
+  "C": "Geçme Yasağı Sonu",
+  "D": "Hız Sınırlaması Sonu",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187738834146951329\/Trafik_Levhalar8.png?ex=6597fafd&is=658585fd&hm=c1c9aef438f64193fd7d93483b475745c4c5b2e7491f450090fcd121aa5bd849&",
+  "Explaination": "Kamyonlar İçin Geçme Yasağı Sonu",
+  "Answer": "Kamyonlar İçin Geçme Yasağı Sonu"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Azami Hız Sınırlaması",
+  "B": "Geçme Yasağı Sonu",
+  "C": "Hız Sınırlaması Sonu",
+  "D": "Bütün Yasakalama ve Kısıtlamaların Sonu",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187739228294090792\/Trafik_Levhalar9.png?ex=6597fb5b&is=6585865b&hm=f278234c3a8c1e26d3eebd38830b97fb1e8d299a613eabfc09ba9f4ac9375d49&",
+  "Explaination": "Bütün Yasakalama ve Kısıtlamaların Sonu",
+  "Answer": "Bütün Yasakalama ve Kısıtlamaların Sonu"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Hız Sınırlaması Sonu",
+  "B": "Kamyonlar İçin Geçme Yasağı Sonu",
+  "C": "Kamyonlar İçin Öndeki Taşıtı Geçmek Yasaktır",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187739721594581052\/Trafik_Levhalar10.png?ex=6597fbd0&is=658586d0&hm=1062db7b20e6dae1e80547451459156b5d7c3079e53228a5b97f27d32a0ee529&",
+  "Explaination": "Kamyonlar İçin Öndeki Taşıtı Geçmek Yasaktır",
+  "Answer": "Kamyonlar İçin Öndeki Taşıtı Geçmek Yasaktır"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Mecburi Asgari Hız",
+  "B": "Mecburi Asgari Hız Sonu",
+  "C": "Mecburi Yaya Yolu",
+  "D": "Azami Hız Sınırlaması",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187740375926976552\/Trafik_Levhalar11.png?ex=6597fc6c&is=6585876c&hm=ab6784b39736e1494f4114675c2d290792b753ba0b8a6736028a120015d5c250&",
+  "Explaination": "Mecburi Asgari Hız",
+  "Answer": "Mecburi Asgari Hız"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Mecburi Asgari Hız",
+  "B": "Mecburi Yaya Yolu",
+  "C": "Mecburi Asgari Hız Sonu",
+  "D": "Azami Hız Sınırlaması",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187740799404883990\/Trafik_Levhalar12.png?ex=6597fcd1&is=658587d1&hm=f6cef5f8d83f23748ff59763201ddb5911a221845bbc706bc5e9511eaa9d0893&",
+  "Explaination": "Mecburi Asgari Hız Sonu",
+  "Answer": "Mecburi Asgari Hız Sonu"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sola Mecburi Yön",
+  "B": "İleride Sola Mecburi Yön",
+  "C": "İleride Sağa Mecburi Yön",
+  "D": "Sağdan Gidiniz",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187741176447631421\/Trafik_Levhalar13.png?ex=6597fd2b&is=6585882b&hm=5000ba197f80dfb05df8d1d6bcd27b42e3125c4cb6e2fc6654e232db1a2df826&",
+  "Explaination": "İleride Sağa Mecburi Yön",
+  "Answer": "İleride Sağa Mecburi Yön"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sağdan Gidiniz",
+  "B": "İleri Mecburi Yön",
+  "C": "İleride Sağa Mecburi Yön",
+  "D": "Sola Mecburi Yön",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187741696826540062\/Trafik_Levhalar14.png?ex=6597fda7&is=658588a7&hm=d8d7ed3370c3e91dff866f9f9da3a932fe1a1b1746b4c84d107527d1b0d2ed4a&",
+  "Explaination": "İleri Mecburi Yön",
+  "Answer": "İleri Mecburi Yön"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sola Mecburi Yön",
+  "B": "İleri Mecburi Yön",
+  "C": "Sağdan Gidiniz",
+  "D": "Ada Etrafında Dönünüz",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187742008127787018\/Trafik_Levhalar15.png?ex=6597fdf1&is=658588f1&hm=2c4febcc3104fe5b15a1d5418bfd8d9a585a21f4cc631899e8a43f70734c803a&",
+  "Explaination": "Sola Mecburi Yön",
+  "Answer": "Sola Mecburi Yön"
+ }
+]

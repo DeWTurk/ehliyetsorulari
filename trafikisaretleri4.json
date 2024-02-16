@@ -1,0 +1,102 @@
+[
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sağdan Daralan Kaplama",
+  "B": "İki Taraftan Daralan Kaplama",
+  "C": "Soldan Daralan Kaplama",
+  "D": "Kasisli Yol",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187106705071423659\/33.png?ex=6595ae45&is=65833945&hm=d5a54323e07cd026d7273a48ec78ef2bd8c8f34e677465ed1b361c103f3eaec2&",
+  "Explaination": 1,
+  "Answer": "Sağdan Daralan Kaplama"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "İki Taraftan Daralan Kaplama",
+  "B": "Kaygan Yol",
+  "C": "Gevşek Malzemeli Zemin",
+  "D": "Kasisli Yol",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187107031350522038\/34.png?ex=6595ae93&is=65833993&hm=35a266ec46976a297adabbd5ea5b1f73f4e87e58b5e25139397c42546a3cb4a1&",
+  "Explaination": 1,
+  "Answer": "Kaygan Yol"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sağa Tehlikeli Viraj",
+  "B": "Tehlikeli Eğim (Çıkış)",
+  "C": "Sola Tehlikeli Viraj",
+  "D": "Sağdan Daralan Kaplama",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187107324846932038\/35.png?ex=6595aed9&is=658339d9&hm=c0f158258cbfb7a6e48f09fc997125e7882159d6c8a080cb47241b33adcf2eed&",
+  "Explaination": 1,
+  "Answer": "Sola Tehlikeli Viraj"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Taşıt Trafiğine Kapalı Yol",
+  "B": "Girişi Olmayan Yol",
+  "C": "Karşıdan Gelene Yol Ver",
+  "D": "Yol Ver",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187107628439052438\/36.png?ex=6595af22&is=65833a22&hm=d2d61a331333194f2f368ae37fea3fac0953e351cadbdcde3b092dfad04b9909&",
+  "Explaination": 1,
+  "Answer": "Yol Ver"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Ana Yol-Tali Yol Kavşağı",
+  "B": "İki Yönlü Trafik",
+  "C": "Kontrolsüz Kavşak",
+  "D": "Dönel Kavşak",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187107812682252429\/37.png?ex=6595af4d&is=65833a4d&hm=58ef13f1ec7d0594c67336c1824bcaaeb3c81d2111e6c23efba497ac18cd3515&",
+  "Explaination": 1,
+  "Answer": "Ana Yol-Tali Yol Kavşağı"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Soldan Ana Yola Giriş",
+  "B": "Sağdan Ana Yola Giriş",
+  "C": "Kontrollü Demiryolu Geçidi",
+  "D": "İki Yönlü Trafik",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187108039233388625\/38.png?ex=6595af83&is=65833a83&hm=678a7702f95cd658f58d1e72734d4908bc074ed41e311eee80198c6a1107bdb4&",
+  "Explaination": 1,
+  "Answer": "Sağdan Ana Yola Giriş"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Ana Yol-Tali Yol Kavşağı",
+  "B": "Kontrolsüz Kavşak",
+  "C": "Dönel Kavşak",
+  "D": "Sağdan Ana Yola Giriş",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187108274705801286\/39.png?ex=6595afbc&is=65833abc&hm=020debdd879ec6d2ecb51a46417eb3358312d6613d65da8f89b1dc18d43ec53d&",
+  "Explaination": 1,
+  "Answer": "Dönel Kavşak"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sağdan Ana Yola Giriş",
+  "B": "İki Yönlü Trafik",
+  "C": "Dönel Kavşak",
+  "D": "Ana Yol-Tali Yol Kavşağı",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187108476980318308\/40.png?ex=6595afec&is=65833aec&hm=3809e25846a661a5c367d4ab20e529ef47e08cb0b022c8e694d41fe80ef957b9&",
+  "Explaination": 1,
+  "Answer": "Ana Yol-Tali Yol Kavşağı"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Kontrolsüz Demiryolu Geçidi",
+  "B": "Dönel Kavşak",
+  "C": "Engel",
+  "D": "Tehlikeli Viraj ",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187108852135632986\/43.png?ex=6595b045&is=65833b45&hm=c97dffbcde2e04d55fbc0071748cf580ef545bbaac2d97f2132e204fb9336b46&",
+  "Explaination": 1,
+  "Answer": "Kontrolsüz Demiryolu Geçidi"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Soldan Ana Yola Giriş",
+  "B": "Sağdan Ana Yola Giriş",
+  "C": "Ana Yol-Tali Yol Kavşağı",
+  "D": "Dönel Kavşak",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187109167438237896\/44.png?ex=6595b090&is=65833b90&hm=802d43b12510074f9c91b70e57fd2f0e689bfe9ac8a432fb403f02184a281d28&",
+  "Explaination": 1,
+  "Answer": "Soldan Ana Yola Giriş"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "Question": "SORU",
+  "A": "Motorlu Taşıt Giremez",
+  "B": "Motosiklet Hariç Taşıt Trafiğine Kapalı Yol",
+  "C": "Motosiklet Giremez",
+  "D": "Taşıt Trafiğine Kapalı Yol",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186604182678032396\/1.png?ex=6593da43&is=65816543&hm=003b4f1f92b9daa0e429ccd57853477e15358f2cb1e0cc72641aa493185c3fac&",
+  "Explaination": 1,
+  "Answer": "Motorlu Taşıt Giremez"
+ },
+ {
+  "Question": "SORU",
+  "A": "İki Taraftan Daralan Kaplama",
+  "B": "Sağdan Daralan Kaplama",
+  "C": "Soldan Daralan Kaplama",
+  "D": "Sağa Tehlikeli Viraj",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186606261005987931\/2.png?ex=6593dc32&is=65816732&hm=90156d16aea7c0d74718d03fd6289df2b3b243cf83f4c63ab33d0ec4b6c7cad9&",
+  "Explaination": 1,
+  "Answer": "İki Taraftan Daralan Kaplama"
+ },
+ {
+  "Question": "SORU",
+  "A": "Yaya Giremez",
+  "B": "Bisiklet Geçebilir",
+  "C": "Mopet Giremez",
+  "D": "Girişi Olmayan Yol",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186633355748450365\/3.png?ex=6593f56e&is=6581806e&hm=5ea01c27184f665ad3e8a8fcab273b108662a01a2e41f0ec5526e8aa266cd540&",
+  "Explaination": 1,
+  "Answer": "Bisiklet Geçebilir"
+ },
+ {
+  "Question": "SORU",
+  "A": "Soldan Daralan Kaplama",
+  "B": "Kaygan Yol",
+  "C": "Açılan Köprü",
+  "D": "Kasisli Yol",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186634663867994142\/4.png?ex=6593f6a6&is=658181a6&hm=cbd8e73a012c7b45ade5ef262bf01730d66794d0cf47094c951d0a7a4871d217&",
+  "Explaination": 1,
+  "Answer": "Açılan Köprü"
+ },
+ {
+  "Question": "SORU",
+  "A": "Sola Tehlikeli Viraj",
+  "B": "Sola Dönülemez",
+  "C": "Sağa Dönülemez",
+  "D": "Sağa Tehlikeli Viraj",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186635062943436832\/5.png?ex=6593f705&is=65818205&hm=f887d991588424b0b43f1804b3679136f63edc96e36e404e27ec24dd6bb2e368&",
+  "Explaination": 1,
+  "Answer": "Sağa Dönülemez"
+ },
+ {
+  "Question": "SORU",
+  "A": "Taşıt Trafiğine Kapalı Yol",
+  "B": "Park Yeri",
+  "C": "Duraklamak ve Park Etmek Yasaktır",
+  "D": "Park Etmek Yasaktır",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186635658865950740\/6.png?ex=6593f793&is=65818293&hm=5d7dc14b2592aca7a499a457a7666276728bbcb821222200d19cd64eddcf3241&",
+  "Explaination": 1,
+  "Answer": "Park Etmek Yasaktır"
+ },
+ {
+  "Question": "SORU",
+  "A": "Azami Hız Sınırlaması",
+  "B": "Sesli İkaz Cihazlarının Kullanılması Yasaktır",
+  "C": "Gümrük (Durmadan Geçmek Yasaktır)",
+  "D": "Motorlu Taşıt Giremez",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186635966060953671\/7.png?ex=6593f7dc&is=658182dc&hm=7034666b995a93422aa7be280c2acd3cc8744388bdb438aba4e5d3d104085f0c&",
+  "Explaination": 1,
+  "Answer": "Sesli İkaz Cihazlarının Kullanılması Yasaktır"
+ },
+ {
+  "Question": "SORU",
+  "A": "Tehlikeli Madde Taşıyan Taşıt Giremez",
+  "B": "Yaya Giremez",
+  "C": "Azami Hız Sınırlaması",
+  "D": "Taşıt Trafiğine Kapalı Yol",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186636226095231016\/8.png?ex=6593f81a&is=6581831a&hm=27400877db5e14603d5913f587b6d591b942fe6cdf5357d19f767b1302bc803c&",
+  "Explaination": 1,
+  "Answer": "Azami Hız Sınırlaması"
+ },
+ {
+  "Question": "SORU",
+  "A": "Öndeki Taşıtı Geçmek Yasaktır",
+  "B": "Kamyonlar İçin Öndeki Taşıtı Geçmek Yasaktır",
+  "C": "Azami Hız Sınırlaması",
+  "D": "Taşıt Giremez",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186968164148445214\/10.png?ex=65952d3f&is=6582b83f&hm=dad345788ba73e3b3f2b665f7f16b8ceedd15e8eefab591de58aa3ae744f947f&",
+  "Explaination": 1,
+  "Answer": "Öndeki Taşıtı Geçmek Yasaktır"
+ },
+ {
+  "Question": "SORU",
+  "A": "U- Dönüşü Yapılamaz",
+  "B": "Sola Dönülemez",
+  "C": "Sağa Dönülemez",
+  "D": "Öndeki Taşıtı Geçmek Yasaktır",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186968431531134977\/11.png?ex=65952d7e&is=6582b87e&hm=ede2f9abb416ea7ac2659c4a7f3bfd2497c8b88338ee448ad2107d19e1a4d695&",
+  "Explaination": 1,
+  "Answer": "U- Dönüşü Yapılamaz"
+ }
+]

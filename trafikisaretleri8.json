@@ -1,0 +1,102 @@
+[
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Park Etmek Yasaktır",
+  "B": "Park Yeri",
+  "C": "Yol Ver",
+  "D": "Duraklamak ve Park Etmek Yasaktır",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187754321585131530\/Trafik_Levhalar16.png?ex=65980969&is=65859469&hm=5a3e8680c44be21712936272a24358e9c9e85dfac8f87b1611dc04945c8caac4&",
+  "Explaination": "Duraklamak ve Park Etmek Yasaktır",
+  "Answer": "Duraklamak ve Park Etmek Yasaktır"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Duraklamak ve Park Etmek Yasaktır",
+  "B": "Park Etmek Yasaktır",
+  "C": "Park Yeri",
+  "D": "Taşıt Trafiğine Kapalı Yol",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187754718269812776\/Trafik_Levhalar17.png?ex=659809c8&is=658594c8&hm=d1411036830bf1851a309f23fe805bb841db3ba9080d886f82e228a07a4d9ad1&",
+  "Explaination": "Park Yeri",
+  "Answer": "Park Yeri"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Mecburi Yaya Yolu",
+  "B": "Mecburi Yaya Yolu Sonu",
+  "C": "Mecburi Asgari Hız",
+  "D": "Her İki Yandan Gidiniz",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187755367237701642\/Trafik_Levhalar18.png?ex=65980a62&is=65859562&hm=bc51e0d1e9e6bcf0b05d5637b48a911619b5fa2df056a5e4654cf7d9d12aea6a&",
+  "Explaination": "Mecburi Yaya Yolu",
+  "Answer": "Mecburi Yaya Yolu"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Her İki Yandan Gidiniz",
+  "B": "Ada Etrafında Dönünüz",
+  "C": "İleride Sola Mecburi Yön",
+  "D": "Sola Mecburi Yön",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187755792821141594\/Trafik_Levhalar19.png?ex=65980ac8&is=658595c8&hm=1b5f8e097b767186b9e651c348d1d00dc9c8ccb839e3fe07c1771ca3d45d58da&",
+  "Explaination": "Ada Etrafında Dönünüz",
+  "Answer": "Ada Etrafında Dönünüz"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "İleri Mecburi Yön",
+  "B": "Sağdan Gidiniz",
+  "C": "Sağa ve Sola Mecburi Yön",
+  "D": "İleride Sağa Mecburi Yön",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187756215250468986\/Trafik_Levhalar20.png?ex=65980b2d&is=6585962d&hm=a7cfbd9e540c319c697b8fa5e45558b79b0a98e5c8a63aa6753bd81fe329cb12&",
+  "Explaination": "Sağa ve Sola Mecburi Yön",
+  "Answer": "Sağa ve Sola Mecburi Yön"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Uzunluğu ... Metreden Fazla Olan Taşıt Giremez",
+  "B": "Yüksekliği ... Metreden Fazla Olan Taşıt Giremez",
+  "C": "Genişliği ... Metreden Fazla Olan Taşıtlar Giremez",
+  "D": "Taşıt Giremez",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187756586903539761\/Trafik_Levhalar21.png?ex=65980b85&is=65859685&hm=6626ea81c64abc17c593d94cc3137866e851509cd3662d376b634ca2d9dfaeec&",
+  "Explaination": "Uzunluğu ... Metreden Fazla Olan Taşıt Giremez",
+  "Answer": "Uzunluğu ... Metreden Fazla Olan Taşıt Giremez"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Yüklü Ağırlığı ... Tondan Fazla Olan Taşıt Giremez",
+  "B": "Taşıt Giremez",
+  "C": "Motorlu Taşıt Giremez",
+  "D": "El Arabası Giremez",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187756961408749578\/Trafik_Levhalar22.png?ex=65980bdf&is=658596df&hm=b29f32703a7e3f7ba06b42c3b8a369210b98190f031c7fa4c5b447a3ca597a3b&",
+  "Explaination": "Taşıt Giremez",
+  "Answer": "Taşıt Giremez"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Traktör Giremez",
+  "B": "Treyler Giremez",
+  "C": "Otobüs Giremez",
+  "D": "Kamyon Giremez",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187757579443634229\/Trafik_Levhalar23.png?ex=65980c72&is=65859772&hm=20f57712cf26db35a3c046d4c3a9620e62199d6075a4f3977a8eaf945a4db787&",
+  "Explaination": "Kamyon Giremez",
+  "Answer": "Kamyon Giremez"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Uzunluğu ... Metreden Fazla Olan Taşıt Giremez",
+  "B": "Taşıt Giremez",
+  "C": "Tehlikeli Madde Taşıyan Taşıt Giremez",
+  "D": "Belirli Miktarlardan Fazla Patlayıcı ve Parlayıcı Madde Taşıyan Taşıt Giremez",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187757879818715176\/Trafik_Levhalar24.png?ex=65980cba&is=658597ba&hm=9e8b0f47f0fa8d3012d73859f94905c4e8de942d42525969aa6f0419e8008485&",
+  "Explaination": "Tehlikeli Madde Taşıyan Taşıt Giremez",
+  "Answer": "Tehlikeli Madde Taşıyan Taşıt Giremez"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Otoyol Sonu",
+  "B": "Yaya Geçidi",
+  "C": "Okul Geçidi",
+  "D": "Tek Yönlü Yol",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187758305364430948\/Trafik_Levhalar25.png?ex=65980d1f&is=6585981f&hm=f0aa914e68fc469488bfebb576d17cbb8b2619d23f8fca2fd0e2f63d4780bbd1&",
+  "Explaination": "Yaya Geçidi",
+  "Answer": "Yaya Geçidi"
+ }
+]

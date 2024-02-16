@@ -1,0 +1,102 @@
+[
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Dönel Kavşak",
+  "B": "Tehlikeli Viraj Yön Levhası",
+  "C": "Düşük Banket",
+  "D": "Gizli Buzlanma",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186979675982016552\/12.png?ex=659537f7&is=6582c2f7&hm=6ddd32dd559b647bb84bb6733b7ef38cfd106943dfdc8bd691947e6738735d98&",
+  "Explaination": 1,
+  "Answer": "Gizli Buzlanma"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Gizli Buzlanma",
+  "B": "Düşük Banket",
+  "C": "Dikkat",
+  "D": "Gevşek Malzemeli Zemin",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186636475681476748\/9.png?ex=6593f856&is=65818356&hm=7e7c0e7b304e55e9afc4fe1cb4322646c0f10f47118d61c69056266df31761a2&",
+  "Explaination": 1,
+  "Answer": "Düşük Banket"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Yol Ver",
+  "B": "Taşıt Trafiğine Kapalı Yol",
+  "C": "Girişi Olmayan Yol",
+  "D": "Dur",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186980603296493628\/13.png?ex=659538d4&is=6582c3d4&hm=2ad385d509bcdf0faa9280703b64b1d066911d7d5cf3b4d982af520d455f90fe&",
+  "Explaination": 1,
+  "Answer": "Dur"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Taşıt Trafiğine Kapalı Yol",
+  "B": "Taşıt Trafiğine Kapalı Yol",
+  "C": "Çocuklar için dur",
+  "D": "Dur",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186980825787531356\/14.png?ex=65953909&is=6582c409&hm=3b5ced418c9eed5e781de56ce8a3252b03e937fd335fbd5550016fa888093b2b&",
+  "Explaination": 1,
+  "Answer": "Çocuklar için dur"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Karşıdan Gelene Yol Ver",
+  "B": "Girişi Olmayan Yol",
+  "C": "Taşıt Trafiğine Kapalı Yol",
+  "D": "Yol Ver",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186982320977227796\/15.png?ex=65953a6e&is=6582c56e&hm=e212c6b997d26a5aef95913342e806e8ab4ada727ae0b729ede6b747b563b825&",
+  "Explaination": 1,
+  "Answer": "Karşıdan Gelene Yol Ver"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Bisiklet Giremez",
+  "B": "Girişi Olmayan Yol",
+  "C": "Taşıt Trafiğine Kapalı Yol",
+  "D": "Dur",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186982586308898946\/16.png?ex=65953aad&is=6582c5ad&hm=17883c16fa414198bd28c4d542a77ec8f62846861c40f20fba0ca2537ea9a750&",
+  "Explaination": 1,
+  "Answer": "Girişi Olmayan Yol"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Dur",
+  "B": "Yol Ver",
+  "C": "Girişi Olmayan Yol",
+  "D": "Taşıt Trafiğine Kapalı Yol",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186982929558147122\/17.png?ex=65953aff&is=6582c5ff&hm=5ad1c31387d66893bfd8016df2e2b97bd3c858f07eeb2d50d8471449a9e4b239&",
+  "Explaination": 1,
+  "Answer": "Taşıt Trafiğine Kapalı Yol"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Karşıdan Gelene Yol Ver",
+  "B": "Motosiklet Hariç Taşıt Trafiğine Kapalı Yol",
+  "C": "Öndeki Taşıtı Geçmek Yasaktır",
+  "D": "Yaya Giremez",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186983138065387640\/18.png?ex=65953b31&is=6582c631&hm=82db43d409736f7ee7db330a88da66d59b426105872e38688f7aac59bab9528a&",
+  "Explaination": 1,
+  "Answer": "Motosiklet Hariç Taşıt Trafiğine Kapalı Yol"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Motorlu Araç Giremez",
+  "B": "Bisiklet Giremez",
+  "C": "Motosiklet Giremez",
+  "D": "Mopet Giremez",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186985776840462367\/19.png?ex=65953da6&is=6582c8a6&hm=61d78808baf074536be6d52bd86d7d94a6eee1a849a55031e6171559b186680b&",
+  "Explaination": 1,
+  "Answer": "Motosiklet Giremez"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Motorlu Araç Giremez",
+  "B": "Bisiklet Giremez",
+  "C": "Motosiklet Giremez",
+  "D": "Mopet Giremez",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1186986359018242128\/20.png?ex=65953e31&is=6582c931&hm=d50ac0f793dbf2e76b16acfad256bedf6e79d935fee662afd972a62f2564031c&",
+  "Explaination": 1,
+  "Answer": "Bisiklet Giremez"
+ }
+]

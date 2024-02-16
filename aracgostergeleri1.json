@@ -1,0 +1,102 @@
+[
+ {
+  "Question": "SORU",
+  "A": "Düşük Yakıt",
+  "B": "Yağ seviyesi",
+  "C": "Isıtma Bujileri",
+  "D": "Dizel Partikül Filtresi",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1188778290828292147\/Trafik_Levhalar.png?ex=659bc30e&is=65894e0e&hm=87e81fe686422dc27c3e4901472412b7d942035cc8eaf3f1d282be5d41629844&",
+  "Explaination": "Dizel Partikül Filtresi",
+  "Answer": "Dizel Partikül Filtresi"
+ },
+ {
+  "Question": "SORU",
+  "A": "Ön sis lambası",
+  "B": "Lamba Arızası",
+  "C": "Kısa farlar açık",
+  "D": "Akü arızası",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1188779633924128818\/Trafik_Levhalar2.png?ex=659bc44f&is=65894f4f&hm=d49343eb98538370646450b6e79c409645147fa0962695b5b550a5993c5b8157&",
+  "Explaination": "Ön sis lambası",
+  "Answer": "Ön sis lambası"
+ },
+ {
+  "Question": "SORU",
+  "A": "Enjeksiyon hatası",
+  "B": "Hararet göstergesi",
+  "C": "Isıtma Bujileri",
+  "D": "Yağ seviyesi azalmış",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1188780350302855229\/Trafik_Levhalar3.png?ex=659bc4f9&is=65894ff9&hm=938009ec0e23c53f7bd7926bdfa0e938443f112227ae1ed553313604222082b8&",
+  "Explaination": "Isıtma Bujileri",
+  "Answer": "Isıtma Bujileri"
+ },
+ {
+  "Question": "SORU",
+  "A": "Lamba Arızası",
+  "B": "Motor Arızası",
+  "C": "Katalizör Arızası",
+  "D": "Akü arızası",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1188796213189955614\/Trafik_Levhalar4.png?ex=659bd3bf&is=65895ebf&hm=19c24b29f8dc288b99cb1963a1ec3b90807ee51af4969f8b69558ac9cbd5413f&",
+  "Explaination": "Motor Arızası",
+  "Answer": "Motor Arızası"
+ },
+ {
+  "Question": "SORU",
+  "A": "Yağ seviyesi",
+  "B": "Akü arızası",
+  "C": "Motor Arızası",
+  "D": "Isıtma Bujileri",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1188796974707789855\/Trafik_Levhalar5.png?ex=659bd475&is=65895f75&hm=bbd8c36a2c265acc792f818bb877a4de6db97f77b59facd06167dceb1c9334fe&",
+  "Explaination": "Akü arızası",
+  "Answer": "Akü arızası"
+ },
+ {
+  "Question": "SORU",
+  "A": "Enjeksiyon hatası",
+  "B": "Motor Arızası",
+  "C": "Lamba Arızası",
+  "D": "Ön sis lambası",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1188797494960848896\/Trafik_Levhalar6.png?ex=659bd4f1&is=65895ff1&hm=d3ea4294cbe8ed18d1070a4eb7d11940f8c352bee0530972f0ea2be126fd59dd&",
+  "Explaination": "Lamba Arızası",
+  "Answer": "Lamba Arızası"
+ },
+ {
+  "Question": "SORU",
+  "A": "Fren Lambası",
+  "B": "Uzun Farlar Açık",
+  "C": "Lamba Arızası",
+  "D": "Dörtlüler Açık",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1188797994150142002\/Trafik_Levhalar7.png?ex=659bd568&is=65896068&hm=840dcef1fb2692a023354bd357308426be65aef4f31f678e95f8c7f76836a10d&",
+  "Explaination": "Dörtlüler Açık",
+  "Answer": "Dörtlüler Açık"
+ },
+ {
+  "Question": "SORU",
+  "A": "Uzun Farlar Açık",
+  "B": "Fren Lambası",
+  "C": "Lamba Arızası",
+  "D": "Dörtlüler Açık",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1188804223215861780\/Trafik_Levhalar9.png?ex=659bdb35&is=65896635&hm=4a7c73cc3a49bcca0f35766d0d5cda0bc6233551202c3c002323d078bf4bd528&",
+  "Explaination": "Uzun Farlar Açık",
+  "Answer": "Uzun Farlar Açık"
+ },
+ {
+  "Question": "SORU",
+  "A": "Yakıt arızası",
+  "B": "Düşük yakıt",
+  "C": "Yağ seviyesi azalmış",
+  "D": "Motor arızası",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1188805163696275568\/Trafik_Levhalar10.png?ex=659bdc15&is=65896715&hm=6e9c45157e316f611ac5a3dd570ab382415fe6690f85f6d4221ead641b7e07df&",
+  "Explaination": "Yağ seviyesi azalmış",
+  "Answer": "Yağ seviyesi azalmış"
+ },
+ {
+  "Question": "SORU",
+  "A": "Motor sıvısı",
+  "B": "Düşük Yakıt",
+  "C": "Isıtma Bujileri",
+  "D": "Motor arızası",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1188806016574443520\/Trafik_Levhalar11.png?ex=659bdce1&is=658967e1&hm=9bfe5759af0b9906e0c7e441af3f70212d4634ab066e598ed64a3122bb168756&",
+  "Explaination": "Motor sıvısı",
+  "Answer": "Motor sıvısı"
+ }
+]

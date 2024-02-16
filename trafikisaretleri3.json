@@ -1,0 +1,102 @@
+[
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Mopet Giremez",
+  "B": "Motosiklet Giremez",
+  "C": "Motosiklet Hariç Taşıt Trafiğine Kapalı Yol",
+  "D": "Dur",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187044668953858189\/21.png?ex=6595747f&is=6582ff7f&hm=f11782a4d720407f395de497a848452b7f99f839cd0f71f46533f307ed5f7ea0&",
+  "Explaination": 1,
+  "Answer": "Mopet Giremez"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Gevşek Şev",
+  "B": "Açılan Köprü",
+  "C": "Deniz veya Nehir Kıyısında Biten Yol",
+  "D": "Gevşek Malzemeli Zemin",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187046466338955344\/22.png?ex=6595762b&is=6583012b&hm=926174e4b4df6b35015b9c11c98af7326b545f9d8cb05d272b76055d0b14c397&",
+  "Explaination": 1,
+  "Answer": "Deniz veya Nehir Kıyısında Biten Yol"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Kaygan Yol",
+  "B": "Gevşek Şev",
+  "C": "Tehlikeli Eğim (Çıkış)",
+  "D": "Tehlikeli Eğim (İniş)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187057362910064700\/23.png?ex=65958051&is=65830b51&hm=118b43daa550397fc04db7a89bc4d1422ae032bbdc5b7fb7a81110c20d32703b&",
+  "Explaination": 1,
+  "Answer": "Tehlikeli Eğim (İniş)"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Gevşek Malzemeli Zemin",
+  "B": "Kaygan Yol",
+  "C": "Tehlikeli Eğim (İniş)",
+  "D": "Tehlikeli Eğim (Çıkış)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187057846479749130\/24.png?ex=659580c5&is=65830bc5&hm=a6974b89c3d9f8fa0733d2fdd0aade1185cb5d54ca85bde1b320d1133aaf2da5&",
+  "Explaination": 1,
+  "Answer": "Tehlikeli Eğim (Çıkış)"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Dur",
+  "B": "Bisiklet Geçebilir",
+  "C": "Yaya Geçidi",
+  "D": "Okul Geçidi",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187058006114971720\/25.png?ex=659580eb&is=65830beb&hm=267e4e726e9a610e730379637e12ef14d7229ebffa25cb3cd53de0f575ca3c19&",
+  "Explaination": 1,
+  "Answer": "Yaya Geçidi"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Kasisli Yol",
+  "B": "Gevşek Şev",
+  "C": "Gevşek Malzemeli Zemin",
+  "D": "Tehlikeli Eğim (Çıkış)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187058852995285022\/27.png?ex=659581b5&is=65830cb5&hm=5db2c0ea5088b9226d8128ada6687a3be47c73d91e44fba2235b548a68eb3625&",
+  "Explaination": 1,
+  "Answer": "Kasisli Yol"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Vahşi Hayvanlar Geçebilir",
+  "B": "Ehli Hayvanlar Geçebilir",
+  "C": "Yolda Çalışma",
+  "D": "At Arabası Giremez",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187059021283344384\/28.png?ex=659581dd&is=65830cdd&hm=2ae90dc78d90006f03485bcd26537bf51a5942b2a3f96cd8cd2f5d045fe15c69&",
+  "Explaination": 1,
+  "Answer": "Vahşi Hayvanlar Geçebilir"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Havaalanı-Havalimanı",
+  "B": "Yandan Rüzgar",
+  "C": "Işıklı İşaret Cihazı",
+  "D": "Yolda Çalışma",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187059443976904814\/29.png?ex=65958241&is=65830d41&hm=9a5f8ef21a9ccd06a9b4ccdc17a70f7c253394e8408256872e83e3eef2ca0919&",
+  "Explaination": 1,
+  "Answer": "Yandan Rüzgar"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Motosiklet Hariç Taşıt Trafiğine Kapalı Yol",
+  "B": "Dur",
+  "C": "Okul Geçidi",
+  "D": "Yaya Geçidi",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187059843484352572\/30.png?ex=659582a1&is=65830da1&hm=fb59a061916528ab206d9056108545d71a80d2b8c2ab6b9047bb01b892381106&",
+  "Explaination": 1,
+  "Answer": "Okul Geçidi"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Dönel Kavşak",
+  "B": "Kontrolsüz Kavşak",
+  "C": "İki Yönlü Trafik",
+  "D": "Ana Yol-Tali Yol Kavşağı",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1187060590829645906\/31.png?ex=65958353&is=65830e53&hm=a53d29afc8623c8f500c5c8b751c561327bf69c9a71929cabbc68d1723af06c8&",
+  "Explaination": 1,
+  "Answer": "Ana Yol-Tali Yol Kavşağı"
+ }
+]
