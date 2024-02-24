@@ -1,62 +1,62 @@
 [
  {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1180573071388717126\/1.png?ex=657de95a&is=656b745a&hm=c4e2495398d8e122afe07add3ff47580b6bc6144d0c3f814534bcf60485a7bc2&",
+  "Question": "I.Motosiklet\n\nII.Elektrikli bisiklet\n\nIII.Lastik tekerlekli traktör\n\nIV.Üç tekerlekli yük motosikleti\n\nYukarıdaki taşıtlardan hangilerinin sürülmesi sırasında koruma başlığı takılması mecburidir?",
+  "A": "I ve II.\n",
+  "B": "I, III ve IV.\n",
+  "C": "II, III ve IV.\n",
+  "D": "I, II, III ve IV.",
+  "Image": 1,
   "Explaination": 1,
-  "Answer": "A)"
+  "Answer": "I ve II.\n"
  },
  {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1180573071820718121\/2.png?ex=657de95a&is=656b745a&hm=63963db8d3c2ccc8deb04be44cad04d7e05eb08a73bd324fef00e5933ec1164a&",
+  "Question": "Motorlu bisiklet, motosiklet ve sürücüleri ile ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?\n",
+  "A": "Gidiş yönüne göre yolun en sağından seyredilmesi\n",
+  "B": "İkiden fazlasının taşıt yolunun bir şeridinde yan yana sürülmesi\n",
+  "C": "Tehlikeli madde taşıyan araçların geçilmesi\n",
+  "D": "Geçme yaparken sinyal verilmesi",
+  "Image": 1,
   "Explaination": 1,
-  "Answer": "B)"
+  "Answer": "İkiden fazlasının taşıt yolunun bir şeridinde yan yana sürülmesi\n"
  },
  {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1180573072223383672\/3.png?ex=657de95a&is=656b745a&hm=72c1f15a6c9cda0e922d130dc000d428248a3d788442476938fd594f1d1ccb66&",
+  "Question": "Motosikletin sürülmesi sırasında aşağıdakilerden hangisinin kullanılması, olası bir kaza anında kafa yaralanmalarının sayısını ve şiddetini önemli ölçüde azaltır?\n",
+  "A": "Kask\n",
+  "B": "Eldiven\n",
+  "C": "Yansıtıcı giysi\n",
+  "D": "Dayanıklı bot",
+  "Image": 1,
   "Explaination": 1,
-  "Answer": "A)"
+  "Answer": "Kask\n"
  },
  {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1180573072693137429\/4.png?ex=657de95a&is=656b745a&hm=000ec4be7be39cad479097f7e02fa7aa3da32905455a01c9a8fcb6667f16e0d9&",
+  "Question": "Motorlu bisiklet, motosiklet ve sürücüleriyle ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?\n",
+  "A": "Sürücü arkasında yeterli oturma yeri olsa bile bir kişiden fazlasının taşınması\n",
+  "B": "Gidiş yönüne göre yolun en sağından seyredilmesi\n",
+  "C": "Tehlikeli madde taşıyan araçların geçilmesi\n",
+  "D": "Geçme yaparken sinyal verilmesi",
+  "Image": 1,
   "Explaination": 1,
-  "Answer": "A)"
+  "Answer": "Sürücü arkasında yeterli oturma yeri olsa bile bir kişiden fazlasının taşınması\n"
  },
  {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1180573073255182397\/5.png?ex=657de95a&is=656b745a&hm=765110a2d9f216dfe21618b9a636087ede4d80292c1a53c916fa70559323f805&",
+  "Question": "Motorlu bisiklet, motosiklet ve sürücüleri ile ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?\n",
+  "A": "Geçme yaparken sinyal verilmesi\n",
+  "B": "Tehlikeli madde taşıyan araçların geçilmesi\n",
+  "C": "Sürülmeleri sırasında elde bagaj, paket ve benzerlerinin taşınması\n",
+  "D": "Gidiş yönüne göre yolun en sağından seyredilmesi",
+  "Image": 1,
   "Explaination": 1,
-  "Answer": "C)"
+  "Answer": "Sürülmeleri sırasında elde bagaj, paket ve benzerlerinin taşınması\n"
  },
  {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1180573073724936392\/6.png?ex=657de95a&is=656b745a&hm=32093335f952732e13aed497d138c9c5c23fe067e3d90cf8caddc7c64df98ca3&",
+  "Question": "Motorlu bisiklet, motosiklet ve elektrikli bisikletlerin sürülmesi sırasında sürücülerin aşağıdakilerden hangisini kullanması zorunludur?\n",
+  "A": "Koruma başlığı ve koruma gözlüğü\n",
+  "B": "Rüzgârlık ve boyun korsesi\n",
+  "C": "Eldiven ve emniyet kemeri\n",
+  "D": "Çocuk bağlama sistemi\n",
+  "Image": 1,
   "Explaination": 1,
-  "Answer": "A)"
+  "Answer": "Koruma başlığı ve koruma gözlüğü\n"
  }
 ]
