@@ -1,172 +1,172 @@
 [
  {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182326821224718436\/1.png?ex=65844aa8&is=6571d5a8&hm=d8b7f74ec2e9f8308889c6fb841defe3a1999650a4e313aea78861e7bb4c14f3&",
+  "Question": "Kara Yolları Trafik Kanununa göre “M, A1, A2, A, B1, B, BE, F ve G” sınıfı sürücü belgeleri kaç yıl süreyle geçerlidir?\n",
+  "A": 10,
+  "B": 15,
+  "C": 20,
+  "D": 25,
+  "Image": 1,
   "Explaination": 1,
-  "Answer": "A)"
+  "Answer": 10
  },
  {
-  "Question": "SORU",
+  "Question": "Kara Yolları Trafik Kanunu’na göre “C1, C1E, C, CE, D1, D1E, D ve DE” sınıfı sürücü belgeleri kaç yıl süreyle geçerlidir?\n",
+  "A": 2,
+  "B": 5,
+  "C": 7,
+  "D": 10,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 5
+ },
+ {
+  "Question": "Aracına “LPG” sistemi taktıran bir kişi, bu durumu kaç gün içinde ilgili kuruluşa bildirmek zorundadır?\n",
+  "A": 30,
+  "B": 40,
+  "C": 50,
+  "D": 60,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 30
+ },
+ {
+  "Question": "Kara Yolları Trafik Yönetmeliği’ne göre aşağıdaki durumlardan hangisinin oluşması hâlinde, araç için yeni Tescil Belgesi düzenlenmesi zorunludur?\n",
+  "A": "Hurdaya ayrılması\n",
+  "B": "Teknik değişiklik yaptırılması\n",
+  "C": "Aracın yaralanmalı kazaya karışması\n",
+  "D": "Aracın teknik muayenesinin zamanında yaptırılmaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Teknik değişiklik yaptırılması\n"
+ },
+ {
+  "Question": "Araçların muayene süresi dolmasa bile, aşağıdaki hâllerin hangisinden dolayı özel muayenesi zorunludur?\n",
+  "A": "Kazaya karışması sonucu yetkili görevli tarafından gerekli görüldüğünde\n",
+  "B": "Sürücüsü veya işleticisi değiştiğinde\n",
+  "C": "Motoru bakımdan geçirildiğinde\n",
+  "D": "Sahibi değiştiğinde",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kazaya karışması sonucu yetkili görevli tarafından gerekli görüldüğünde\n"
+ },
+ {
+  "Question": "Motosikletlerde ilk 3 yaş sonunda kaç yılda bir muayene yaptırılması zorunludur?\n",
+  "A": 4,
+  "B": 3,
+  "C": 2,
+  "D": 1,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 2
+ },
+ {
+  "Question": "Haritalarda gösterilen şekildeki işaret, aşağıdakilerden hangisine verilen yol numarasıdır?\n",
+  "A": "Uluslararası yol\n",
+  "B": "Devlet yolu\n",
+  "C": "Demir yolu\n",
+  "D": "Otoyol",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgL9AbKaFU4AKjYjWgDPwuSAjgML9Fb5YQtfZtnwYX_C_QU49FBWEGMKOubPus5GvZrl_-qqVqYn1x-aJX4arWBTa9oLBbsKbRZY5r-7TNwm-rPLx243oWlnXAQc0tIFmvWjzOButnj1zTIY88lWMmEKKlPjaiijqzkvbc2oqNOf6_j2Esn4sOi2kvjwqZQ\/s1600\/Trafik%20Levhalar%C4%B1%20%284%29-min.png",
+  "Explaination": 1,
+  "Answer": "Uluslararası yol\n"
+ },
+ {
+  "Question": "I.Sürülen taşıtın cinsine uygun olması\n\nII.Yetkililerin istemesi hâlinde gösterilmesi\n\nIII.Taşıt sürerken sürücünün yanında bulundurması\n\nMotorlu taşıt sürücü belgesiyle ilgili olarak yukarıda verilenlerden hangileri zorunludur?",
+  "A": "Yalnız I\n",
+  "B": "I ve II\n",
+  "C": "II ve III\n",
+  "D": "I, II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I, II ve III"
+ },
+ {
+  "Question": "Haritalarda gösterilen şekildeki işaret, aşağıdakilerden hangisine verilen yol numarasıdır?\n",
+  "A": "Otoyol\n",
+  "B": "Demir yolu\n",
+  "C": "Devlet yolu\n",
+  "D": "Uluslararası yol",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhxt-njCKrKa0vfBiR1CZaOq9Q8QVlh_cEheheK53Xk7GGxt2XUTFMqvBkbNjXdeuUA926UlBSXPRNYdSSvIitJ14sQ1_kyzPqUk65LY3fUKiBcXigJs8aKFj6hDXyuPqmUmLuthUyYLUvMHqxASQOipzA8V2Nq7dTS9nINP7qsU4gYVx4MFL-qL4i2gDee\/s1600\/Trafik%20Levhalar%C4%B1%20%285%29.png",
+  "Explaination": 1,
+  "Answer": "Devlet yolu\n"
+ },
+ {
+  "Question": "Monoküler (tek gözü gören) kişilerle ilgili olarak aşağıdakilerden hangisi yanlıştır?\n",
+  "A": "Bu kişiler ticari araç kullanabilir.\n",
+  "B": "Sürücü belgesi aldıktan sonra her yıl bir göz hekiminden sağlık raporu almaları zorunludur.\n",
+  "C": "Kullanacakları araçların içinde, sağında ve solunda olmak üzere en az 3 ayna bulunması zorunludur.\n",
+  "D": "Kendileri açısından konulan kurallara uyup uymadıklarının denetlenebilmesi için sürücü belgelerine monoküler ibaresi yazılır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Bu kişiler ticari araç kullanabilir.\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, tescil işlemleri tamamlanmış araçların trafiğe çıkarılmasına müsaade eden ve muayene sürelerini belirleyen bir belgedir?\n",
+  "A": "Sürücü belgesi\n",
+  "B": "Araç imalat belgesi\n",
+  "C": "Mali sorumluluk sigortası\n",
+  "D": "Motorlu araç tescil belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Motorlu araç tescil belgesi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi araç sahiplik belgesidir?\n",
+  "A": "Sürücü belgesi\n",
+  "B": "Araç tescil belgesi\n",
+  "C": "Araç imalat belgesi\n",
+  "D": "Servis bakım belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Araç tescil belgesi\n"
+ },
+ {
+  "Question": "Motorlu araçların, - - - - sahibi olmayan kişiler tarafından kara yollarında sürülmesi ve sürülmesine izin verilmesi yasaktır.\n\nVerilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+  "A": "Katılım Belgesi\n",
+  "B": "Eğitim Sertifikası\n",
+  "C": "Sürücü Belgesi\n",
+  "D": "Sürücü Sertifikası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Sürücü Belgesi\n"
+ },
+ {
+  "Question": "Araçların muayene süresi dolmasa bile, aşağıdaki hâllerin hangisinden dolayı özel muayenesi zorunludur?\n",
+  "A": "Kazaya karışması sonucu yetkili görevli tarafından gerekli görüldüğünde\n",
+  "B": "Sürücüsü veya işleticisi değiştiğinde\n",
+  "C": "Motoru bakımdan geçirildiğinde\n",
+  "D": "Sahibi değiştiğinde",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kazaya karışması sonucu yetkili görevli tarafından gerekli görüldüğünde\n"
+ },
+ {
+  "Question": "Üzerinde renk ve teknik değişiklik yapılanveya kullanım amacı değiştirilen araçlara ait tescil belgeleri, sahiplerinin gerekli uygunluğu sağlamaları bakımından kaç gün süre ile geçerliliğini korur?\n",
+  "A": 30,
+  "B": 40,
+  "C": 50,
+  "D": 60,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 30
+ },
+ {
+  "Question": "B sınıfı sürücü belgesine sahip olan Mehmet, A2 sınıfı sürücü belgesi almak için başvuru yapıyor.\n\nBu durumda Mehmet, aşağıda resimleri verilen araçlardan hangisini kullanmak istemektedir?",
   "A": "A)",
   "B": "B)",
   "C": "C)",
   "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182326821832904776\/2.png?ex=65844aa8&is=6571d5a8&hm=066c90bcfc16629166aa964701a52087e05d2a498d972710f4f8b3322534fc35&",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi6LUtSLrMcegFmhO5FqkexP8NMaTvBi8CEZvz6iyxJz-DRXbS0yrBWD6vhklgselSegA_vysy1zbtEAv_YirAmHdyFTXK0fz1tyDP-OQivz2FKpnJGXRW1y1Yg83054lYac14LYdwqP9soL-Qcmgc4bR2hHSTPiemdBfhKb-19GEM1uga0hkTMrZxwkWXT\/s1600\/Trafik%20Levhalar%C4%B1%20%2812%29-min.jpg",
   "Explaination": 1,
   "Answer": "B)"
  },
  {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182326822336208936\/3.png?ex=65844aa9&is=6571d5a9&hm=ba188b52233e98f322b377fb8c6033beaf39a93de571f6c36a3aab93d611cf7c&",
+  "Question": "Araçların muayene süresi dolmasa bile, aşağıdaki hâllerin hangisinden dolayı özel muayenesi zorunludur?\n",
+  "A": "Üzerinde teknik değişiklik yapıldığında\n",
+  "B": "Sürücüsü veya işleticisi değiştiğinde\n",
+  "C": "Motoru bakımdan geçirildiğinde\n",
+  "D": "Sahibi değiştiğinde \n",
+  "Image": 1,
   "Explaination": 1,
-  "Answer": "A)"
- },
- {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182326822826954844\/4.png?ex=65844aa9&is=6571d5a9&hm=7177fd3da9a88ee44244140bbe459032d4e9b4c88fbf1ef970e8665615ac4d28&",
-  "Explaination": 1,
-  "Answer": "B)"
- },
- {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182326823741300808\/5.png?ex=65844aa9&is=6571d5a9&hm=4f2ed2087718b6d4c97da226e995704aa257f751bd93cd2c3cb1cef0fba6cf85&",
-  "Explaination": 1,
-  "Answer": "A)"
- },
- {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182326824232046602\/6.png?ex=65844aa9&is=6571d5a9&hm=87af437acbe024ceac6ac195b38aff0e5ec68ddaab41e152bd59d0309785cd3f&",
-  "Explaination": 1,
-  "Answer": "C)"
- },
- {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182326824869572658\/7.png?ex=65844aa9&is=6571d5a9&hm=e634fdec3d152d644dd3ec0210c7b4a650e996e1bc6df81a1d7a33b9797d4bf0&",
-  "Explaination": 1,
-  "Answer": "A)"
- },
- {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182326825448382464\/8.png?ex=65844aa9&is=6571d5a9&hm=a867d04ba20014130824629940bdc703eeca2b8d2f62e01c3d9694e852022784&",
-  "Explaination": 1,
-  "Answer": "D)"
- },
- {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182326825976877227\/9.png?ex=65844aa9&is=6571d5a9&hm=cb0db7a9ba88e1a66c9205c74685290da1a601693215e13bf7b1eb88ab7102e5&",
-  "Explaination": 1,
-  "Answer": "C)"
- },
- {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182326826522128474\/10.png?ex=65844aaa&is=6571d5aa&hm=93c052e408b3bd01849a784b2f3cae201c835cc30f05db7aeb5814b34d2556de&",
-  "Explaination": 1,
-  "Answer": "A)"
- },
- {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182327450152222870\/11.png?ex=65844b3e&is=6571d63e&hm=2f43bdb9a8b5bc0431f377e43a2b8592cedaf2b062a1229c91538461c4a56d5f&",
-  "Explaination": 1,
-  "Answer": "D)"
- },
- {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182327450508742787\/12.png?ex=65844b3e&is=6571d63e&hm=384375252e04b2deca76e2692cf6f5a8b22230fcda4be069b109eab1965768ae&",
-  "Explaination": 1,
-  "Answer": "B)"
- },
- {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182327450953322627\/13.png?ex=65844b3e&is=6571d63e&hm=696e980ff8a4fd1b76cc4bacdf67df5e1f59071fe8ea9b375c433cfc13b831ee&",
-  "Explaination": 1,
-  "Answer": "C)"
- },
- {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182327451456651425\/14.png?ex=65844b3f&is=6571d63f&hm=9153c5e3fb0f40c653b2432690601a0d36c64700fb85379e0f35f2cc65cd5de2&",
-  "Explaination": 1,
-  "Answer": "A)"
- },
- {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182327451926417428\/15.png?ex=65844b3f&is=6571d63f&hm=4e6d9fc972a7bde58343b569c43626d62b442ece3fc22e8a4f3527f9017bb6cf&",
-  "Explaination": 1,
-  "Answer": "A)"
- },
- {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182327452396163072\/16.png?ex=65844b3f&is=6571d63f&hm=cb4203dc2c01e6cc58490413d17470331625a7e2913b4f7035dec8809edf3895&",
-  "Explaination": 1,
-  "Answer": "B)"
- },
- {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1182327452865937469\/17.png?ex=65844b3f&is=6571d63f&hm=bdc9e01747edbc4e91febf7a9736861eb4b0aa1b76d103d814df33ca0d53309b&",
-  "Explaination": 1,
-  "Answer": "A)"
+  "Answer": "Üzerinde teknik değişiklik yapıldığında\n"
  }
 ]
