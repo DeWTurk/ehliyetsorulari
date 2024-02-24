@@ -1,52 +1,52 @@
 [
  {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1180571965854060614\/1.png?ex=657de852&is=656b7352&hm=5314227e980019a878ffc5931af233da44424aff05110d133a7e476ab914e0a5&",
+  "Question": "Bir arızadan dolayı sürülemeyen veya ışık ve fren donanımları bozulan araçlar, diğer bir araç ile en yakın bakım ve onarım yerine kadar gerekli şartlara uyulmak kaydıyla çekilebilirler.\n\nBuna göre aşağıdakilerden hangisi arızalı araç çekilirken uyulması gereken şartlardan biri değildir?",
+  "A": "Çekilen aracın ağırlığının, çeken aracın taşıma sınırından az olması\n",
+  "B": "Birbirine bağlanan iki araç arasındaki açıklığın 10 metre olması\n",
+  "C": "Çekilen aracın, sürücü yönetiminde olması\n",
+  "D": "Her iki aracın da boş (yüksüz) olması",
+  "Image": 1,
   "Explaination": 1,
-  "Answer": "B)"
+  "Answer": "Birbirine bağlanan iki araç arasındaki açıklığın 10 metre olması\n"
  },
  {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1180571966202183681\/2.png?ex=657de852&is=656b7352&hm=90662b4a799935b420b0fcd0b511062b2178ef45e4ec76a22dd5bf910c389cfd&",
+  "Question": "Aşağıdakilerden hangisi otoyolda yapılabilecek davranışlardandır?\n",
+  "A": "Geri gitmek\n",
+  "B": "Geriye dönmek\n",
+  "C": "Zorunluluk dışında park etmek\n",
+  "D": "Hızına uygun şeritte gitmek",
+  "Image": 1,
   "Explaination": 1,
-  "Answer": "D)"
+  "Answer": "Hızına uygun şeritte gitmek"
  },
  {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1180571966546133072\/3.png?ex=657de852&is=656b7352&hm=c913321081a5ac018712f94e807cd5ab790866ed41a994a54648f95f3facea48&",
+  "Question": "Otoyollara girerken hangi şeridin kullanılması zorunludur?\n",
+  "A": "Orta şerit\n",
+  "B": "Hızlanma şeridi\n",
+  "C": "Tırmanma şeridi\n",
+  "D": "Yavaşlama şeridi",
+  "Image": 1,
   "Explaination": 1,
-  "Answer": "B)"
+  "Answer": "Hızlanma şeridi\n"
  },
  {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1180571966936191047\/4.png?ex=657de852&is=656b7352&hm=32e86a5f924e3875eda97bebe5a785ecf63abeb8851973a4021e283561bccf87&",
+  "Question": "Kaza yapan aracın ön ve arkasına, diğer araç sürücülerini yavaşlatmak ve olası bir kaza tehlikesini önlemek için aşağıdakilerden hangisi yerleştirilmelidir?\n",
+  "A": "Yangın tüpü\n",
+  "B": "Üçgen reflektör\n",
+  "C": "Beyaz renkte taş\n",
+  "D": "Teneke veya bidon gibi malzemeler",
+  "Image": 1,
   "Explaination": 1,
-  "Answer": "B)"
+  "Answer": "Üçgen reflektör\n"
  },
  {
-  "Question": "SORU",
-  "A": "A)",
-  "B": "B)",
-  "C": "C)",
-  "D": "D)",
-  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1180571967426928670\/5.png?ex=657de853&is=656b7353&hm=90d76ac2b91fd32d5486373b3ac7539b1a097207cfb5d72516538ec7c7b28976&",
+  "Question": "Şekildeki otoyolda numaralanmış şeritlerden hangisi ayrılma (yavaşlama) şerididir?\n",
+  "A": 1,
+  "B": 2,
+  "C": 3,
+  "D": 4,
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgy61hCoihsqq-dHpTgwFtH36Gj0o6iTjAtGIZ9_ZebfKkk5nn7Csr0-wkVQFXKZBsQsWif_DbClJZPjCEfGvfG-4-eIkCwaUgS1qI_niwuUCLWAmVBQf4HyrZukjGeIAMWe6TOJ7nBR_CenE36PmzqxTxoOagkZWZ5KX47mMYwwslIy7Vt3oGG8WD9oSmL\/s1600\/Trafik%20Levhalar%C4%B1%20%288%29-min.jpg",
   "Explaination": 1,
-  "Answer": "A)"
+  "Answer": 1
  }
 ]
