@@ -30,16 +30,6 @@
   "Answer": "Hava yolunu açmak\n"
  },
  {
-  "Question": "Yetişkinlerde temel yaşam desteği uygulaması ile ilgili olarak verilenlerden hangisi doğrudur?\n",
-  "A": "Göğüs kemiği 3 cm aşağı inecek şekilde bası yapılması\n",
-  "B": "Temel yaşam desteğine yapay solunum ile başlanması\n",
-  "C": "30 kalp masajı, 2 yapay solunum şeklinde uygulanması\n",
-  "D": "Kalp masajı hızının saatte 100 bası olacak şekilde ayarlanması",
-  "Image": 1,
-  "Explaination": 1,
-  "Answer": "30 kalp masajı, 2 yapay solunum şeklinde uygulanması\n"
- },
- {
   "Question": "Solunum yolu tıkanıklığı yaşayan dört kazazedeye ait belirtiler aşağıdaki tabloda verilmiştir.\n\nTabloya göre bu kazazedelerden hangilerine “Heimlich manevrası” uygulanmalıdır?",
   "A": "I ve II.\n",
   "B": "I ve III.\n",
@@ -198,16 +188,6 @@
   "Image": 1,
   "Explaination": 1,
   "Answer": 1
- },
- {
-  "Question": "Kara yollarında araç kullanan bir sürücünün aşağıdakilerden hangisini yapması yasaktır?\n",
-  "A": "Aksine bir işaret yoksa daralan yol kesimlerinde yüklü araçlara geçiş kolaylığı sağlaması\n",
-  "B": "Kavşaklarda, demir yolu geçitlerinde ve buralara yaklaşırken öndeki aracı geçmesi\n",
-  "C": "Kavşağa geldiğinde varsa kurallara uygun olarak karşıya geçen yayalara geçiş hakkını vermesi\n",
-  "D": "Geçiş üstünlüğü bulunan bir aracın duyulur veya görülür işaretini aldığında, bu araçların kolayca ilerlemelerini sağlamak için taşıt yolu üzerinde yer açması",
-  "Image": 1,
-  "Explaination": 1,
-  "Answer": "Kavşaklarda, demir yolu geçitlerinde ve buralara yaklaşırken öndeki aracı geçmesi\n"
  },
  {
   "Question": "Belgelerinde aksine bir hüküm yoksa şehirler arası bölünmüş kara yolunda tehlikeli madde taşıyan araçların azami hızı saatte kaç kilometredir?\n",
@@ -498,5 +478,27 @@
   "Image": 1,
   "Explaination": 1,
   "Answer": "II ve III.\n"
+ },
+ {
+  "Question": "Animasyonu izleyiniz. Bu durumda nasıl doğru hareket edersiniz?\nI. Hemen şimdi sağ şeride geçiyorum.\nII.Yaklaşık 200 m sonrasında sağ şeride geçerim\nIII.Sağ şeritte ilerleyen araçları sollayabilirim",
+  "A": "Yalnız I",
+  "B": "Yalnız II",
+  "C": "I ve II",
+  "D": "II ve III",
+  "Image": 1,
+  "Explaination": "Sağdan giden yeşil arabaya çarpacağınız için şu anda sağ şeride geçmenize izin verilmiyor. Trafik levhasında yol çalışması işareti var ve 200m mesafe verilmiş. Yaklaşık 200 m sonrasında sağ şeride geçebilirsiniz. Olası bir sıkışmayıda önlersiniz. Burada sollama yapabilirsiniz. Sağ şeritte seyreden araçları sollayıp, yaklaşık 200 metre önlerinde sağ şeride geçmenize izin verilir.",
+  "Answer": "II ve III",
+  "Column9": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/4d\/03\/4a\/4d034aab18fac7ac778fabec8d6011d1.mp4"
+ },
+ {
+  "Question": "Doğru davranış nedir?",
+  "A": "A) Yaya geçidinden bir adam geçmek istediği için dururum",
+  "B": "B) Fark edildiği kadarıyla hiçbir yaya yaya geçidini kullanmak istemediği için, yoluma yavaşça devam ederim",
+  "C": "C) Transport aracının arkasında bir çocuk araç şeridine gireceği için dururum",
+  "D": "D) Yaya geçidinden bir adam geçmek istediğine göre o geçemeden hızlanarak ondan önce geçerim",
+  "Image": 1,
+  "Explaination": "Adam yaya geçidini tamamen geçinceye kadar durmanız ve beklemeniz gerekir.",
+  "Answer": "A) Yaya geçidinden bir adam geçmek istediği için dururum",
+  "Column9": "https:\/\/video4.kalaiwa.de\/assets\/1226007v960.mp4"
  }
 ]
