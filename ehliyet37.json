@@ -7,7 +7,8 @@
   "D": "Kısa, öz ve anlaşılır",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Kısa, öz ve anlaşılır"
+  "Answer": "Kısa, öz ve anlaşılır",
+  "Video": 1
  },
  {
   "Question": "Aşağıdakilerden hangisi, kazazedenin ikinci değerlendirilme aşamalarından olan \"Görüşerek Bilgi Edinme\" basamağında yer alır?\n",
@@ -17,7 +18,8 @@
   "D": "Cilt renginin değerlendirilmesi",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Hoşgörülü ve nazik davranılması\n"
+  "Answer": "Hoşgörülü ve nazik davranılması\n",
+  "Video": 1
  },
  {
   "Question": "\"Ağızdan ağıza\" suni solunum yapılacak olan kazazedede boyun travması yoksa verilecek en doğru pozisyon aşağıdakilerden hangisidir?\n",
@@ -27,7 +29,8 @@
   "D": "Sırtüstü yatar pozisyonda iken çenesinin göğsüne değecek şekilde olması",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Sırtüstü yatar pozisyonda iken başının geriye doğru olması\n"
+  "Answer": "Sırtüstü yatar pozisyonda iken başının geriye doğru olması\n",
+  "Video": 1
  },
  {
   "Question": "Kalp masajı uygulaması, aşağıdaki durumların hangisinde sonlandırılır?\n",
@@ -37,7 +40,8 @@
   "D": "Kazazedenin cildinde kızarıklıklar gözlemlendiğinde",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Kalp çalıştığında\n"
+  "Answer": "Kalp çalıştığında\n",
+  "Video": 1
  },
  {
   "Question": "Aşağıdakilerden hangisi kılcal damar kanamasının özelliğidir?\n",
@@ -47,7 +51,8 @@
   "D": "Yara ağzından kalp atımlarına uyumlu şekilde fışkırarak akması",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Sızıntı biçiminde ve hafif bir kanama olması\n"
+  "Answer": "Sızıntı biçiminde ve hafif bir kanama olması\n",
+  "Video": 1
  },
  {
   "Question": "I.İp, tel gibi kesici malzemelerin kullanılması\n\nII.Uygulamanın yapıldığı saatin bir kâğıda yazılıp kazazedenin üzerine asılması\n\nIII.Uzvun koptuğu bölgeye en yakın ve deri bütünlüğü bozulmamış olan yere uygulanması\n\nVerilenlerden hangileri turnike uygulamasında dikkat edilecek hususlardandır?",
@@ -57,7 +62,8 @@
   "D": "I, II ve III",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "II ve III\n"
+  "Answer": "II ve III\n",
+  "Video": 1
  },
  {
   "Question": "Aşağıdakilerden hangisi, yaralanmalarda uygulanan genel ilk yardım kurallarından biri değildir?\n",
@@ -67,7 +73,8 @@
   "D": "Yaşam bulgularının kontrol edilmesi",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Yara üzerinin pamukla kapatılması\n"
+  "Answer": "Yara üzerinin pamukla kapatılması\n",
+  "Video": 1
  },
  {
   "Question": "Omurga yaralanmalarında geçici veya kalıcı felçlerin oluşmasının nedeni aşağıdakilerden hangisidir?\n",
@@ -77,7 +84,8 @@
   "D": "Kazazedenin hareketsiz hâle getirilmesi",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Omuriliğin baskı altında olması ya da zedelenmesi\n"
+  "Answer": "Omuriliğin baskı altında olması ya da zedelenmesi\n",
+  "Video": 1
  },
  {
   "Question": "Kişinin çevre ile bağlantısının tamamen kesildiği, uyaranlara cevap veremediği derin bilinç kaybına ne denir?\n",
@@ -87,7 +95,8 @@
   "D": "Koma",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Koma"
+  "Answer": "Koma",
+  "Video": 1
  },
  {
   "Question": "I.Eklem yüzeylerinin anlık olarak ayrılmasıdır.\n\nII.Eklem yüzeylerinin kalıcı olarak ayrılmasıdır.\n\nIII.Darbe sonucu kemiğin anatomik bütünlüğünün bozulmasıdır.\n\nBulmaca her kutuya bir harf gelecek şekilde tamamlandığında, III numaralı alana aşağıdakilerden hangisi gelmelidir?",
@@ -97,7 +106,8 @@
   "D": "Donuk",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiQkSR35946tOUnpgEKkoZ9stNUudD3oylg946FWvTsDR_sDZTQ5sGXqiRa0VLITLXqo1YrG2zO7PiV8r_vmHx-MCzi2lG1LhR0mdy5NomrwdJfLDc4xwsGr7l4wzL2Qh1S5zDntQJrPmRYqTd-hTMnKNnX05LZHT_ldgkRucyx2pTgKPW2meTPasbk_6uE\/s1600\/Trafik%20Levhalar%C4%B1%285%29-min.jpg",
   "Explaination": 1,
-  "Answer": "Kırık\n"
+  "Answer": "Kırık\n",
+  "Video": 1
  },
  {
   "Question": "Resimde uygulaması gösterilen ve kazazedenin omuriliğine zarar verilmeden araçtan çıkarılmasında kullanılan tekniğe ne ad verilir?>\n",
@@ -107,7 +117,8 @@
   "D": "Heimlich manevrası",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjCovFyJ2_BvS8SzpxGV4SZsxPHhjjuV9eID22ybUZZ6nlpIN6Q86BB3NGU0egMDdhanemht290cKhPqkvOLvi6DWNp-RJbGiZ5VGkJ_xt1DeZvVv4pxkeiLa970W1JoZvgUhqQigIN5o16xamMcotJ8ddUy7kEW-C6ivnuObeayEt3VxHLdsaOKa1-UAAi\/s1600\/Trafik%20Levhalar%C4%B1%286%29-min.jpg",
   "Explaination": 1,
-  "Answer": "Rentek manevrası\n"
+  "Answer": "Rentek manevrası\n",
+  "Video": 1
  },
  {
   "Question": "Aşağıdakilerden hangisi, kişiye bağlı gelişen trafik kazası nedenlerinden biri değildir?\n",
@@ -117,7 +128,8 @@
   "D": "Olumsuz hava şartları ve yolların bozuk olması",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Olumsuz hava şartları ve yolların bozuk olması"
+  "Answer": "Olumsuz hava şartları ve yolların bozuk olması",
+  "Video": 1
  },
  {
   "Question": "Kara yolu ile demir yolunun aynı seviyede kesiştiği bariyerli veya bariyersiz geçitlere ne ad verilir?\n",
@@ -127,7 +139,8 @@
   "D": "Rampalı geçit",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Hemzemin geçit\n"
+  "Answer": "Hemzemin geçit\n",
+  "Video": 1
  },
  {
   "Question": "Şekildeki trafik görevlisinin duruş pozisyonuna göre, aşağıdakilerden hangisi doğrudur?\n",
@@ -137,7 +150,8 @@
   "D": "Yol bütün yönlerdeki trafiğe açıktır.",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh3TDdr-L2A8_XEki4rnCNzXEtgy_a5aTVI79a6LBUn1n9q1R3X21Rm2dBIv5dmQmw956gr_s3-bW0jDnsuTtntcfIHi4isNEFj7ZoL9ubslDHtfQLoRHVShV6eTk9DYiMOUtF_4D7ycGNR9cFAsxfrmWIcKU9MIBwfmQwgBVh4unwEQKpd92wMOWwPeVZZ\/s1600\/Trafik%20Levhalar%C4%B1%286%29.png",
   "Explaination": 1,
-  "Answer": "Görevlinin sağ ve sol kol istikametinde kalan yollar trafiğe açıktır.\n"
+  "Answer": "Görevlinin sağ ve sol kol istikametinde kalan yollar trafiğe açıktır.\n",
+  "Video": 1
  },
  {
   "Question": "Işıklı trafik işaret cihazında yanan hangi ışık, dur işaret levhası anlamında olup gidilecek yolun açık olduğu görüldükten sonra yeniden hareket edilmesini bildirir?\n",
@@ -147,7 +161,8 @@
   "D": "Kırmızı oklu ışık",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Fasılalı olarak yanıp sönen kırmızı ışık\n"
+  "Answer": "Fasılalı olarak yanıp sönen kırmızı ışık\n",
+  "Video": 1
  },
  {
   "Question": "Şekildeki trafik işaretinin anlamı nedir?\n",
@@ -157,7 +172,8 @@
   "D": "Motorlu taşıt giremez.",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiFhe3Xc1itu0sF9_QkLF07_c7zzaJVfn1ka6Gd6o9qUOj0iRDAiUgTjEVGdoEL6nAFT0dfC4NnMbUe7OcOokhU6BfTWlbv630ZajJIH8woCjrWUFe_9T4YBpRqtMq44K1H84jUsVYxSnhrF6Al1zIIGQmEZGo4itJB6cMbToag_FQWOLk5S2ng27JQG7pC\/s1600\/Trafik%20Levhalar%C4%B1%287%29-min.png",
   "Explaination": 1,
-  "Answer": "Motorlu taşıt giremez."
+  "Answer": "Motorlu taşıt giremez.",
+  "Video": 1
  },
  {
   "Question": "Aşağıdaki trafik işaretlerinden hangisi genişlik anlamında gabari sınırlamasının olduğunu bildirir?\n",
@@ -167,7 +183,8 @@
   "D": "D)",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgGx2yuP_uQusj-4OBcoUbk-celTSRbJnABmPvspWEXCzRyUVfaFQ2p1Hh9erCIxOJUTp6xxINmvFBdJnmObSdwLbO5iyrbYEs3jQ0hafTw7qqCy-xS2-xIhK0LghuI2-G_49yujxLeZnJ1vytFeSvwfC33wokSipfERRT6wqn-afY7nOJol1n3h5DIuxQY\/s1600\/Trafik%20Levhalar%C4%B1%287%29-min.jpg",
   "Explaination": 1,
-  "Answer": "B)"
+  "Answer": "B)",
+  "Video": 1
  },
  {
   "Question": "Şekildeki trafik işaretini gören sürücü ne yapmalıdır?\n",
@@ -177,7 +194,8 @@
   "D": "Yolun kayganlığını kontrol etmeli",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg4HeVyLu8-rf7tKXlOtKxoq6C3W1xjiwtv1r8ucxeKQ2_iWGbptBjGcEdG8tabeLNjEkjN5bnyKil4INBesx7jQNVkSKJdNQu03ILFoVDg9FZlNNOIIcC75dBFT2k8GHX9RldH17f5A-FbJzT7TkJeAUOz4qfbIUbd6Ic9z4OpDK4vSZbpr1FFQHVypXC6\/s1600\/Trafik%20Levhalar%C4%B1%288%29-min.png",
   "Explaination": 1,
-  "Answer": "Hızını azaltmalı\n"
+  "Answer": "Hızını azaltmalı\n",
+  "Video": 1
  },
  {
   "Question": "Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?\n",
@@ -187,7 +205,8 @@
   "D": "Açılan köprüyü",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj3pISZR98Ysq6vuwO8_anS6k7uUdPmGvX2qStyDZQ2IpzdrFL59QACPRUOD8iqdDrFy2WSvkwywnBPPpxZvssv2Oyw5DjScVVv6OE2M7R1WPv-M23MB2CZND9CPB5Gud-1abtjWgHj1FgwSUbwIqAbX16uCC5hRhZKAutHah77388cFYcfHEgM_7e_y5cn\/s1600\/Trafik%20Levhalar%C4%B1%289%29-min.png",
   "Explaination": 1,
-  "Answer": "Sağdan ana yola girişi\n"
+  "Answer": "Sağdan ana yola girişi\n",
+  "Video": 1
  },
  {
   "Question": "Taşıt yolları üzerine çizilen şekildeki yatay işaretlemelerden hangileri yaya geçidini gösterir?\n",
@@ -197,7 +216,8 @@
   "D": "I, II ve III",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgScddGhT-PlbvrL2tdbJt6PunQiJpJPWLU02kP6An5vLA1u0N83J-qjaHmqlcfWafdZW25egaZHeavZGARL35ohd9Bxo-bk7s8DGWD5_qHNlD-p5jqCcQXyq7Ax4PcTKSWATldUeDYaYjoqsKsXTghhPu3cqIbCYSl5yJEgyOGtdNSKAQQxxjTE00RMJ9-\/s1600\/Trafik%20Levhalar%C4%B1%288%29-min.jpg",
   "Explaination": 1,
-  "Answer": "I ve II\n"
+  "Answer": "I ve II\n",
+  "Video": 1
  },
  {
   "Question": "Kanlarındaki alkol miktarı kaç promilin üzerinde olan hususi otomobil sürücülerinin kara yolunda araç sürmesi yasaktır?\n",
@@ -207,7 +227,8 @@
   "D": 0.5,
   "Image": 1,
   "Explaination": 1,
-  "Answer": 0.5
+  "Answer": 0.5,
+  "Video": 1
  },
  {
   "Question": "Aksine bir işaret yoksa aşağıdaki taşıtlardan hangisinin, yerleşim yeri dışındaki kara yollarında \"azami hız sınırı\" diğerlerine göre daha fazladır?\n",
@@ -217,7 +238,8 @@
   "D": "Kamyon",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Otomobil\n"
+  "Answer": "Otomobil\n",
+  "Video": 1
  },
  {
   "Question": "Şekle göre 2 numaralı aracın sürücüsü ne yapmalıdır?\n",
@@ -227,7 +249,8 @@
   "D": "1 numaralı aracı ikaz ederek durdurmalı",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh55Apjkmnt4s6-H0diSv01kZ3H-YWV1V1fQO_xtoGV1Vd3DEgAXQbTa0khduxVbHly2jX47huZxs1HPVd8eYbUwm9ayyQEEYEDh3jehr-ciSQB9xckHL6IC9w0XzoSEN0EXTfpcsJUjf2TPOTMnjB_WLnkJnFc7oJFE2eVH5agQEUEZpxjBebHkkcAv1UV\/s1600\/Trafik%20Levhalar%C4%B1%289%29-min.jpg",
   "Explaination": 1,
-  "Answer": "1 numaralı araca yol vermeli\n"
+  "Answer": "1 numaralı araca yol vermeli\n",
+  "Video": 1
  },
  {
   "Question": "Şekildeki kara yolu bölümünde, yan yana çizilmiş kesik ve devamlı yol çizgileri sürücülere aşağıdakilerden hangisini bildirir?\n",
@@ -237,7 +260,8 @@
   "D": "Devamlı çizgi tarafındaki araçların şerit değiştirebileceğini",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiLKyJUGIyHf3qjSF2SrP6y8wkXIh2Njw233g23xtiEItmpxC48IALBnj3VxsUXhbruog6Fye6Of_KQLh-9SbMf8n9Qi5inmXNb6V5KWnnlZdykZjy9UVdLDq5xoJePetxb-AOohZIPwDmI_DrMyjL9LKeZXGzMhD4M_GvAXh-qO7z8-MCLK3lK2_hW5GEe\/s1600\/Trafik%20Levhalar%C4%B1%2810%29-min.jpg",
   "Explaination": 1,
-  "Answer": "Kesik çizgi tarafındaki araçların şerit değiştirebileceğini\n"
+  "Answer": "Kesik çizgi tarafındaki araçların şerit değiştirebileceğini\n",
+  "Video": 1
  },
  {
   "Question": "Araç sürücüleri, taşıt yolunun dar olduğu yerlerdeki karşılaşmalarda, aksini gösteren bir trafik işareti yoksa aşağıdakilerden hangisine geçiş hakkı vermek suretiyle geçiş kolaylığı sağlamak zorundadır?",
@@ -247,7 +271,8 @@
   "D": "Minibüsü süren lastik tekerlekli traktöre",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Motorsuz aracı süren motorlu araca\n"
+  "Answer": "Motorsuz aracı süren motorlu araca\n",
+  "Video": 1
  },
  {
   "Question": "Yerleşim yeri içinde, trafik işaret levhalarına yaklaşım yönünde kaç metre mesafede duraklamak yasaktır?\n",
@@ -257,7 +282,8 @@
   "D": 30,
   "Image": 1,
   "Explaination": 1,
-  "Answer": 15
+  "Answer": 15,
+  "Video": 1
  },
  {
   "Question": "Şekildeki kavşakta 1 numaralı araç sağa, 2 numaralı araç ise sola dönüş yapmak istemektedir.\n\nBu araçlarla ilgili olarak aşağıdakilerden hangileri doğrudur?\n\nI.Her iki araçta dar kavisle dönmelidir.\n\nII.1 numaralı araç geniş, 2 numaralı araç dar kavisle dönmelidir.\n\nIII.1 numaralı araç dar, 2 numaralı araç geniş kavisle dönmelidir.",
@@ -267,7 +293,8 @@
   "D": "I, II ve III",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjsYb29pFfm2pq9BZ8b05CKgfbV2vrGXbVtzq7l2kOdFA_WZjkBdA7LmZL9gnKcHeJiXh9r_xF8D1nt2mS09fK1Lpz0sKvWQ4A7XrnWOiRkaZfshMhAy3SbmkBktnWvtuXQloBbWnTqwzBVX71JBBstLaO1zXTcGGEPw9NccVIPGFQp1HByiHdD64-p2bJ_\/s1600\/Trafik%20Levhalar%C4%B1%2811%29-min.jpg",
   "Explaination": 1,
-  "Answer": "Yalnız III\n"
+  "Answer": "Yalnız III\n",
+  "Video": 1
  },
  {
   "Question": "Şekildeki gibi dönel kavşağa gelen 1 numaralı aracın sürücüsü ne yapmalıdır?\n",
@@ -277,7 +304,8 @@
   "D": "Geçiş hakkını kendi kullanmalı",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjqlnLM4TSXdah8PGVwNchOuvR4sC-KG02yBVam18GIfuspdxLtMf4DGy3-ltIhxmhXySZ-sVKdAnDI-3EWrHiYwyUILua9kvhkZN_LpLIm_in_cAjAjHImruzlP0tIpwPBV2JlQY6mdxlw0yGNEpB640mc28Rc8ALKTu6KOFoD5IGt3l9Y_qyNqLw6hfl9\/s1600\/Trafik%20Levhalar%C4%B1%2812%29-min.jpg",
   "Explaination": 1,
-  "Answer": "2 numaralı aracın geçmesini beklemeli\n"
+  "Answer": "2 numaralı aracın geçmesini beklemeli\n",
+  "Video": 1
  },
  {
   "Question": "I.İtfaiye araçları\n\nII.Organ ve doku nakil araçları\n\nIII.Afet ve acil durum hâllerinde afet ve acil durum hizmetlerinde görevli bulunan araçlar\n\nIV.Sanık veya suçluları takip eden veya genel güvenlik ve asayiş için olay yerine giden zabıta araçları\n\nVerilen araçların görev hâli durumunda birbirleriyle karşılaşmalarında, geçiş üstünlüğü ile kavşaklarda ilk geçiş hakkı sıralaması nasıl olmalıdır?",
@@ -287,7 +315,8 @@
   "D": "II - III - I - IV",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "II - I - IV - III"
+  "Answer": "II - I - IV - III",
+  "Video": 1
  },
  {
   "Question": "Yerleşim birimleri dışındaki kara yollarında geceleri seyrederken aşağıdaki durumların hangisinde uzağı gösteren ışıkların yakılması mecburidir?\n",
@@ -297,7 +326,8 @@
   "D": "Yeterince aydınlatılmamış tünellere girerken",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Yeterince aydınlatılmamış tünellere girerken"
+  "Answer": "Yeterince aydınlatılmamış tünellere girerken",
+  "Video": 1
  },
  {
   "Question": "2013-2014 yılları itibariyle ülkemizde meydana gelen trafik kazalarındaki kusur oranları tabloda verilmiştir.\n\nBuna göre, aşağıdakilerden hangisi trafik kazalarına en fazla neden olmuştur?",
@@ -307,7 +337,8 @@
   "D": "Araç",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi8CuQe-JKhLongxDK3j4EEhnoCL0CiZAuD2Rm82_OmqtYs7Z64g9uGn9Z_lGDItHjPI4fBWZQKvtbNhVjxuNDwhz20nUhN3Cn9xVjbiEWTI8x4ek0ILkrjXxnDpBJgRcez0XWrkM9_tp04KXl81piToyZKVnHGvQKmqVcAHNw4708-pelLkJV6bunMp15P\/s1600\/Trafik%20Levhalar%C4%B1%2813%29-min.jpg",
   "Explaination": 1,
-  "Answer": "Sürücü\n"
+  "Answer": "Sürücü\n",
+  "Video": 1
  },
  {
   "Question": "I.Araç lastiği seçimi\n\nII.Çevre ve iklim koşulları\n\nIII.Fren sistemi performansı\n\nVerilenlerden hangileri sürüş güvenliğini etkileyen unsurlardandır?",
@@ -317,7 +348,8 @@
   "D": "I, II ve III",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "I, II ve III"
+  "Answer": "I, II ve III",
+  "Video": 1
  },
  {
   "Question": "Haritalarda gösterilen şekildeki işaret, aşağıdakilerden hangisine verilen yol numarasıdır?\n",
@@ -327,7 +359,8 @@
   "D": "Otoyol",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjMybWgEpWjK2wfuvKjulflpvx6ptJSZ6QdqkhcWITUw5qMxwirTYNvBXXnO0ELWXurNIpHwt__vieHesqG5Yg4OvLqYf7ka29rmPquPTk1kiuXkMOr4XuuEX1cwtLZyP6KWz2mPFeU88Qo0PWTT3nVpscvutS95duLNbPt-Yzf5r6n0FijQEdei2_VdoFS\/s1600\/Trafik%20Levhalar%C4%B1%2810%29-min.png",
   "Explaination": 1,
-  "Answer": "Uluslararası yol\n"
+  "Answer": "Uluslararası yol\n",
+  "Video": 1
  },
  {
   "Question": "Çarpışma durumunda otomatik olarak şişerek sürücü ve yolcuların ölüm ve yaralanmalarını azaltan pasif güvenlik sisteminin adı nedir?\n",
@@ -337,7 +370,8 @@
   "D": "Hafızalı koltuk",
   "Image": 1,
   "Explaination": "1+G48",
-  "Answer": "Hava yastığı\n"
+  "Answer": "Hava yastığı\n",
+  "Video": 1
  },
  {
   "Question": "Seyir hâlindeyken, aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanması, fren sisteminde hidrolik seviye düşüşü veya bir arıza olduğunu bildirir?\n",
@@ -347,7 +381,8 @@
   "D": "D)",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgnuhijHYXcVnMuQ7qrb7KlmZmqk9lnISBFHD_KhIWr0GdMXwH6Vc02g8x0K68MkTDTwlE4IUQrwq0pAGPbZhwJ0QUxx-oTLQNcfn7hjpXcwZ1PaUMLkIRexx2hUqDtrudXWIyonfXzL0Z0oTSl6f6lPU96L1EROSsAVpi42u6PxVGU-11Mx58WBREvRjX3\/s1600\/Trafik%20Levhalar%C4%B1%2811%29-min.png",
   "Explaination": 1,
-  "Answer": "A)\n"
+  "Answer": "A)\n",
+  "Video": 1
  },
  {
   "Question": "Aşağıdakilerden hangisinin motor çalışma sıcaklığına ulaşmadan önce yapılması uygun değildir?\n",
@@ -357,7 +392,8 @@
   "D": "Vitesin yumuşak bir şekilde yükseltilmesi",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Ani olarak gaz verilmesi\n"
+  "Answer": "Ani olarak gaz verilmesi\n",
+  "Video": 1
  },
  {
   "Question": "Aşağıdakilerden hangisi motorla vites kutusu arasındaki irtibatı keserek, vites değiştirme imkânı sağlayan güç aktarma organıdır?\n",
@@ -367,7 +403,8 @@
   "D": "Kavrama (Debriyaj)",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Kavrama (Debriyaj)"
+  "Answer": "Kavrama (Debriyaj)",
+  "Video": 1
  },
  {
   "Question": "Radyatör kapağının arızalı olması aşağıdakilerden hangisine neden olabilir?\n",
@@ -377,7 +414,8 @@
   "D": "Bijon somunlarının gevşemesine",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Motorun hararet yapmasına\n"
+  "Answer": "Motorun hararet yapmasına\n",
+  "Video": 1
  },
  {
   "Question": "Araca bağlanan römorkta aşağıdaki ikaz sistemlerinin hangisi çalışır durumda olmalıdır?\n",
@@ -387,7 +425,8 @@
   "D": "Park lambası",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Park lambası"
+  "Answer": "Park lambası",
+  "Video": 1
  },
  {
   "Question": "Motor çalışır durumda iken aracın gösterge panelinde yağ basıncı ikaz ışığı yanıyorsa aşağıdakilerden hangisi yapılır?\n",
@@ -397,7 +436,8 @@
   "D": "Motor rölantide çalıştırılır.",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Motor hemen durdurulur."
+  "Answer": "Motor hemen durdurulur.",
+  "Video": 1
  },
  {
   "Question": "Araçta yakıt tasarrufu sağlamak için aşağıdakilerden hangisi yapılır?\n",
@@ -407,7 +447,8 @@
   "D": "Aracın yükü ve ağırlığı artırılır.",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Lastiklerin hava basıncının normal değerde olmasına dikkat edilir.\n"
+  "Answer": "Lastiklerin hava basıncının normal değerde olmasına dikkat edilir.\n",
+  "Video": 1
  },
  {
   "Question": "Yağmurlu bir günde araç sürerken kaldırımdaki yayalara su sıçratmamaya özen gösterilmesi durumu, trafikte hangi temel değere sahip olunduğuna örnektir?\n",
@@ -417,7 +458,8 @@
   "D": "Konuşma üslubuna",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Nezaket ve saygıya\n"
+  "Answer": "Nezaket ve saygıya\n",
+  "Video": 1
  },
  {
   "Question": "Yayalara, özellikle de yaşlı, çocuk ve engellilere; yeşil ışık süresinde karşıya geçişi tamamlayamadığından dolayı korna çalma ya da el kol hareketleri ile çabuk geçmeye zorlama hâli, trafikte hangi temel değere sahip olunmadığını gösterir?\n",
@@ -427,7 +469,8 @@
   "D": "Aşırı tepki",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Nezaket ve saygıya\n"
+  "Answer": "Nezaket ve saygıya\n",
+  "Video": 1
  },
  {
   "Question": "Trafikte hangi temel değere sahip olan sürücü, aracını park ettiği yerin diğer yol kullanıcıları açısından görme-görülme ya da manevra engeli oluşturup oluşturmadığına dikkat eder?\n",
@@ -437,7 +480,8 @@
   "D": "Empati düzeyi yüksek",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Empati düzeyi yüksek"
+  "Answer": "Empati düzeyi yüksek",
+  "Video": 1
  },
  {
   "Question": "Trafik kazası geçiren kişiler;\n\nI.Canlarına bir zarar gelmese bile psikolojik olarak zarar görürler.\n\nII.Kişilerin bu bozuk psikolojileri ailelerine ve topluma olumlu yansır.\n\nVerilenler için aşağıdakilerden hangisi söylenebilir?",
@@ -447,7 +491,8 @@
   "D": "Her ikisi de yanlış\n",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "I. doğru, II. yanlış\n"
+  "Answer": "I. doğru, II. yanlış\n",
+  "Video": 1
  },
  {
   "Question": "Görsele göre, Adana istikametine gitmek isteyen 1 numaralı araç sürücüsü hakkında hangisi söylenemez?",
@@ -458,7 +503,7 @@
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj4HoLnDHYOXC28FGiJcfTVfoNIb6zkA9kOs-vkwMxQ1SLih07pS3sPC-7AIOhOPC10KcjbOrF-xr4YxkshrCSRdasGne5SocBmXgT-Oa6qCxT5I9ZGTBzWraRLdQ2otXasYmqCQxojGYzk4a_9McS8LjzuoO12MtnqJ9wFMvGjtdWDwHMqEGOU3Snjagdr\/s1600\/Trafik%20Levhalar%C4%B1%20%281%29.jpg",
   "Explaination": 1,
   "Answer": "C) Kamyon sürücüsünü zor durumda bırakmadığı",
-  "Column9": 1
+  "Video": 1
  },
  {
   "Question": "Animasyona göre hangisinin yapılması yanlıştır?",
@@ -469,7 +514,7 @@
   "Image": 1,
   "Explaination": 1,
   "Answer": "C) Takip mesafesini azaltması",
-  "Column9": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/c3\/60\/d2\/c360d247c4b2923531f7c09917aeab0b.mp4"
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/c3\/60\/d2\/c360d247c4b2923531f7c09917aeab0b.mp4"
  },
  {
   "Question": "Görsele göre neyi düşünürsünüz?",
@@ -480,7 +525,7 @@
   "Image": 1,
   "Explaination": 1,
   "Answer": "A) Sadece yolcu indirip bindirilirken kısa süreli duraklanabilir",
-  "Column9": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/4b\/6e\/85\/4b6e85a56d8ef9e01242e5d7225886bc.mp4"
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/4b\/6e\/85\/4b6e85a56d8ef9e01242e5d7225886bc.mp4"
  },
  {
   "Question": "Görselde karşıya geçmeye çalışan yayanın hızlı hareket etmesi için el, kol ve sözle uyarılarda bulunan sürücüyle ilgili hangisi söylenebilir?",
@@ -491,7 +536,7 @@
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjx5rDSAcqh7YGd_72j1clwC1X9LYhSfJyrl1OC2CKWaqsimlXDMavhwNosedyLifC-_rVBDl3kf-ZPSTRJLohqhphXyASOw0mLPhPkGrvJ199RHYblZsmeXWdRPPhlmpeIqtWiFcFphhnR-_3qdGXMNuSXHcN-vGvQETVVBnYs85bvtHPWskBsJb7heVOB\/s1600\/vlcsnap-2024-05-30-10h35m44s435.png",
   "Explaination": 1,
   "Answer": "C) Sabırlı harelet edemediği",
-  "Column9": 1
+  "Video": 1
  },
  {
   "Question": "Hangisi yanlıştır?\nI. Trafik kurallarına uyulmuştur\nII. Sürücüler geçiş önceliği konusunda bilgilidir\nIII. Sürücüler hız sınırını aşmıştır",
@@ -502,6 +547,6 @@
   "Image": 1,
   "Explaination": 1,
   "Answer": "I,II ve III",
-  "Column9": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/4c\/ee\/5b\/4cee5b26e2133223689357b0fe4c0446.mp4"
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/4c\/ee\/5b\/4cee5b26e2133223689357b0fe4c0446.mp4"
  }
 ]
