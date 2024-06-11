@@ -1,5 +1,4 @@
-﻿{
-    "Sheet1": [
+[
         {
             "Question": "Aşağıdaki kanama türlerinden hangisinde, kan kaybı diğerlerine nazaran fazla olduğu için daha kısa sürede hayati tehlike meydana gelir?\r\n",
             "A": "A) Burun kanamaları",
@@ -548,4 +547,3 @@
             "Video": "https://v1.pinimg.com/videos/mc/expMp4/c7/1e/b8/c71eb80e81b7640db1c785e6bb8c019a_t1.mp4"
         }
     ]
-}
