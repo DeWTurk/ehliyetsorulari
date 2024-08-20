@@ -1,5 +1,4 @@
-{
-"Sheet1":[
+[
  {
   "Question": "Hangi davranışınız doğrudur?\nI. Tramvayın geçmesine izin vermeliyim\nII. Motosikletin geçmesine izin vermeliyim\nIII. Tramvay önce benim dönmeme izin vermeli",
   "A": "A) Yalnız I",
@@ -56,4 +55,3 @@
   "Video": 1
  }
 ]
-}
