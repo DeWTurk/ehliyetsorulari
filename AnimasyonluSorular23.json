@@ -1,5 +1,4 @@
-{
-"Sheet1":[
+[
  {
   "Question": "Görseldeki sürücü trafik işaretini farketmeden yoluna devam ederse numaralanmış ifadelerden hangilerinin olma ihtimali vardır?\n\nI.Yükün hasar görmesi\nII.Direksiyon hakimiyetinin kaybolması\nIII.Araç aksının kırılması veya amortisörlerin arızalanması",
   "A": "A) I ve II",
@@ -56,4 +55,3 @@
   "Video": 1
  }
 ]
-}
