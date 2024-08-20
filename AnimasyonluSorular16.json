@@ -1,5 +1,4 @@
-{
-"Sheet1":[
+[
  {
   "Question": "Şiddetli yağmurdan sonra sürüş yapıyorsunuz. Bu durumda hangi durumları olası yaşayabilirsiniz?\n\nI. Yol yüzeyindeki tümsekleri farketmekte güçlük çekebilirim\nII. Önümdeki araçla aramda uzun bir güvenlik mesafesi bırakmalıyım\nIII. Sıçrayan su görüşümü olumsuz etkileyebilir.",
   "A": "A) Yalnız I",
@@ -56,4 +55,3 @@
   "Video": 1
  }
 ]
-}
