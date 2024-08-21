@@ -1,5 +1,4 @@
-{
-"Sheet1":[
+[
  {
   "Question": "Görsele göre hangileri doğrudur?\nI.Sarı otomobil kavşağı boşaltmak zorundadır\nII.Hemen şimdi dönebilirim\nIII.Yola devam etmeye hazırlanmak zorundayım",
   "A": "Yalnız I",
@@ -56,4 +55,3 @@
   "Video": 1
  }
 ]
-}
