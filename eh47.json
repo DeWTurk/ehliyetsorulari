@@ -247,10 +247,10 @@
             "B": "B) Dönüş yapan sürücülerin, doğru geçmekte olan araçlara yol vermesi",
             "C": "C) Bütün sürücülerin geçiş üstünlüğüne sahip araçlara yol vermesi",
             "D": "D) Motorlu araçlardan sağdakinin, soldan gelen araca yol vermesi",
-            "Image": "1",
-            "Explaination": "1",
+            "Image": 1,
+            "Explaination": 1,
             "Answer": "D) Motorlu araçlardan sağdakinin, soldan gelen araca yol vermesi",
-            "Video": "1"
+            "Video": 1
         },
         {
             "Question": "Ticari amaçla şehirler arası yolda yük ve yolcu taşımacılığı yapan şoförlerin 4,5 saat devamlı araç kullandıktan sonra en az kaç dakika dinlenmeleri gerekir?\r\n",
@@ -258,10 +258,10 @@
             "B": "B) 25",
             "C": "C) 35",
             "D": "D) 45",
-            "Image": "1",
+            "Image": 1,
             "Explaination": "1",
             "Answer": "D) 45",
-            "Video": "1"
+            "Video": 1
         },
         {
             "Question": "Şekildeki gibi eğimsiz iki yönlü dar yoldaki karşılaşmada 2 numaralı aracın sürücüsü ne yapmalıdır?\r\n",
@@ -451,13 +451,16 @@
             "Video": 1
         },
         {
-            "Question": "Hangi davranışınız doğrudur?",
-            "A": "I.Bisikletliden önce sapabilirim",
-            "B": "II.Bisikletlinin geçmesine izin vermek zorundayım",
-            "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh81o6QzMMd3vjlxOiNtSU19aHY_KeovCKScmcLysFUOPRIsTXQR4dq4AeEitGC7JWlXRwKhOdApYLn9z1y9dHt2uNu5nLFxFD2HXprww5AsqODndVJvNcP-ZJs-QuV0ScUtwjYGjTz4om8R31qS7dN4cUq5mwz5JiCR2j-2cwhT1aH9pF2hS-GAyQkyKve/s1600/1209121.jpg",
+            "Question": "Sağlıklı yetişkin bir kişinin dakikadaki solunum sayısı kaçtır?\n",
+            "A": "10 - 18\n",
+            "B": "12 - 20\n",
+            "C": "14 - 22\n",
+            "D": "16 - 24",
+            "Image": 1,
             "Explaination": 1,
+            "Answer": "12 - 20\n",
             "Video": 1
-        },
+           },
         {
             "Question": "Hangi davranışınız doğrudur?\r\n\r\nI.Bisikletlinin geçmesine izin vermek zorundayım\r\nII.Durma çizgisinde durmalıyım\r\nIII.Bisikletliden önce sapabilirim",
             "A": "I ve II",
