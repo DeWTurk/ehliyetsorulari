@@ -2,67 +2,67 @@
  {
   "Question": "Trafik içinde sorumluluk, yardımlaşma, tahammül, saygı, fedakârlık, sabır vb. değerlere sahip olabilme yetisidir.\n\nBu cümlede tanımı yapılan kavram, aşağıdakilerden hangisidir?\n",
   "A": "Mizaç",
-  "B": "Beden dili\n",
-  "C": "Trafik adabı\n",
+  "B": "Beden dili",
+  "C": "Trafik adabı",
   "D": "Konuşma üslubu",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Trafik adabı\n"
+  "Answer": "Trafik adabı"
  },
  {
   "Question": "Sürücü, trafik içinde yapacağı bir kural ihlalinde kendisinin ya da sevdiklerinin canını tehlikeye attığının farkında olmalıdır.\n\nBu farkındalığı kazanmak için yapılması gereken aşağıdakilerden hangisidir?",
-  "A": "Trafikteki her kuralın altında yatan güvenlik gerekçelerinin sorgulanıp öğrenilmesi\n",
-  "B": "Kural ihlalinin sonucunda sadece maddi ceza olduğunun düşünülmesi\n",
-  "C": "Karşılıklı saygının öncelikle başkalarından beklenmesi\n",
+  "A": "Trafikteki her kuralın altında yatan güvenlik gerekçelerinin sorgulanıp öğrenilmesi",
+  "B": "Kural ihlalinin sonucunda sadece maddi ceza olduğunun düşünülmesi",
+  "C": "Karşılıklı saygının öncelikle başkalarından beklenmesi",
   "D": "Kızgın ve yarışmacı motivasyon ile araç kullanılması",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Trafikteki her kuralın altında yatan güvenlik gerekçelerinin sorgulanıp öğrenilmesi\n"
+  "Answer": "Trafikteki her kuralın altında yatan güvenlik gerekçelerinin sorgulanıp öğrenilmesi"
  },
  {
   "Question": "Sürücünün trafik ortamında yaptığı davranışlardan hangisi, diğer sürücülerin dikkatinin dağılmasına ya da paniğe kapılmalarına sebep olabilir?\n",
-  "A": "Davranışlarının sonuçlarını düşünerek hareket etmesi\n",
-  "B": "Sürekli şerit değiştirerek (slalom yaparak) araç kullanması\n",
-  "C": "Aracını kullanırken trafik kurallarının bilincinde olması\n",
+  "A": "Davranışlarının sonuçlarını düşünerek hareket etmesi",
+  "B": "Sürekli şerit değiştirerek (slalom yaparak) araç kullanması",
+  "C": "Aracını kullanırken trafik kurallarının bilincinde olması",
   "D": "Trafik içindeki davranışlarının sorumluluğunu üstlenerek araç kullanması",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Sürekli şerit değiştirerek (slalom yaparak) araç kullanması\n"
+  "Answer": "Sürekli şerit değiştirerek (slalom yaparak) araç kullanması"
  },
  {
   "Question": "Ters yönden gelen bir sürücüye “Bu sokak tek yönlü, herhalde siz girişteki levhayı görmediniz, lütfen daha dikkatli olun.” diyen bir sürücü, trafikte aşağıdaki değerlerden hangisine uygun davranmıştır?\n",
-  "A": "İnatlaşmaya\n",
-  "B": "Aşırı tepki göstermeye\n",
-  "C": "Kaba ve saldırgan davranmaya\n",
+  "A": "İnatlaşmaya",
+  "B": "Aşırı tepki göstermeye",
+  "C": "Kaba ve saldırgan davranmaya",
   "D": "Trafik kültüründe birbirini uyarmaya",
   "Image": 1,
   "Explaination": 1
  },
  {
   "Question": "Geçilmekte olan araç sürücüsünün yavaşlayıp geçme yapan araca kolaylık sağlaması durumu, trafikte aşağıdaki değerlerden hangisiyle ifade edilir?\n",
-  "A": "Bencillik\n",
+  "A": "Bencillik",
   "B": "İnatlaşmak",
-  "C": "Diğergamlık\n",
+  "C": "Diğergamlık",
   "D": "Sorumsuzluk",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Diğergamlık\n"
+  "Answer": "Diğergamlık"
  },
  {
   "Question": "Aşağıdakilerden hangisinin trafikte öfke duygusuna kapılan sürücülerde görülme olasılığı diğer sürücülere göre daha fazladır?\n",
-  "A": "Dikkatin dağılması\n",
-  "B": "Kural ihlallerinin azalması\n",
-  "C": "Direksiyon hâkimiyetinin artması\n",
+  "A": "Dikkatin dağılması",
+  "B": "Kural ihlallerinin azalması",
+  "C": "Direksiyon hâkimiyetinin artması",
   "D": "Kazaya karışma olasılığının azalması",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Dikkatin dağılması\n"
+  "Answer": "Dikkatin dağılması"
  },
  {
   "Question": "I.Orta refüjlere ve yol kenarlarına dikilen ağaçların zarar görmesi\n\nII.Köprü ve tünel gibi noktalarda yaşanan kazalarda ulaşımın aksaması\n\nIII. Trafo ve elektrik direğine çarpma gibi durumlarda kesintilerin yaşanması\n\nIV.Yakıt, kimyasal madde, tıbbi atık vs. yüklü araçların yaptığı kazalar neticesinde büyük ekolojik zararların görülmesi\n\nYukarıdakilerden hangileri kara yolunda meydana gelen trafik kazalarının kişiye, topluma, kamuya ve çevreye verdiği zararlardandır?",
-  "A": "I ve II.\n",
-  "B": "I, III ve IV.\n",
-  "C": "II, III ve IV.\n",
+  "A": "I ve II.",
+  "B": "I, III ve IV.",
+  "C": "II, III ve IV.",
   "D": "I, II, III ve IV.",
   "Image": 1,
   "Explaination": 1,
@@ -70,38 +70,38 @@
  },
  {
   "Question": "Aşağıdaki davranışlardan hangisi trafik adabına sahip bir sürücü için uygundur?\n",
-  "A": "Trafik polisi yoksa kırmızı ışıkta geçmek\n",
-  "B": "Sürekli şerit değiştirerek araç kullanmak\n",
-  "C": "Denetim korkusu olmadan emniyet kemerini takmak\n",
+  "A": "Trafik polisi yoksa kırmızı ışıkta geçmek",
+  "B": "Sürekli şerit değiştirerek araç kullanmak",
+  "C": "Denetim korkusu olmadan emniyet kemerini takmak",
   "D": "Elektronik denetleme sisteminin olmadığı yerlerde hız limitlerini aşmak",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Denetim korkusu olmadan emniyet kemerini takmak\n"
+  "Answer": "Denetim korkusu olmadan emniyet kemerini takmak"
  },
  {
   "Question": "Aşağıdaki temel değerlerden hangisini içselleştirmiş bir sürücü, trafikte kendinden çok başkalarını düşünür ve başkalarının iyiliği için fedakârlık yapar?\n",
   "A": "Bencillik",
-  "B": "Diğergamlık\n",
-  "C": "Nezaketsizlik\n",
+  "B": "Diğergamlık",
+  "C": "Nezaketsizlik",
   "D": "Hoşgörüsüzlük",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Diğergamlık\n"
+  "Answer": "Diğergamlık"
  },
  {
   "Question": "Sürücüler, beden dilini ve konuşma üslubunu da dikkate alarak trafik adabı açısından başarılı iletişim kurma becerilerini geliştirmek için aşağıdakilerden hangisini yapmalıdır?\n",
-  "A": "İnsanların değişebildiğine inanmalıdır.\n",
-  "B": "Dinlerken aynı zamanda değerlendirme eğiliminde olmalıdır.\n",
-  "C": "Karşısındakinin kişiliğini sevmediğinde zihnini ona kapatmalıdır.\n",
-  "D": "Tek bir olayın, birini anlamak için yeterli bir örnek olduğunu düşünmelidir.\n",
+  "A": "İnsanların değişebildiğine inanmalıdır.",
+  "B": "Dinlerken aynı zamanda değerlendirme eğiliminde olmalıdır.",
+  "C": "Karşısındakinin kişiliğini sevmediğinde zihnini ona kapatmalıdır.",
+  "D": "Tek bir olayın, birini anlamak için yeterli bir örnek olduğunu düşünmelidir.",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "İnsanların değişebildiğine inanmalıdır.\n"
+  "Answer": "İnsanların değişebildiğine inanmalıdır."
  },
  {
   "Question": "\"- - - - ; trafik içinde sorumluluk, yardımlaşma, tahammül, saygı, fedakârlık, sabır vb. değerlere sahip olabilme yetisidir.\n\nVerilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
-  "A": "Beden dili\n",
-  "B": "Konuşma üslubu\n",
+  "A": "Beden dili",
+  "B": "Konuşma üslubu",
   "C": "Konuşma üslubu",
   "D": "Trafikte hak ihlali",
   "Image": 1,
@@ -110,39 +110,39 @@
  },
  {
   "Question": "I.Geçiş üstünlüğüne sahip araçlara yol vermek\n\nII.Aşırı hız yaparak diğer sürücülerin dikkatlerini dağıtmak\n\nIII.Engeli olmadığı hâlde engelli kişiler için ayrılmış yerlere park etmek\n\nYukarıdakilerden hangileri trafikte bireye yapılan hak ihlallerindendir?",
-  "A": "Yalnız I\n",
-  "B": "I ve II.\n",
-  "C": "II ve III.\n",
+  "A": "Yalnız I",
+  "B": "I ve II.",
+  "C": "II ve III.",
   "D": "I, II ve III.",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "II ve III.\n"
+  "Answer": "II ve III."
  },
  {
   "Question": "I.Hoşgörülü olunması\n\nII.Bencillikten uzak durulması\n\nIII.Olaylara aşırı tepki gösterilmesi\n\nTrafik ortamını paylaşanlarda, yukarıda verilen tutum ve davranışlardan hangilerinin bulunması hâlinde trafik düzeni ve güvenliği olumlu yönde etkilenir?",
-  "A": "Yalnız I.\n",
-  "B": "I ve II.\n",
-  "C": "II ve III.\n",
+  "A": "Yalnız I.",
+  "B": "I ve II.",
+  "C": "II ve III.",
   "D": "I, II ve III.",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "I ve II.\n"
+  "Answer": "I ve II."
  },
  {
   "Question": "I.Trafikteki bütün kuralların nedenini öğrenir.\n\nII.Araç kullanırken yapacağı bir kural\n\nihlalinin sonucunda sadece maddi ceza olduğunu düşünür.\n\nIII.Trafik içinde yapacağı bir kural ihlalinde, kendisinin ya da sevdiklerinin canını tehlikeye attığının farkında değildir.\n\nYukarıdakilerden hangileri trafik adabına sahip olan bir sürücü için söylenebilir?",
-  "A": "Yalnız I.\n",
-  "B": "I ve II.\n",
-  "C": "II ve III.\n",
+  "A": "Yalnız I.",
+  "B": "I ve II.",
+  "C": "II ve III.",
   "D": "I, II ve III.",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Yalnız I.\n"
+  "Answer": "Yalnız I."
  },
  {
   "Question": "Aşağıdaki değerlerden hangisine sahip olan sürücü, yoğun trafikte bir dizi hâlinde gitmekte olan diğer sürücülerin önlerine geçip trafiği daha da sıkışık hâle getirerek yoluna devam etmez\n",
-  "A": "Bencil\n",
-  "B": "Sorumsuz\n",
-  "C": "Görgü seviyesi düşük\n",
+  "A": "Bencil",
+  "B": "Sorumsuz",
+  "C": "Görgü seviyesi düşük",
   "D": "Empati düzeyi yüksek",
   "Image": 1,
   "Explaination": 1,
@@ -150,19 +150,19 @@
  },
  {
   "Question": "Seyir hâlindeki sürücünün, yaptığı bir hatadan dolayı eliyle veya yüz ifadesiyle diğer sürücülerden özür dilemesi trafikte aşağıdakilerden hangisinin kullanıldığına örnek olur?\n",
-  "A": "Beden dilinin\n",
-  "B": "Bencilliğin\n",
-  "C": "İnatlaşmanın\n",
+  "A": "Beden dilinin",
+  "B": "Bencilliğin",
+  "C": "İnatlaşmanın",
   "D": "Tahammülsüzlüğün",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Beden dilinin\n"
+  "Answer": "Beden dilinin"
  },
  {
   "Question": "Aşağıdakilerden hangisi trafikte bireye yapılan hak ihlallerindendir?\n",
-  "A": "Aşırı hız yapmaktan kaçınılması\n",
-  "B": "Geçiş önceliğine sahip araçlara yol verilmesi\n",
-  "C": "Trafikte sürücülerin tek başına olmadığının düşünülmesi\n",
+  "A": "Aşırı hız yapmaktan kaçınılması",
+  "B": "Geçiş önceliğine sahip araçlara yol verilmesi",
+  "C": "Trafikte sürücülerin tek başına olmadığının düşünülmesi",
   "D": "Engeli olmadığı hâlde engelli kişiler için ayrılmış yerlere park edilmesi",
   "Image": 1,
   "Explaination": 1,
@@ -170,9 +170,9 @@
  },
  {
   "Question": "Aşağıdakilerden hangisi sorumluluk duygusuna sahip bir sürücünün özelliklerindendir?\n",
-  "A": "Trafik kurallarını önemsemeden araç kullanması\n",
+  "A": "Trafik kurallarını önemsemeden araç kullanması",
   "B": "Davranışlarının sonuçlarını düşünerek hareket etmesi",
-  "C": "Sevdiklerinin hayatını tehlikeye atmaktan çekinmemesi\n",
+  "C": "Sevdiklerinin hayatını tehlikeye atmaktan çekinmemesi",
   "D": "Kendi yetki alanına giren herhangi bir olayı başkalarının üstlenmesini beklemesi",
   "Image": 1,
   "Explaination": 1,
@@ -180,9 +180,9 @@
  },
  {
   "Question": "Birlikte yaşadığımız trafik ortamında, kişinin belki de farkında bile olmadan yaptığı olumsuz bir davranış hiçbir suçu olmayan bir başka kişinin ölümüne, yaralanmasına ya da ömür boyu sakat kalmasına neden olabilir.\n\nBuna göre trafik içinde hatalı davranış sergileyen bir sürücüye hangisinin yapılması, hem o sürücünün hem de trafikteki diğer sürücülerin kaza yapma ya da olumsuz bir durum oluşturma riskini azaltır?",
-  "A": "Aşırı tepki gösterilmesi\n",
-  "B": "Kaba ve saldırgan davranılması\n",
-  "C": "Kızgın biçimde kornaya basılması\n",
+  "A": "Aşırı tepki gösterilmesi",
+  "B": "Kaba ve saldırgan davranılması",
+  "C": "Kızgın biçimde kornaya basılması",
   "D": "Nezaket ve saygı çerçevesinde uyarılması",
   "Image": 1,
   "Explaination": 1,
@@ -190,39 +190,39 @@
  },
  {
   "Question": "Aracını park ettikten sonra durduğu yerin diğer yol kullanıcıları açısından görme-görülme ya da manevra engeli oluşturup oluşturmadığını kontrol eden bir sürücünün bu davranışı trafikteki hangi değere uygundur?\n",
-  "A": "Empati\n",
-  "B": "Tahammül\n",
-  "C": "Beden dili\n",
+  "A": "Empati",
+  "B": "Tahammül",
+  "C": "Beden dili",
   "D": "Konuşma üslubu",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Empati\n"
+  "Answer": "Empati"
  },
  {
   "Question": "Aşağıdakilerden hangisi öfkenin vücutta ortaya çıkardığı fizyolojik tepkilerden biri değildir?\n",
-  "A": "Yüzün kızarması\n",
-  "B": "Kaşların çatılması\n",
-  "C": "Yumrukların sıkılması\n",
-  "D": "Kontrollü davranılması\n",
+  "A": "Yüzün kızarması",
+  "B": "Kaşların çatılması",
+  "C": "Yumrukların sıkılması",
+  "D": "Kontrollü davranılması",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Kontrollü davranılması\n"
+  "Answer": "Kontrollü davranılması"
  },
  {
   "Question": "\"- Trafikte temel değerleri içselleştirerek doğru davranış göstermek\n\n- Trafikte karşılaşılan sorunları doğru yöntemlerle çözmek\n\n- Sağlıklı ve güvenli bir trafik ortamı oluşmasına katkı sağlamak\n\nVerilenler aşağıdakilerden hangisinin amacını oluşturur?\n",
   "A": "Mizacın",
-  "B": "Beden dilinin\n",
-  "C": "Trafik adabının\n",
+  "B": "Beden dilinin",
+  "C": "Trafik adabının",
   "D": "Konuşma üslubunun",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Trafik adabının\n"
+  "Answer": "Trafik adabının"
  },
  {
   "Question": "Trafik denetim görevlileriyle iletişim kuran sürücünün, trafik adabı açısından özen göstermesi gereken davranış şekli aşağıdakilerden hangisidir?\n",
-  "A": "Karşısındaki kişiyi suçlaması\n",
-  "B": "Empati kurmaktan kaçınması\n",
-  "C": "Karşısındaki kişiye saygı duyması\n",
+  "A": "Karşısındaki kişiyi suçlaması",
+  "B": "Empati kurmaktan kaçınması",
+  "C": "Karşısındaki kişiye saygı duyması",
   "D": "Karşısındaki kişiyi dinlemekten kaçınması",
   "Image": 1,
   "Explaination": 1,
@@ -231,81 +231,81 @@
  {
   "Question": "Hangi özelliğe sahip olmayan sürücünün sabırsız, öfkeli, yorgun, stresli ve iletişim becerileri eksik bir kişi olma ihtimali daha fazladır?\n",
   "A": "Bencil",
-  "B": "Hoşgörülü\n",
-  "C": "Aşırı tepki gösteren\n",
+  "B": "Hoşgörülü",
+  "C": "Aşırı tepki gösteren",
   "D": "Görgüsüzce davranan",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Hoşgörülü\n"
+  "Answer": "Hoşgörülü"
  },
  {
   "Question": "Aşağıdakilerden hangisi, trafik kazalarının ülke ekonomisine verdiği zararlardan biri değildir?\n",
-  "A": "Trafik işaretlerinin hasar görmesi\n",
-  "B": "Kara yollarının zamanından önce yıpranması\n",
-  "C": "Trafik suçlarına uygulanan cezaların artırılması\n",
+  "A": "Trafik işaretlerinin hasar görmesi",
+  "B": "Kara yollarının zamanından önce yıpranması",
+  "C": "Trafik suçlarına uygulanan cezaların artırılması",
   "D": "Yol kenarındaki oto korkuluklarının tahrip olması",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Trafik suçlarına uygulanan cezaların artırılması\n"
+  "Answer": "Trafik suçlarına uygulanan cezaların artırılması"
  },
  {
   "Question": "I.Kural ihlallerine\n\nII.Tehlikeli davranışlara\n\nIII.Güvenli sürücülük yeteneklerini olumlu yönde etkilemeye\n\nTrafikte yaşanan öfke duygusu, verilenlerden hangilerine yol açabilmektedir?",
-  "A": "I ve II\n",
-  "B": "I ve III\n",
-  "C": "II ve III\n",
+  "A": "I ve II",
+  "B": "I ve III",
+  "C": "II ve III",
   "D": "I, II ve III",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "I ve II\n"
+  "Answer": "I ve II"
  },
  {
   "Question": "Aşağıdakilerden hangisi, araç kullanırken öfke duygusuna kapılan bir sürücünün kendisini sakinleştirmek için uygulaması gereken yöntemlerden biri değildir?\n",
-  "A": "Trafik ortamında gerilimli durumların olabileceğini kabul etmesi\n",
-  "B": "Karşılaşılan durumla ilgili negatif çözümler üretmesi\n",
-  "C": "Radyo veya müzik açması\n",
+  "A": "Trafik ortamında gerilimli durumların olabileceğini kabul etmesi",
+  "B": "Karşılaşılan durumla ilgili negatif çözümler üretmesi",
+  "C": "Radyo veya müzik açması",
   "D": "Derin nefes alması",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Karşılaşılan durumla ilgili negatif çözümler üretmesi\n"
+  "Answer": "Karşılaşılan durumla ilgili negatif çözümler üretmesi"
  },
  {
   "Question": "Yağmurlu bir günde araç sürerken kaldırımdaki yayalara su sıçratmamaya özen gösterilmesi durumu, trafikte hangi temel değere sahip olunduğuna örnektir?\n",
-  "A": "İnatlaşmaya\n",
-  "B": "Yardımlaşmaya\n",
-  "C": "Nezaket ve saygıya\n",
+  "A": "İnatlaşmaya",
+  "B": "Yardımlaşmaya",
+  "C": "Nezaket ve saygıya",
   "D": "Konuşma üslubuna",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Nezaket ve saygıya\n"
+  "Answer": "Nezaket ve saygıya"
  },
  {
   "Question": "Aşağıdakilerden hangisi, öfkeyi başarılı bir şekilde yönetmek için önerilen davranışlardan biri değildir?\n",
-  "A": "İletişim becerilerinin geliştirilmesi\n",
-  "B": "Alaycı ve aşağılayıcı mizaha başvurulması\n",
-  "C": "Düşünme tarzının yeniden yapılandırılması\n",
+  "A": "İletişim becerilerinin geliştirilmesi",
+  "B": "Alaycı ve aşağılayıcı mizaha başvurulması",
+  "C": "Düşünme tarzının yeniden yapılandırılması",
   "D": "Nefes egzersizlerinin öğrenilip uygulanması",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Alaycı ve aşağılayıcı mizaha başvurulması\n"
+  "Answer": "Alaycı ve aşağılayıcı mizaha başvurulması"
  },
  {
   "Question": "Sürücünün aracını hareket ettirmesiyle birlikte trafikteki diğer yol kullanıcıları ile iletişimi başlar ve aracını park edinceye kadar da bu iletişim sürer.\n\nBuna göre, aşağıdakilerden hangisi trafikte olumlu yönde iletişim kurma becerisine örnektir?",
-  "A": "Korkutmak veya şaşırtmak\n",
-  "B": "Su, çamur ve benzerlerini sıçratmak\n",
-  "C": "Sola ya da sağa dönüş yapmadan önce sinyal vermek\n",
+  "A": "Korkutmak veya şaşırtmak",
+  "B": "Su, çamur ve benzerlerini sıçratmak",
+  "C": "Sola ya da sağa dönüş yapmadan önce sinyal vermek",
   "D": "Sigara külü ve izmaritlerini veya başka şeyleri yola atıp dökmek",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "Sola ya da sağa dönüş yapmadan önce sinyal vermek\n"
+  "Answer": "Sola ya da sağa dönüş yapmadan önce sinyal vermek"
  },
  {
   "Question": "I.Dikkatin dağılması\n\nII.Kural ihlallerinin artması\n\nIII.Sabırsızlık ve tahammülsüzlüğün azalması\n\nVerilenlerden hangilerinin, trafikte öfke duygusuna kapılan sürücülerde görülme olasılığı diğer sürücülere göre daha fazladır?",
-  "A": "Yalnız I\n",
-  "B": "I ve II\n",
-  "C": "II ve III\n",
-  "D": "I, II ve III\n",
+  "A": "Yalnız I",
+  "B": "I ve II",
+  "C": "II ve III",
+  "D": "I, II ve III",
   "Image": 1,
   "Explaination": 1,
-  "Answer": "I ve II\n"
+  "Answer": "I ve II"
  }
 ]
