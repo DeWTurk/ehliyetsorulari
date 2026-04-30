@@ -6,7 +6,7 @@
   "C": "C) Kaza yerinin açık ve net adresi",
   "D": "D) Kazanın oluş şekli ve yol durumu",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Acil durum çağrılarında (112) ambulansın ve kurtarma ekiplerinin olay yerine vakit kaybetmeden ulaşabilmesi hayati önem taşır. Bu nedenle, ilk olarak 'Kaza yerinin açık ve net adresi' (C) bildirilmelidir. Hastaların durumu veya kazanın şekli adres verildikten sonra anlatılır.",
   "Answer": "C) Kaza yerinin açık ve net adresi",
   "Video": 1
  },
@@ -17,7 +17,7 @@
   "C": "C) Ayak bileklerinden sürükleme yöntemi",
   "D": "D) Koltuk altından tutarak sürükleme yöntemi",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Hastanın araç içerisinde kalbi durmuşsa veya araçta yangın/patlama riski varsa; boyun ve omurga eksenini bozmadan (felç etmeden) araçtan hızlıca dışarı çıkarma tekniğine 'Rentek Manevrası' (A) denir.\n\n💡 Sınav Taktiği: 'Araç içinden çıkarma' ifadesini görürseniz cevap her zaman Rentek Manevrası'dır.",
   "Answer": "A) Rentek manevrası",
   "Video": 1
  },
@@ -28,7 +28,7 @@
   "C": "C) Hisset ",
   "D": "D) Dinle - Hisset",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Nefes alışverişini kontrol ederken hastanın ağzına ayna tutmak ve aynanın buğulanmasını gözlemlemek (veya göğüs kafesinin inip kalktığını gözlemlemek), 'Bak-Dinle-Hisset' yöntemindeki 'BAK' (A) aşamasının bir parçasıdır.",
   "Answer": "A) Bak ",
   "Video": 1
  },
@@ -39,7 +39,7 @@
   "C": "C) Omurilik zedelenmesi olanlar",
   "D": "D) Besin zehirlenmesi olanlar",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Göğüs, kalça veya omurga kırığı olan hastalar (A, B, C şıkları) risk taşıdıkları için kesinlikle sırt üstü yatırılarak taşınmalıdır. Ancak bulantı ve kusma riski yüksek olan 'Besin zehirlenmesi olanlar' (D), kusmuğun nefes borusunu tıkamaması için 'Yan Yatış' pozisyonunda taşınır.",
   "Answer": "D) Besin zehirlenmesi olanlar",
   "Video": 1
  },
@@ -50,7 +50,7 @@
   "C": "C) Bebeğin solunum yapıp yapmadığının bak-dinle-hisset yöntemiyle 2 dakika süre ile kontrol edilmesi",
   "D": "D) Bebekte solunum yoksa ağız dolusu nefes alınması ve ağzın, bebeğin ağız ve burnunu içine alacak şekilde yerleştirilmesi",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Bebeklerde (0-1 yaş) yüz (ağız ve burun) anatomik olarak çok küçüktür. Bu nedenle yetişkinlerden farklı olarak, suni solunum yapılırken ilk yardımcının ağzı; 'bebeğin hem ağzını hem de burnunu birlikte içine alacak şekilde' (D) yerleştirilir ve yanakları şişirecek kadar (az) hava üflenir.",
   "Answer": "D) Bebekte solunum yoksa ağız dolusu nefes alınması ve ağzın, bebeğin ağız ve burnunu içine alacak şekilde yerleştirilmesi",
   "Video": 1
  },
@@ -61,7 +61,7 @@
   "C": "C) Hareketli eklem bölgelerinde",
   "D": "D) Hareketsiz eklem bölgelerinde",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Burkulma; eklem yüzeylerinin anlık olarak birbirinden ayrılıp geri gelmesiyle bağların zedelenmesidir. Omuz, diz, el ve ayak bileği gibi kemiklerin birbiriyle birleştiği tüm 'Hareketli Eklem Bölgelerinde' (C) meydana gelebilir.",
   "Answer": "C) Hareketli eklem bölgelerinde",
   "Video": 1
  },
@@ -72,7 +72,7 @@
   "C": "C) Her ikisi de doğru",
   "D": "D) Her ikisi de yanlış",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Rentek manevrası; kaza sonrası araçta patlama, yangın veya hastada solunum durması gibi 'ACİL' tehlikeler varsa uygulanır (I doğru). Amacı ise hastayı omurga eksenini (baş-boyun-gövde) bozmadan, felç etmeden araçtan çıkarmaktır (II doğru). Dolayısıyla her ikisi de doğrudur (C).",
   "Answer": "C) Her ikisi de doğru",
   "Video": 1
  },
@@ -83,7 +83,7 @@
   "C": "C) Omuzdan destek verip yürütmeye çalışarak",
   "D": "D) Kazazedeyi kucağa alıp ağırlığı yüklenerek",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Belirtilen hastada (bacakları hissetmeme, kulaktan/burundan kan gelmesi) kesinlikle boyun veya omurga kırığı şüphesi vardır. Olay yeri güvenli değilse ve acil taşınması gerekiyorsa, hastayı asla kucağa almamalı, ayağa kaldırmamalıdır. Mutlaka 'Baş-Boyun-Gövde ekseni bozulmadan, düz pozisyonda sürükleyerek' (A) tahliye edilmelidir.",
   "Answer": "A) Baş-boyun-gövde ekseni bozulmadan düz pozisyonda sürükleyerek",
   "Video": 1
  },
@@ -94,7 +94,7 @@
   "C": "C) Üçgen sargı bezi",
   "D": "D) Serum",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "İlk yardım çantasında sadece fiziksel müdahale gereçleri (gazlı bez, üçgen sargı bezi, yara bandı vb.) (C) bulundurulur. Yanlış müdahaleyi ve alerjik şoku önlemek için; her türlü İLAÇ (Ağrı kesici), MERHEM (B) veya SERUM (D) gibi kimyasal/tıbbi malzemelerin bulundurulması yasaktır.",
   "Answer": "C) Üçgen sargı bezi",
   "Video": 1
  },
@@ -105,7 +105,7 @@
   "C": "C) Burkulan bölgeye sıcak uygulama yapılması",
   "D": "D) Burkulan bölgeye masaj yapılması",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Burkulan bölgede iç kanama kaynaklı ödem (şişlik) oluşur. Bu şişliği önlemek ve kan basıncını azaltmak için burkulan eklem 'kalp seviyesinden yüksekte' (A) tutulmalı, hareketsiz kalmalı ve üzerine soğuk (buz) uygulama yapılmalıdır.",
   "Answer": "A) Burkulan bölgenin kalp seviyesinden yüksekte tutulması",
   "Video": 1
  },
@@ -116,7 +116,7 @@
   "C": "C) Hareket sistemini",
   "D": "D) Sindirim sistemini",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Vücudun iskeletini ve hareket kabiliyetini sağlayan kemikler, eklemler ve kaslar 'Hareket Sistemini' (C) oluşturur. Dolayısıyla kırık, çıkık, burkulma ve kas ezilmeleri doğrudan hareket sistemini ilgilendiren konulardır.",
   "Answer": "C) Hareket sistemini",
   "Video": 1
  },
@@ -127,7 +127,7 @@
   "C": "C)",
   "D": "D)",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjwQ6_NoMxwojm9F3Atm769qCYEfgWGgikJUAtg6NtEYKE3mIast0dlmYOVAlTzHoMVUs46loi1UNDuLTPkC_X2fPjeCE6RPUAXtF9zmdyS_BewmS7Ool5MQ7EQqf5BCKjBYZaaL9BrK5Ah5N43nOp-cg4tubzRKQAt90ym6veS7joVQaHSiXLQkX4wt15x\/s1600\/Trafik%20Levhalar%C4%B1-min.png",
-  "Explaination": 1,
+  "Explaination": "Keskin virajların dış kurplarına (dönemeçlerine) yerleştirilen, siyah zemin üzerine beyaz okların olduğu yatay dikdörtgen tabela (A şıkkı), sürücülere virajın yönünü belirten 'Tehlikeli Viraj Yön Levhası'dır.\n\nÇeldirici Analizi: C şıkkı, döner kavşak yaklaşımını gösterir. A şıkkı virajı bildirir.",
   "Answer": "A)",
   "Video": 1
  },
@@ -138,7 +138,7 @@
   "C": "C) Gidiş yönüne göre sol bankette",
   "D": "D) Taşıt yolunun en sağındaki şeritte",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Yayalar; otoyol veya şehir dışı yollarda (kaldırımın olmadığı yerlerde) yürürken, güvenlikleri için karşıdan gelen araçları önden görebilmeleri gerekir. Bu nedenle daima 'Gidiş yönlerine göre sol bankette' (C) yürümek zorundadırlar.",
   "Answer": "C) Gidiş yönüne göre sol bankette",
   "Video": 1
  },
@@ -149,7 +149,7 @@
   "C": "C) 3",
   "D": "D) 4",
   "Image": 1,
-  "Explaination": "Yeni araçlar 3 yıl sonra muayeneye alınır. Sonra düzenli olarak 2 yılda bir yapılması gerekir.\n",
+  "Explaination": "Hususi (özel) otomobiller, fabrikadan sıfır olarak alındıktan (yeni tescil edildikten) sonra ilk muayenelerine '3 yıl' (C) sonra girerler. Bu 3 yıllık süreden sonra ise düzenli olarak her 2 yılda bir muayene edilmeleri zorunludur.",
   "Answer": "C) 3",
   "Video": 1
  },
@@ -160,7 +160,7 @@
   "C": "C) Hızını azaltmalı, kontrollü bir şekilde durmadan geçmeli",
   "D": "D) Durmalı, ilk geçiş hakkını diğer yönden gelen araçlara vermeli",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Aralıklı (fasılalı) yanıp sönen Kırmızı Işık, dur işaret levhası ile aynı anlamı taşır. Sürücü kavşağa gelmeden önce kesinlikle durmalı (A yanlış çünkü ilk hakkı o alamaz) ve 'ilk geçiş hakkını diğer yönden gelen araçlara vermeli' (D), yol boşaldığında geçmelidir.",
   "Answer": "D) Durmalı, ilk geçiş hakkını diğer yönden gelen araçlara vermeli",
   "Video": 1
  },
@@ -171,7 +171,7 @@
   "C": "C) 2 numaralı aracın durmasını beklemelidir.",
   "D": "D) 2 numaralı aracı ikaz ederek durdurmalıdır.",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhhp1YzNgHo2eeVWXz6pepCozHRpobCDdWfzM95lrwOQdOsSzc197MbqnZgQicvzty1D1JZnh2w6SShE6Cz7zXlb6W3dfEEUSovmcw8zIyKlaPZPzsa5slxaWunY0ShDidB4nREY7zHa6qlq8TupelzrWJjqoF2TEtCF-2_5cbcwOx_hg-FSM-lycMPF8mx\/s1600\/Trafik%20Levhalar%C4%B1%281%29-min.png",
-  "Explaination": 1,
+  "Explaination": "Görseldeki kavşakta her iki araç da aynı statüdeki yoldadır. Dönüş yapan araçlar her zaman düz giden araçlara öncelik tanımak zorundadır. Bu nedenle sola dönüş yapan 1 numaralı araç, yoluna düz devam eden 2 numaralı araca yol vermelidir (A).",
   "Answer": "A) 2 numaralı araca yol vermelidir.",
   "Video": 1
  },
@@ -182,7 +182,7 @@
   "C": "C) Kamp taşıtı",
   "D": "D) Umum servis aracı",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Özellikle tarım sektöründe çokça görülen, bir çekici araca (örneğin traktöre) birbirine peş peşe bağlanmış bir veya iki römorkun takılarak yolda tek bir birimmiş gibi hareket ettiği uzun araç dizilimine 'Taşıt Katarı' (B) denir.",
   "Answer": "B) Taşıt katarı",
   "Video": 1
  },
@@ -193,7 +193,7 @@
   "C": "C) Önünde giden sürücünün bir başka aracı geçme niyetini belirten uyarma işaretini vermiş bulunması",
   "D": "D) İki yönlü yollarda karşıdan gelen trafik dâhil, yolu kullananların tümü için tehlike yaratacak şekilde kullanacağı şeridin görüşe kapalı olması",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgVZI_B05AFiBQCnRVwXSChEHMsbfnqhRccxfoCCQh1a9IB82CRxCM6EhX4LkbeujxNQtvO2GZx6sPD84LmazmtuE7e1TRC6YMv8VVYgXpCWGyWAPQaDdV20LzP8pA0TXegzlqcrcgHzY0W1VNT2JHixNI5XIP9RCD_tmOJqw665FmygJ4cqj2itiR1BTxi\/s1600\/Trafik%20Levhalar%C4%B1%282%29-min.png",
-  "Explaination": 1,
+  "Explaination": "Görsele dikkatle bakıldığında 1 numaralı aracın bir tepe üstüne yaklaştığı görülmektedir. Tepe üstlerinde karşıdan gelen araç görülemez (şerit görüşe kapalıdır). Bu nedenle yola devamlı (düz) çizgi çekilmiştir ve 1 numaralı aracın önündekini sollaması 'tehlike yaratacak şekilde kullanacağı şeridin görüşe kapalı olması'ndan (D) dolayı yasaktır.",
   "Answer": "D) İki yönlü yollarda karşıdan gelen trafik dâhil, yolu kullananların tümü için tehlike yaratacak şekilde kullanacağı şeridin görüşe kapalı olması",
   "Video": 1
  },
@@ -204,7 +204,7 @@
   "C": "C) 6",
   "D": "D) 7",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Sürücüler 1 yıl içerisinde 100 ceza puanını ilk kez doldurduklarında ehliyetlerine '2 ay' (A) süreyle el konulur. İkinci kez 100 puanı dolduranların ehliyetlerine 4 ay el konulur. Üçüncü kez dolduranların ehliyetleri ise süresiz olarak iptal edilir.",
   "Answer": "A) 2",
   "Video": 1
  },
@@ -215,7 +215,7 @@
   "C": "C) Sağa zorunlu yön",
   "D": "D) Sağa dönülmez",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg6w5EvimDO5i_o438fZycS7wJRvS7FtlB6XhK2s7P790uCIvE3cNWdj95uZ_ZaJyGqwpQg4PS_pPabZwt7nBezVug0W5ceV33WVHBaLqy-U1hSwvnF5YjjgHXUkvmgx_cwLFheTjw3EPq5dBavYPaX3zrHldLFv62XDjS2OayyN6DkBwaii7H8KoZuRP7M\/s1600\/Trafik%20Levhalar%C4%B1%283%29-min.png",
-  "Explaination": 1,
+  "Explaination": "Yuvarlak kırmızı çember (yasak/kısıtlama levhası) içinde sola kıvrılan okun üzerine çapraz çizgi çekilmesi, o kavşaktan 'Sola Dönülmez' (A) olduğunu, sola dönmenin yasak olduğunu belirtir.\n\nÇeldirici Analizi: 'Sola Zorunlu Yön' olması için levhanın mavi zeminli yuvarlak olması gerekirdi.",
   "Answer": "A) Sola dönülmez",
   "Video": 1
  },
@@ -226,7 +226,7 @@
   "C": "C) Kırmızı",
   "D": "D) Kırmızı ile birlikte sarı",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgq2qVCv9W6qoMplTQlBPpMCcxT-yYLUy2HqizZp-8AlmfKF-WvgAcG9HYSIRfh_DMFFV_M6JfOL1DV4qflc2o7Dp6NkmOhZzlEW8tVDgK_cwfXA-uI7hxbvGoPPHXKGW3QhnWBMa-4a9JUxpF2NHrQy7Mc97GtmMj6awHJfniboCkhBays9255dle6mcE9\/s1600\/Trafik%20Levhalar%C4%B1%284%29-min.png",
-  "Explaination": 1,
+  "Explaination": "Görselde kırmızı ve beyaz renkli 'Dur' levhası bulunmasına rağmen aynı direkte bir de trafik ışığı (lambası) bulunmaktadır. Trafik tanzim sıralamasında Işıklar, Levhalardan daha üstündür. Bu yüzden sürücünün yola devam edebilmesi için DUR levhası olsa bile ışığın 'Yeşil' (B) yanması gerekir.",
   "Answer": "B) Yeşil",
   "Video": 1
  },
@@ -237,7 +237,7 @@
   "C": "C) 2 numaralı aracın sağa dönüş yapması",
   "D": "D) 1 numaralı aracın durmadan kavşağa girmesi",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj0BBRx3tl-M3gVB64p5Z4K9ipZXhWVXluI4njnWGBMhJ4YWj3p2XPi53rUcAVtqcxOYOg0HZ8p2Q7quP72KIKRYRb_dx7lBgBAH4OJlHbeoMNYM4SyUzJPEdgVhk9KR1X4oT6YGxsgybYMf4kbnNLY3Kz_wszL4swiQfcGndRvdKZGY09AhsZyYwAdsMdr\/s1600\/Trafik%20Levhalar%C4%B1-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Görselde 1 numaralı aracın bulunduğu tali yolda (çıkışta) sekizgen şeklinde kırmızı bir 'DUR' levhası bulunmaktadır. Bu nedenle 1 numaralı aracın, tekerleklerini tamamen durdurup yolu kontrol etmeden (durmadan) kavşağa aniden girmesi (D) kesinlikle yasaktır.",
   "Answer": "D) 1 numaralı aracın durmadan kavşağa girmesi",
   "Video": 1
  },
@@ -248,7 +248,7 @@
   "C": "C) Uzağı gösteren lambaları yakması",
   "D": "D) Taşıt yolunun soluna yaklaşması",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Geceleyin arkadaki araç sizi sollamak için selektör veya sinyal ile uyarı veriyorsa, onun güvenle geçişini tamamlaması için hızınızı artırmamalı, kendi şeridinizde kalarak 'hızınızı sabit tutmalı ve gerekirse (yol darsa) hafifçe yavaşlamalısınız' (B).\n\n💡 Sınav Taktiği: Sinyal vererek arkadaki araca 'Geç' demek kesinlikle yasaktır, çünkü yolun ilerisindeki tehlikeyi sadece siz bilemezsiniz.",
   "Answer": "B) Hızını sabit tutması, gerekirse yavaşlaması",
   "Video": 1
  },
@@ -259,7 +259,7 @@
   "C": "C) Toplu taşıma yapılması ülke ekonomisini olumlu yönde etkiler.",
   "D": "D) Kara yolu ulaşım sistemi, diğer ulaşım sistemlerinden daha çok kullanılmaktadır.",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhjrLu9KCBwMR2TcCl594QsRH2k4ssaHjuL1D7IbyT1RSSW-n2M9gq57T4OFA-QQhviaMUy_yCJFb1hj1E-6p-RH9FNmMH0wsaNVfTk5rX4Czkcu2m9U7lfT7gPDy1nNAae_wV3CTriGA888usSwwVB-sxqqHhS9ZRAqTY3WTXe1IbwVZ_muGaEmQ4YjT2h\/s1600\/Trafik%20Levhalar%C4%B1%281%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Tablo incelendiğinde trafik kazalarındaki kusurun her yıl %98-99 oranında 'Sürücü, Yaya ve Yolcu' üçlüsünden, yani doğrudan insanlardan oluştuğu; araç veya yol kusurunun ise sadece %1'lerde kaldığı görülmektedir. Bu verilerden çıkarılacak kesin sonuç: 'Kazaların çoğu insan kaynaklıdır' (A).",
   "Answer": "A) Kazaların çoğu insan kaynaklıdır.",
   "Video": 1
  },
@@ -270,7 +270,7 @@
   "C": "C) I. Taşıt trafiğine kapalı yol - II. Girişi olmayan yol",
   "D": "D) I. Azami hız sınırlaması - II. Bütün yasaklama ve kısıtlamaların sonu",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjx50qd7s6AR-Lr5NCmnuGGM7w5ptHaNsKOEIWXt9aNCzNkIUv-FV9kXbTxRyNiDM6m4x1hTzCT93mFhj8HyYdD36OqJG-AyMyQsuD7ruZ5Dm322K3RcPLyaeRO1jTMAgx6OFP1cjLqEkAKhwN4nmV_PhBFSQ-43Lv0UOEQPWGIFMs8FErvYna5Fo7q73dO\/s1600\/Trafik%20Levhalar%C4%B1%282%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "I numaralı içi boş kırmızı yuvarlak levha, o sokağın/yolun 'Her iki yönden taşıt trafiğine kapalı' olduğunu bildirir. II numaralı içinde yatay beyaz çizgi bulunan kırmızı yuvarlak levha ise, sadece o yönden girilmesinin yasak olduğu, yani 'Girişi olmayan yol' (Ters Yön) olduğunu bildirir. Doğru sıralama C şıkkıdır.",
   "Answer": "C) I. Taşıt trafiğine kapalı yol - II. Girişi olmayan yol",
   "Video": 1
  },
@@ -281,7 +281,7 @@
   "C": "C) Yük yüklemek veya boşaltmak",
   "D": "D) Yolun kapalı olması durumunda beklemek",
   "Image": 1,
-  "Explaination": "A şıkkı park etme\nB şıkkı duraklama\nC şıkkı duraklama\nD şıkkı durmadır.\n\n\"DURMA : Her türlü trafik zorunlulukları (kırmızı ışık, yetkililerin dur işareti, yol kapanması gibi- nedeni ile aracın durdurulmasıdır.\nDURAKLAMA : Trafik zorunlulukları dışında araçların insan indirmek ve bindirmek amacı ile kısa bir süre için durdurulmasıdır.\nPARK ETME : Araçların, durma ve duraklaması gereken haller dışında bırakılmasıdır.\"",
+  "Explaination": "Trafik kurallarında 'Durma', sürücünün kendi isteği dışında oluşan mecburi bir durum yüzünden (örneğin kırmızı ışık, polisin durdurması, yolun kapanması (D) veya kaza) aracını mecburen hareketsiz bırakmasıdır. İsteğe bağlı (yolcu indirme/yükleme vb.) beklemeler 'Duraklama' veya 'Park Etme' sayılır.",
   "Answer": "D) Yolun kapalı olması durumunda beklemek",
   "Video": 1
  },
@@ -292,7 +292,7 @@
   "C": "C)",
   "D": "D)",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjaopfQXEakcSCSatJF3tDddCSxjKMpl93z3s2q2D7vJNzRoo_dwIO5zWreWf6u8qReMeb0aa211ExbSI06-FlrifvoSPIc8DPM7ONuFBvdumWFtpfv080Ypnzm88AQWt6CN2blCr44NujJcfTdLwVQdoVMdNbbR3s_qFsLuzPcsTyQIYhD_dK9RldpHufz\/s1600\/Trafik%20Levhalar%C4%B1%283%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Kırmızı çember (yasak/kısıtlama) içerisindeki siyah '70' rakamı (A şıkkı), o yolda yapılabilecek en yüksek (azami) hızın saatte 70 kilometre ile sınırlandığını bildirir.\n\nÇeldirici Analizi: B şıkkı bu yasağın (hız sınırının) bittiğini, C şıkkı takip mesafesini (70m), D şıkkı ise taşıma gabarisini (7 ton) ifade eder.",
   "Answer": "A)",
   "Video": 1
  },
@@ -303,7 +303,7 @@
   "C": "C) Takip mesafesini",
   "D": "D) İntikal mesafesini",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Sürücülerin kendi içlerinden normal bir tempoyla \"seksen sekiz, seksen dokuz\" demeleri tam 2 saniye sürer. Öndeki araçla aranızdaki güvenlik aralığının 2 saniyeye eşit olup olmadığını anlamak için kullanılan bu yönteme 'Takip Mesafesi' (C) kontrolü denir.",
   "Answer": "C) Takip mesafesini",
   "Video": 1
  },
@@ -314,7 +314,7 @@
   "C": "C) II ve III",
   "D": "D) I, II ve III",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Güvenli bir motosiklet sürücüsü; yasal bir zorunluluk olarak hem kendisi koruma başlığı (kask) ve gözlük takar (II), hem de arkasına aldığı yolcusuna kask taktırır (III). Ancak aşınmış (kabak) lastik kullanmak (I) kaza riskini büyük oranda artırdığı için güvenli bir hareket değildir. Doğru olanlar II ve III'tür (C).",
   "Answer": "C) II ve III",
   "Video": 1
  },
@@ -325,7 +325,7 @@
   "C": "C) Yalnızca gece araç kullanırken gözlük veya lens kullanmak zorundadırlar.",
   "D": "D) Bu tür adaylara sürücü belgesi verilmez.",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Ehliyet alırken sağlık raporunda 'gözlük veya lens ile araç kullanabilir' ibaresi (kısıtlaması) bulunan sürücüler, araç kullanırken gece-gündüz veya şehir içi-şehir dışı fark etmeksizin her zaman 'gözlük veya lenslerini kullanmak ZORUNDADIRLAR' (A).",
   "Answer": "A) Araç kullanırken gözlük veya lenslerini kullanmak zorundadırlar.",
   "Video": 1
  },
@@ -336,7 +336,7 @@
   "C": "C) İlerisi görünmeyen dönemeçlere yaklaşırken gelişi haber vermede",
   "D": "D) Bisiklet yolundaki bisikletlilerin taşıt yoluna girmelerini önlemede",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Trafikte korna gereksiz yere veya insanları rahatsız etmek için çalınmaz. Ancak 'İlerisi görünmeyen (kör) dönemeçlere veya tepe üstlerine yaklaşırken', karşıdan gelebilecek araçlara orada olduğunuzu ve yaklaşmakta olduğunuzu haber vermek amacıyla korna çalınması (C) güvenlik açısından zorunludur.",
   "Answer": "C) İlerisi görünmeyen dönemeçlere yaklaşırken gelişi haber vermede",
   "Video": 1
  },
@@ -347,7 +347,7 @@
   "C": "C) Işıklı trafik cihazına",
   "D": "D) Trafik işaret levhalarına",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Trafik düzenleme işaretleri ve uyarıları arasında kesin bir hiyerarşi (üstünlük sıralaması) vardır. Işık kırmızı yansa dahi, eğer kavşakta bir trafik polisi (trafik zabıtası) (B) varsa ve geç işareti veriyorsa sürücüler her zaman ilk olarak polise uymak zorundadır.",
   "Answer": "B) Trafik zabıtasına",
   "Video": 1
  },
@@ -358,7 +358,7 @@
   "C": "C) Takip mesafesini artırması",
   "D": "D) Duraklama yapmaktan kaçınması",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjY-XmVsMyxkCxRvnuVGIHnDQd2RyjDz40nthbaJXkglyE4kfVusLXruiIkIQhqWDW1W-Fpha0R2S08ZWGUEt5q7CFb3q5qS2EJj0WJYP_3P9nJE8kXAwPkC6dHZgV4JLSNKDiUxuYvVx5a9EcGBPpnunxzVT4iFhdr37v58_-6QR1xqhRxM8A4tzCJjkf1\/s1600\/Trafik%20Levhalar%C4%B1%284%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Görseldeki yol çizgilerine dikkat edildiğinde 1 numaralı aracın tarafında 'devamlı (düz) çizgi' olduğu görülmektedir. Düz çizgi, görüş mesafesinin yetersizliğini ve sollama yasağını ifade eder. Bu nedenle 1 numaralı aracın 'öndeki aracı geçmesi (sollaması)' (B) kesinlikle yanlıştır ve kural ihlalidir.",
   "Answer": "B) Öndeki aracı geçmesi",
   "Video": 1
  },
@@ -369,7 +369,7 @@
   "C": "C) Yayanın giremeyeceğini",
   "D": "D) Yola yayanın çıkabileceğini",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEho49eH2W6jsWJee6FdDxyAS6rmWou4_gBrlBfohdorNVNWzorGmH8wyA4mFkDoDVAu4S58Zw4-o9PC6ZhwEKrAyGQjCS1OGjAwloP-tTQO0J6UO7-fhjO84N67k6oygoEwJSZmBkG4F1hYROveTAAyueppOTD3xlZSncJONEqYPkt_C7_IeOs9e-R354pN\/s1600\/Trafik%20Levhalar%C4%B1%285%29-min.png",
-  "Explaination": 1,
+  "Explaination": "Kırmızı çember; yasak ve kısıtlama (tanzim) bildiren levhalardır. İçinde yaya sembolü bulunan bu levha, güvenlik nedeniyle otonyol, tünel veya köprü gibi alanlara 'Yayanın girmesinin yasak olduğunu' (C) bildirir.",
   "Answer": "C) Yayanın giremeyeceğini",
   "Video": 1
  },
@@ -380,7 +380,7 @@
   "C": "C) Traktör ",
   "D": "D) Otomobil",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgGu7hgJlctMz3Q1xGPuJSx3aGbpbl5QOg8gJeRYcpY4n2Kf2NubkMFyXRXvPU5kQckziJ0Qnu3T3AvQriWKMx7tFR1wTszGAmqTPjAajbBdhDaCZz8spiMgXsHNfBvj5R5vfsFIAXXNJqk7sQ66UmWYX3qJDIxrAzchwekTUz0AeN2ztm11kdiDLUN1xjB\/s1600\/Trafik%20Levhalar%C4%B1%285%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Kavşaktaki araçların öncelik durumu incelendiğinde; Kamyonet ve Traktör Tali yoldadır (Dur levhaları var). Geçiş hakkı ilk olarak Ana yoldaki araçlarındır (Otomobil ve Motosiklet). Ana yoldaki otomobil sola dönüş yaptığı için, kural gereği yoluna düz devam eden Motosiklete (B) öncelik vermelidir. İlk geçen Motosiklet olur.",
   "Answer": "B) Motosiklet",
   "Video": 1
  },
@@ -391,7 +391,7 @@
   "C": "C) Gençlik kampına",
   "D": "D) Alt veya üst geçitlere",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhW3MERGnMHpTkeG1dlevSaWZ-qVBWR_xfQc9OcwCx52NzMPDKPPHGX3tiI6NzPsEeC8NYzGX3Uh_N7tNsGy-nStrxSobcC58IhCKXdRjEXEG8s5KT1j0p9RHzuo26Mj_jf0uSbSnGXEQbPgGZg9M2blWshQ2_1WXz48MCxkAsmaci1ALWNMIoFJEeRe4af\/s1600\/Trafik%20Levhalar%C4%B1%286%29-min.png",
-  "Explaination": 1,
+  "Explaination": "Kırmızı tehlike uyarı üçgeninin içinde ellerinde çanta olan ve koşuşan iki çocuk figürü, ileride çocukların yola aniden çıkabileceği bir 'Okul Geçidine' (A) yaklaşıldığını sürücüye bildirir. Sürücü hızını düşürmelidir.",
   "Answer": "A) Okul geçidine",
   "Video": 1
  },
@@ -402,7 +402,7 @@
   "C": "C) Endüksiyon bobininin",
   "D": "D) Marş dişlisinin",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Motor içindeki supapların krank miliyle uyumlu (zamanlamalı) çalışmasını sağlayan ve genellikle kauçuktan yapılan Triger (Zamanlama) Kayışı, belirli bir kilometrede (örn: 60 bin - 90 bin km) eskiyip kopma riski taşıdığı için (B) kopmadan önce mutlaka değiştirilmesi gereken hayati bir parçadır.",
   "Answer": "B) Triger kayışının",
   "Video": 1
  },
@@ -413,7 +413,7 @@
   "C": "C) Krank mili",
   "D": "D) Silindir kapak contası",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Motor bloğu ile silindir kapağı arasına yerleştirilen 'Silindir Kapak Contası' (D), hem yağ hem de su kanallarını birbirinden izole eder (ayırır). Conta yanarsa veya çürürse, yağ ve su birbirine karışır (motor suyu tahin/köpük kıvamı alır).",
   "Answer": "D) Silindir kapak contası",
   "Video": 1
  },
@@ -424,7 +424,7 @@
   "C": "C)Yağlama",
   "D": "D)Soğutma",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "ABS (Anti-Lock Braking System - Kilitlenmeyi Önleyici Fren Sistemi), acil frenlemelerde tekerleklerin kilitlenip aracın kaymasını önleyen elektronik bir güvenlik donanımıdır. Dolayısıyla göstergede 'ABS' yazısının yanması, 'Fren' (A) sisteminde bir arıza olduğunu bildirir.",
   "Answer": "A)Fren",
   "Video": 1
  },
@@ -435,7 +435,7 @@
   "C": "C) Motorun aşırı ısınarak zarar görmesi",
   "D": "D) Motorun normal çalışmasını sürdürmesi",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Motor yağının temel görevi; hareketli metal parçalar arasında kaygan bir film tabakası oluşturarak sürtünmeyi önlemek ve motoru soğutmaktır. Yağsız veya çok eksik yağ ile çalışan bir motor, saniyeler içinde aşırı sürtünmeden dolayı ısınarak (hararet yaparak) parçaları birbirine kaynatır ve 'yatak sararak (zarar görerek)' kilitlenir (C).",
   "Answer": "C) Motorun aşırı ısınarak zarar görmesi",
   "Video": 1
  },
@@ -446,7 +446,7 @@
   "C": "C) Direksiyon hâkimiyetini",
   "D": "D) Aracın yol üzerinde kaymasını",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Eski sistemlerde frene sert basıldığında tekerlekler kilitlenir, direksiyon dönse de araç kayarak dümdüz gitmeye devam ederdi. ABS sistemi ise saniyede onlarca kez freni pompalayarak tekerleğin dönmesini (kaymamasını) sağlar. Bu sayede sürücü fren yaparken aynı zamanda engelden kaçmak için 'Direksiyon hakimiyetini' (C) korur ve aracı yönlendirebilir.",
   "Answer": "C) Direksiyon hâkimiyetini",
   "Video": 1
  },
@@ -457,7 +457,7 @@
   "C": "C) Egzozdan siyah renkli duman çıkmasına",
   "D": "D) Yağışlı havalarda kaza tehlikesinin artmasına",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Üzerindeki kanallar aşınmış (kabak) lastikler, yağmurlu havalarda yerdeki suyu tahliye edemez. Lastik ile asfalt arasına giren su tabakası (kızaklama/aquaplaning) aracın yolla temasını tamamen keser ve fren veya direksiyon işlemediği için 'Kaza tehlikesini büyük oranda artırır' (D).",
   "Answer": "D) Yağışlı havalarda kaza tehlikesinin artmasına",
   "Video": 1
  },
@@ -468,7 +468,7 @@
   "C": "C) Fren müşiri arızalıdır.",
   "D": "D) Geri vites müşiri arızalıdır.",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Ayağınızla fren pedalına bastığınızı algılayan ve bagajdaki arka stop lambalarına yanması için elektrik sinyali gönderen küçük şaltere (düğmeye) 'Fren Müşiri' (C) denir. Lambalar ampul patlak olmadığı halde yanmıyorsa bu şalter arızalanmıştır.",
   "Answer": "C) Fren müşiri arızalıdır.",
   "Video": 1
  },
@@ -479,7 +479,7 @@
   "C": "C) Ateşleme (İş) zamanı",
   "D": "D) Egzoz zamanı",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEggPrQ8t0jDQE44Iq86EwOLIeQelBbSP_DTuJEoqcG28hJeUv3vcR8JGWmHU0_1g02j74Nw_R6pY4I6SgGXHY7aZygS3QkG0xuYgxE6C7gagiZqO1Xvdb2kdvw-d0Y4AkXjPJ7hdr2vOFDpeQzrTFWg0-5-T7tTqmOIvVJqDdfLIsd6y2IWdYvBzYir-dHp\/s1600\/Trafik%20Levhalar%C4%B1%286%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Dört zamanlı motorların çalışma prensibindeki ilk aşama, pistonun aşağı doğru inerken emme supabının açılıp silindirin içine dışarıdan temiz yakıt-hava karışımını vakumlayarak (emerek) çektiği zamandır. Bu yüzden adı 'Emme Zamanı'dır (A).",
   "Answer": "A) Emme zamanı",
   "Video": 1
  },
@@ -490,7 +490,7 @@
   "C": "C)",
   "D": "D)",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiXxi4Z9dZtg6euFxgvo6Cnijo0CuJt6A_JrYaJjIAr98RRUgqbW-BRRclzAI5wLiDuYxcEDJBJaUV-nE8RWmVbngk_pbeqcZ8Ky-gIDC-9yvYaF5HEjIZ9s_kr1eY1UIhOQuh3YTuYMzgnaZZmfnJxqCukhMyZdCJuVkdDSf5ns6CBiMaoYGPQElyMDeWc\/s1600\/Trafik%20Levhalar%C4%B1%287%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Araç konsolunda genellikle tam ortada bulunan ve arıza/acil durumlarda dört sinyali birden yakan, içinde iç içe geçmiş iki kırmızı üçgen bulunan buton (A şıkkı), 'Dörtlü Flaşör (Acil Uyarı)' düğmesinin simgesidir.",
   "Answer": "A)",
   "Video": 1
  },
@@ -501,7 +501,7 @@
   "C": "C)",
   "D": "D)",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhV1tFTcif1TPXeFHVF8u9jPIs7O3inYn78SCA1-CV0M_zT784wvigYBQoVIWfAvZlnIOxRPvhu-b2k2l5qLYDnW3AQ_nI7rI3MVM6GbAFMwnKe-eAe9jr3Fxr1a_ga5_ZGWEcMvK61vMPiGz4HugBTsMtlTZr1_tebO-DQ6aRc2yaucBFdNe5f4PXwIYr_\/s1600\/Trafik%20Levhalar%C4%B1%288%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Arka camın buğusunu veya buzunu çözmek için camın içindeki telleri ısıtan sisteme 'Rezistans' denir. Göstergede dikdörtgen şekilli bir camın (arka cam) içinden yukarı doğru kıvrılarak yükselen 3 adet dalgalı ok bulunan simge (B), arka cam rezistansının simgesidir.\n\n💡 Sınav Taktiği: C şıkkındaki yelpaze şekilli (kavisli) cam simgesi ön cam sileceklerini veya buğu çözücüyü, B şıkkındaki dikdörtgen cam ise arka camı temsil eder.",
   "Answer": "B)",
   "Video": 1
  },
@@ -512,7 +512,7 @@
   "C": "C) Aks ",
   "D": "D) Vites kutusu",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEisuYCi-2G38bbR8vqfbQ3yTTLCjEwCDe7d4C5OvfDO-T0VSAe2p6BmHcLYMPrcFhYjQxL0NpigHxa-Dn2kF8Arle5_OTmmZZjYUKOkPv9e_ZKHdnyT2H2jbpVSf1_pL9ftkxP3z_TBa_aRWOIIbkqTN5F4q4fPftBFYOEtZOM9thrIfBpml2wrHku-i1eY\/s1600\/Trafik%20Levhalar%C4%B1%289%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Motordan alınan gücün (devrin), dişliler vasıtasıyla büyütülüp küçültülerek aracın çekiş gücünü (torkunu) veya süratini (hızını) ayarlayan, motor ile şaft arasında konumlanmış ana dişli kutusuna 'Vites Kutusu (Şanzıman)' (D) denir.",
   "Answer": "D) Vites kutusu",
   "Video": 1
  },
@@ -523,7 +523,7 @@
   "C": "C) II ve III",
   "D": "D) I,II ve III",
   "Image": 1,
-  "Explaination": "Sizi sollayan araç, sollama mesafesini hafife almış. Sollanan aracın daha erken içeri girebilmesi için ve kaza riskinin azalması için hızınızı azaltmalısınız. Park halindeki araçlar nedeniyle park şeridine (sağa) dönüş yapılamıyor.",
+  "Explaination": "Sizi sollamakta olan araç hatalı bir hesaplama yapmış ve karşıdan gelen trafik nedeniyle aniden önünüze kırmak zorunda kalmıştır (Sollama mesafesini hafife almıştır). Olası bir çarpışmayı (kaza riskini) önlemek ve ona güvenli alan açmak için sizin derhal hızınızı düşürmeniz (A) gerekir. Sağ taraf park halindeki araçlarla dolu olduğu için sağa kaçış yapamazsınız.",
   "Answer": "A) Yalnız I",
   "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/38\/f9\/33\/38f933984a18b94b65399c35deba6d96.mp4"
  },
@@ -534,7 +534,7 @@
   "C": "C) [Yaya]'nın",
   "D": "D) Benim",
   "Image": 1,
-  "Explaination": "Mavi araba duran otobüsün yanından geçer ve dönüş şeridinde olmasına rağmen dümdüz devam etmek isteyebilir. Siz sola döndüğünüz için, yol hakkı onundur.",
+  "Explaination": "Videodaki kavşakta siz sola dönüş yapmak için bekliyorsunuz. Karşıdan gelen mavi araba ise dönüş şeridinde olmasına rağmen sinyali yanmamakta ve düz ilerlemektedir. Trafikte dönüş yapan araçlar her zaman düz gidenlere yol vermek zorundadır. Bu kurala göre öncelik (geçiş hakkı) düz giden 'Mavi Araba'nındır (A).",
   "Answer": "A) [Mavi araba]",
   "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/d8\/a1\/c6\/d8a1c6caf7a5878336c56cfd4fa2d9c2.mp4"
  },
@@ -545,7 +545,7 @@
   "C": "C) I ve III",
   "D": "D) I,II ve III",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgEPMCwR0NubkHJki03hCJoSjlIclWe8mGUTJqYSXiphptw6syc875sa4lijcylCJ1hr7MwCnwAXhNUpwAJC_bhAd-ckcZ_WFZBCOUIoVhXCOCsYI4Y7WvNV4fOakDpVKqLehgY6qenNN6u1ZxbZOiDIrB55x8Bo_4Bt_NNpoGz2PeVEbA57Yp03lP74LYm\/s1600\/1301120m.jpg",
-  "Explaination": "Ana yolun içindesiniz ve böylece yeşil arabanın önünde bir imtiyazınız var. Yeşil aracın geçmene izin vermesi gerekiyor çünkü ana yoldasın. III. Öncülde mal araç ve siz ana yoldasınız. Ancak sağda olduğundan, önce onun geçmesine izin vermelisin.",
+  "Explaination": "Altında kalın siyah bir çizgiyle ana yolun dönüş istikametini gösteren tabela bulunduğundan, siz ve mavi araç 'Ana Yolda', karşıdaki yeşil araç ise 'Tali Yolda'dır. Bu yüzden yeşil araçtan önce geçme hakkına sahipsiniz (I doğru). Ancak siz ve sağınızdaki mavi araç aynı ana yol statüsünde olduğunuz için, 'Sağdan gelenin önceliği vardır' kuralı devreye girer. Bu nedenle ilk geçiş hakkını sağınızdaki mavi araca vermelisiniz (III doğru). Cevap C şıkkıdır.",
   "Answer": "C) I ve III",
   "Video": 1
  }
