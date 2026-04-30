@@ -6,7 +6,7 @@
   "C": "C) II ve III.",
   "D": "D) I, II ve III.",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "İlk yardımın temel amacı hayati tehlikeyi ortadan kaldırmak ve yaşamsal fonksiyonların sürdürülmesini sağlamaktır (II ve III). Kazazedeyi tedavi etmek (I) ilk yardımcının değil, hastanedeki uzman doktorların görevidir.\n\n💡 Sınav Taktiği: Sınavda 'tedavi etmek', 'ilaç vermek' veya 'dikiş atmak' gibi tıbbi müdahaleler görürseniz, bunların ilk yardımın değil 'Acil Tedavinin' konusu olduğunu unutmayın!",
   "Answer": "C) II ve III.",
   "Video": 1
  },
@@ -17,7 +17,7 @@
   "C": "C) Derinin soğuk ve nemli olması",
   "D": "D) Kulak veya ağızdan kan gelmesi",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "İç kanama geçiren bir kazazedede kan basıncı düşer, deri soğur ve nemlenir, bulantı veya kulaktan/ağızdan kan gelmesi görülebilir. Ancak sinir sistemi baskılandığı için refleksler güçlü olmaz, aksine zayıflar (B).",
   "Answer": "B) Reflekslerin güçlü olması",
   "Video": 1
  },
@@ -28,7 +28,7 @@
   "C": "C) İlk yardım dışındaki amaçlarda da kullanılabilecek genel malzemelerdir.",
   "D": "D) Sayıları araç sürücüsü tarafından belirlenir.",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "İlk yardım çantasındaki tüm malzemelerin (sargı bezi, turnike vb.) temel ve ortak amacı, acil bir kaza anında kanamayı durdurmak, durumu sabitlemek ve yaşam kurtarmaktır (A).\n\nÇeldirici Analizi: Çantadaki malzemelerin sayısı sürücü tarafından kafaya göre belirlenmez (D yanlıştır), araç tipine ve yasal mevzuata göre standart olarak belirlenir.",
   "Answer": "A) Yaşam kurtarmada kullanılırlar.",
   "Video": 1
  },
@@ -39,7 +39,7 @@
   "C": "C) Uyluk kemiği",
   "D": "D) Kaburga kemiği",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Göğüs kafesinde yer alan ve akciğerleri koruyan kemikler kaburgalardır. Kaburga kemiğinde (D) bir kırık varsa, nefes alıp verirken ciğerlere batan bir acı, nefes darlığı ve öksürük krizleri görülür.",
   "Answer": "D) Kaburga kemiği",
   "Video": 1
  },
@@ -50,7 +50,7 @@
   "C": "C) Solunum zorluğu",
   "D": "D) Hâlsizlik, kendinden geçme",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Zehirlenme durumunda vücudun savunma sistemi çöker; şiddetli bulantı, baş ağrısı, solunum zorluğu ve halsizlik yaşanır. Midesi bulanan ve zehirlenen bir kişide iştah artması (B) kesinlikle beklenmez.",
   "Answer": "B) İştah artması",
   "Video": 1
  },
@@ -61,7 +61,7 @@
   "C": "C) Çıkan bölge ile kalp arasına turnike uygulamak",
   "D": "D) Çıkan bölgenin hareketsizliğini sağlayarak, sevk etmek",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Kırık, çıkık ve burkulmaların tümünde en temel ilk yardım kuralı, yaralı bölgenin hareketsizliğini (tespitini) sağlayarak hastaneye sevk etmektir (D).\n\n💡 Sınav Taktiği: Sorularda 'yerine oturtmaya çalışmak', 'masaj yapmak' veya 'sıcak uygulamak' gibi şıkları anında eleyin. Hasarlı bölge her zaman olduğu gibi sabitlenir!",
   "Answer": "D) Çıkan bölgenin hareketsizliğini sağlayarak, sevk etmek",
   "Video": 1
  },
@@ -72,7 +72,7 @@
   "C": "C) Ön kol kemiğinde",
   "D": "D) Bacak kemiğinde",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Atel (tahta veya plastik sabitleyici); kol, bacak ve kalça gibi uzun kemik kırıklarında takılır. Ancak omuzda bulunan köprücük kemiğine (B) fiziksel yapısından dolayı atel takılamaz, sadece üçgen sargı beziyle omuz askıya alınır.",
   "Answer": "B) Köprücük kemiğinde",
   "Video": 1
  },
@@ -83,7 +83,7 @@
   "C": "C) Acil yardım istenmesi",
   "D": "D) Kanamanın durdurulması",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "İlk yardımın hedefleri kanamayı durdurmak, şoku önlemek ve acil yardım ekiplerini (112) çağırmaktır. Bulaşıcı hastalıkları önlemek (B) anlık bir kaza müdahalesi değil, genel sağlık kurumlarının (koruyucu hekimlik) görevidir.",
   "Answer": "B) Bulaşıcı hastalıkların önlenmesi",
   "Video": 1
  },
@@ -94,7 +94,7 @@
   "C": "C) Kazazedenin koltuk altlarına, kasıklarına, dirseklerin iç yüzü ve avuç içlerine ıslak bez yerleştirilmesi",
   "D": "D) Kazazedenin giysilerinin çıkartılması",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Yüksek ateş durumunda vücudu soğutmak için giysiler çıkarılır, eklemlere ıslak bez konur veya oda sıcaklığında suyla duş aldırılır. Ancak karın/göğüs bölgesine 'doğrudan' buz koymak (A), ani şoka ve cilt yanıklarına (donma) neden olabileceği için çok hatalı bir uygulamadır.",
   "Answer": "A) Karın ve göğüs bölgesi üzerine direkt olarak buz konulması",
   "Video": 1
  },
@@ -105,7 +105,7 @@
   "C": "C) Kılcal damarlardaki kanama hayati tehlike arz etmez.",
   "D": "D) Toplardamar kanamalarında kan koyu renkli olur.",
   "Image": 1,
-  "Explaination": "Atardamarda kan basıncı toplar damara göre daha az değil daha fazladır. O yüzden cevap A şıkkıdır. Diğer şıklardaki bilgiler doğrudur.\n",
+  "Explaination": "Atardamarlar, kalpten yeni pompalanan temiz kanı vücuda taşıdığı için içlerindeki kan basıncı toplardamarlara göre çok daha 'fazladır'. Bu yüzden A şıkkındaki bilgi yanlıştır.\n\n💡 Sınav Taktiği: Kanama renklerini karıştırmayın! Atardamar kanaması 'Açık' kırmızı ve fışkırır tarzda (Şifre: Açık-Atar), Toplardamar kanaması ise 'Koyu' kırmızı renktedir.",
   "Answer": "A) Atardamarda kan basıncı toplar damara göre daha azdır.",
   "Video": 1
  },
@@ -116,7 +116,7 @@
   "C": "C) Kalça kemiği kırık olan",
   "D": "D) Kol kemiği kırık olan",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Omurga kırığı, kalça kırığı veya şok tablosu olan hastalar hayati tehlike taşıdıkları ve felç riskleri olduğu için KESİNLİKLE yatarak (sedye ile) taşınmalıdır. Sadece kol kemiği kırık olan bir kazazede (D) oturtularak veya yürütülerek sevk edilebilir.",
   "Answer": "D) Kol kemiği kırık olan",
   "Video": 1
  },
@@ -127,7 +127,7 @@
   "C": "C) Yara yerinin soğuk tutulması",
   "D": "D) Yara yerine göre uygun pozisyon verilmesi",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Karın yaralanmalarında iç organlar (mide, bağırsak) zarar görmüş veya delinmiş olabilir. Ayrıca hastanın hastanede acil ameliyata alınma ihtimali çok yüksektir. Bu yüzden kazazedeye kesinlikle su veya meyve suyu (A) gibi yiyecek/içecekler VERİLMEZ.",
   "Answer": "A) Meyve suyu içirilmesi",
   "Video": 1
  },
@@ -138,7 +138,7 @@
   "C": "C) 3 - 2 - 1",
   "D": "D) 3 - 1 - 2",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhmL6WmUM8tPcaAnM7Cz4S6pNEiTyXYlKL6yonkmbEcWE1eoEEZ1OwUl6WElvpxA8HxDf6Meaw1FIv_FlLM1BmAGIboloP6nbaZWkViR_O7uayu3uJDV7220-SydvSw7UPOmjNsn-MclceQxh2xJjCkXCU9ngwHXLs5tGffKmHWzPqm_zNtj1YOtLFKpo7G\/s1600\/Trafik%20Levhalar%C4%B1%289%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Kavşaktaki levhalara göre 2 ve 3 numaralı araçlar Ana Yolda, 1 numaralı araç ise 'Yol Ver' levhasından anlaşıldığı üzere Tali Yoldadır. Geçiş hakkı her zaman Ana Yoldakilerindir. Ana yoldaki araçlardan da düz giden (2), sola dönen (3)'e göre önceliklidir. Tali yoldaki (1) ise en son geçer. Doğru sıralama: 2 - 3 - 1 (B) olmalıdır.",
   "Answer": "B) 2 - 3 - 1",
   "Video": 1
  },
@@ -149,7 +149,7 @@
   "C": "C) Sağa dönüş işareti vermek",
   "D": "D) Dar bir kavisle dönmek",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgPeqbQBtZad04k7An8XNANUcarQ3tgIXDNB5DwqVO9mb3vdLGdtC_XQmqcYiFsYAc77ZngC7MyfXX0jHJXAgYiIVEINg8H2kH5Cr4Ofhlvs7INe7jZcEONJk7NnQEyIUv0TBa_JkjQ6n_ZCrv5_qCuPPGyZMqn9bH9T9_M5j_zSkqCYRlJKiswPWI6R9CZ\/s1600\/Trafik%20Levhalar%C4%B1%2810%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Genel trafik kuralına göre dönüş yapmak isteyen araçlar, yollarına düz devam eden araçlara öncelik tanımak zorundadır. Bu nedenle sola dönecek olan 1 numaralı araç, düz gitmekte olan 2 numaralı aracın geçmesini (A) beklemelidir.\n\n💡 Sınav Taktiği: İki araç da aynı statüdeki yoldaysa, 'Düz gidenin hakkı her zaman önceliklidir.'",
   "Answer": "A) 2 numaralı aracın geçmesini beklemek",
   "Video": 1
  },
@@ -160,7 +160,7 @@
   "C": "C) Otobüs ",
   "D": "D) İş makinesi",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Karayolları Trafik Yönetmeliği'ne göre 'D' sınıfı sürücü belgesi, yolcu taşımacılığında kullanılan büyük vasıta olan Otobüsleri (C) kullanmak için alınması gereken ehliyet sınıfıdır.\n\n💡 Sınav Taktiği: Harfler büyüdükçe araç da büyür: B Sınıfı (Otomobil), C Sınıfı (Kamyon), D Sınıfı (Otobüs).",
   "Answer": "C) Otobüs ",
   "Video": 1
  },
@@ -171,7 +171,7 @@
   "C": "C) Orta adaya bitişik şeritten dönüşe geçilmesi",
   "D": "D) Sağa ve sola dönüş kurallarına uyulması",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Dönel kavşağa (adaya) girdikten sonra kavşak içindeki trafik düzenini bozmamak adına dönüş bitene kadar şeridinizde kalmalısınız. Ada etrafında dönerken gereksiz yere sağa sola şerit değiştirmek (A) yasaktır.",
   "Answer": "A) Ada etrafında dönerken gereksiz yere şerit değiştirilmesi",
   "Video": 1
  },
@@ -182,7 +182,7 @@
   "C": "C) Şehir içinde ve dışında mecburi",
   "D": "D) Şehir içinde ve dışında isteğe bağlı",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Motosiklet kazalarında ölümlerin en büyük nedeni kafa travmalarıdır. Bu yüzden yasa gereği kask (koruma başlığı) kullanımı hem şehir içinde hem de şehir dışında istisnasız mecburidir (C).",
   "Answer": "C) Şehir içinde ve dışında mecburi",
   "Video": 1
  },
@@ -193,7 +193,7 @@
   "C": "C) Nezaket",
   "D": "D) Feragat",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Kişinin trafikteki diğer insanların iyiliği veya trafiğin açılması için kendi geçiş hakkından, sırasından veya yararından gönüllü olarak vazgeçmesine Trafik Adabında 'Feragat' (D) veya 'Fedakarlık' denir. Dar yollarda öncelik sizde olsa bile karşıdan gelene yol vermek buna örnektir.",
   "Answer": "D) Feragat",
   "Video": 1
  },
@@ -204,7 +204,7 @@
   "C": "C) Uygun hızla seyretmesi",
   "D": "D) Yolcu indirip bindirmesi\n",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "En sol şerit, 'hızlı şerit' veya 'geçiş şeridi' olarak adlandırılır ve trafik sürekli akmalıdır. Sadece sollama yapmak için kullanılır. Bu hızlı şeritte duraklamak, araç park etmek veya yolcu indirip bindirmek (D) arkadan gelen trafiği tehlikeye atacağı için kesinlikle yasaktır.",
   "Answer": "D) Yolcu indirip bindirmesi\n",
   "Video": 1
  },
@@ -215,7 +215,7 @@
   "C": "C) Kırmızı ışık veren cihazlarla işaretlenip gözcü bulundurulmalı",
   "D": "D) Araç üzerine tehlikeli madde yazılı levhalar konulmalı",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Tehlikeli madde (akaryakıt, gaz vb.) taşıyan araçlar arızalandığında risk çok büyüktür. Sıradan reflektörler yeterli olmaz. Kaza veya patlama riskini önlemek için araç kırmızı ışık veren cihazlarla işaretlenmeli ve uzağında mutlaka devamlı bir gözcü (C) bulundurulmalıdır.",
   "Answer": "C) Kırmızı ışık veren cihazlarla işaretlenip gözcü bulundurulmalı",
   "Video": 1
  },
@@ -226,7 +226,7 @@
   "C": "C) II - III ",
   "D": "D) I - II - III",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj9Pg3B1DCpNGLe8OOWBrwKgSzFbsRFibeWwIUkRqSC7Z7452NWk5ntejtpfyp3tWUsDkssT7TKiRQPe13yaQ-rzG2Gvi0_8fiyVXGmUKWlrjc69G3pSAM-ZX40QDcedjjxBiT5MRAP4XTgWKNTLSICzuaZvgvMMHrwQ8du2SHCcGQVGwxllMeChVwcp-z0\/s1600\/Trafik%20Levhalar%C4%B1%2811%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Sollama (geçiş) yapacak sürücü önce sinyal vererek niyetini belli etmeli (II) ve gerekiyorsa öndeki aracı korna/selektör ile uyarmalıdır (III). Ancak sollama öncesi öndeki araca çok yaklaşmak (takip mesafesini azaltmak) arka tampona çarpma riski yaratacağı için I. öncül hatalıdır. Doğru olanlar II ve III'tür (C).",
   "Answer": "C) II - III ",
   "Video": 1
  },
@@ -237,7 +237,7 @@
   "C": "C) 1 ve 3",
   "D": "D) 2 ve 3",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjpAVlTLihXWDWzu6VZXyBJOrKSHH4EHR-I7QER9u9dojIC8DyMJsTWJSEIcfu9zVbYA0MiBSw5LAltVdAM4oYVuVXrsYSab96uImJlNMn2MiCvsVTP28ATFcetNF5w9R0tmAaUlxBeiIILlAZaKk1TZnUzHMsRuNRvZB-1szKiWwUJoBxIY7ENRepMCUOL\/s1600\/Trafik%20Levhalar%C4%B1%2812%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Park etme levhasının altındaki beyaz şablon, araçların kaldırıma nasıl park etmesi gerektiğini gösterir. Tabelada araçların yola 'paralel' durması gerektiği belirtilmiştir (Sadece 3 nolu araç doğru park etmiştir). Yola dik duran 1 ve 2 numaralı araçlar (B) yanlış park etmiştir.",
   "Answer": "B) 1 ve 2",
   "Video": 1
  },
@@ -248,7 +248,7 @@
   "C": "C) Sürücü belgesi sınıfına uymayan araç kullanılması",
   "D": "D) Sürücü belgesinin hile ile alınmış olduğunun tespit edilmesi",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Ehliyet almak için gereken sağlık raporu, yaş veya sınav evraklarında hile (sahtecilik) yapıldığı sonradan tespit edilirse, haksız kazanç sağlandığı için sürücü belgesi derhal iptal edilir ve geri alınır (D).\n\nÇeldirici Analizi: Kaza yapmak tek başına ehliyetin alınmasına sebep olmaz. Ehliyetin elden gitmesi için alkol, uyuşturucu, 100 ceza puanı limitini doldurmak veya hile yapmak gerekir.",
   "Answer": "D) Sürücü belgesinin hile ile alınmış olduğunun tespit edilmesi",
   "Video": 1
  },
@@ -259,7 +259,7 @@
   "C": "C) Acil uyarı ışıkları",
   "D": "D) Yakını gösteren ışıklar",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhTdj9L5gcg8qRUbMoTdTGedKKJ8LtEye2hyphenhyphennGO9kocCZ5XPjL75_6fewvfT6AvyY3wext8fZIMazyQs5biPIq_w9wd21W0sqLKjjx6PWtuvxukflzAV0bs94hVg5O0ANl2AKkww0yqZoIDaw0RpF82XknD9imuJJPCDZoxI5z1LvcWUnhUc-rwhOMydW5N\/s1600\/Trafik%20Levhalar%C4%B1%2813%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Geceleri araç kullanırken karşı yönden başka bir araç geliyorsa veya öndeki araca çok yaklaşıldıysa, diğer sürücülerin gözünü geçici olarak kör etmemek (kamaştırmamak) için uzun farlar kapatılarak derhal yakını gösteren (kısa) ışıklar (D) yakılmalıdır.",
   "Answer": "D) Yakını gösteren ışıklar",
   "Video": 1
  },
@@ -270,7 +270,7 @@
   "C": "C)",
   "D": "D)",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjzkigzRtXU9jr3eoOHuwXq6t2tMFNWZFGh7ZiErG1pFKATbKphEvAN6DF3SrcDRfiFr_ZEb7vWZToPvN6PJctiKZAjjifAwmWgOnrTRuak7XIwJpPm_teyI45JYrpWK43Ff0uxngh0NOnISdXeh94e9-lrDCFkPihYZQuJ11wTJLorHO0mAJ6oNYJrLSIN\/s1600\/Trafik%20Levhalar%C4%B1%2814%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Yuvarlak içi beyaz zemin üzerinde kırmızı (sizin yönünüz) ve siyah (karşı yön) okların bulunduğu 'B' şıkkındaki levha, 'Karşıdan Gelene Yol Ver' anlamı taşır. Genellikle daralan yollarda, tünel veya köprü girişlerinde bulunur.\n\n💡 Sınav Taktiği: Yuvarlak ve kırmızı çerçeveli levhalar size 'Yasak/Kısıtlama' bildirir (yani sen bekle). Mavi kare içindeki oklar (C şıkkı) ise 'Öncelik sende' demektir.",
   "Answer": "B)",
   "Video": 1
  },
@@ -281,7 +281,7 @@
   "C": "C) İşleten",
   "D": "D) Araç sahibi",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Kendi özel aracını iş dışı amaçlarla kullanan kişiye 'Sürücü', kara yolunda ticari amaçla (para kazanmak için, örneğin taksi veya otobüs) tescil edilmiş bir aracı meslek olarak süren kişiye ise 'Şoför' (A) denir.",
   "Answer": "A) Şoför",
   "Video": 1
  },
@@ -292,7 +292,7 @@
   "C": "C) Uzun hüzmeli farlarını art arda yakması",
   "D": "D) Gidiş yönüne göre sağa doğru yaklaşması",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhcExOPU9p2KCmyZV8qAuoPWts5taag6Z4svN9FkLiFmaIucibkbof6UNBiRTWqSooAhsqwI0clyC6yoTYdTmRfqYddboaiehuqGWkJez3ImO5RmWZm_VT9OVpkE4iMqCIIQRfSGHkc7dEim8rpnpCO6q-z45PkFZxpr0H76eATZOEqFBqZUEgWRVXYNPB6\/s1600\/Trafik%20Levhalar%C4%B1%2815%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Sizi geçmekte olan (sollayan) bir araç varsa; hızınızı artırıp inatlaşmamalı, şeridinizde kalmalı ve gidiş yönünüze göre yolun olabildiğince sağ tarafına yaklaşarak (D) yanınızdan geçen araca kolaylık ve güvenli mesafe sağlamalısınız.",
   "Answer": "D) Gidiş yönüne göre sağa doğru yaklaşması",
   "Video": 1
  },
@@ -303,7 +303,7 @@
   "C": "C) Aracı havalandırarak nefes egzersizi yapmalıdır",
   "D": "D) Müziği sonuna kadar açmalıdır",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Trafik sıkışıklığı ciddi bir stres ve öfke kaynağıdır. Sürücünün öfkeye kapılıp hatalı şerit değiştirmesi veya emniyet şeridine girmesi hem tehlikeli hem de yasaktır. En doğru hareket, camı açıp aracı temiz havayla doldurmak ve derin nefes alarak (C) sakinleşmeye çalışmaktır.",
   "Answer": "C) Aracı havalandırarak nefes egzersizi yapmalıdır",
   "Video": 1
  },
@@ -314,7 +314,7 @@
   "C": "C)",
   "D": "D)",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEheLoUIt8533TBuyGov2IxGBoJgj2UPlm1JCzEM7T9maqMfQdS1t2nb2G8kZg8lXiON7TiQMWtINLbX2vbBMicjZYX9KDal9tSFZ7Bz0FqcfZGN5xbayRtWXW8RvwN6iRhcZyS5fERsjh63ppYTdxuQHI8Hn0FTSNfDOa4FpWXmRKr2Q4hFj6og2I1qLMrL\/s1600\/Trafik%20Levhalar%C4%B1%2816%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "24 saatlik süre içinde toplam en fazla 9 saat ve mola vermeksizin aralıksız en fazla 4,5 saat araç kullanma yasağı (Takograf zorunluluğu), ticari amaçlı yük taşıyan Kamyon/Çekiciler ve yolcu taşıyan Otobüsler (D) için geçerlidir.",
   "Answer": "D)",
   "Video": 1
  },
@@ -325,7 +325,7 @@
   "C": "C) Dönüşlerini en sol şeritte tamamlamaları",
   "D": "D) Bulundukları şeritte en sağa yaklaşmaları",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj46jZyEHi__NscRJyu0x8FbaeC_zlyL4Xu16zrSzWgN4ZvJKGw7kcaSfGedn_93jwlayTuRzLX8JyPjxXT4OphhSXbCdzPUEVzQkWyqz0zNzra245ZomMgDnsTKuLXIZwgJ3n33nNBiVMOpQLf42PxCSf4BPpuSVfhDDjcLHQTNP0IwBIH3r5qt8RMJccj\/s1600\/Trafik%20Levhalar%C4%B1%2817%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Sağa dönecek araçlar hızını azaltmalı, dar bir kavisle dönmeli ve dönüşü tamamladıktan sonra yine yolun en sağ şeridine geçmelidir. Dönüşü çok geniş alıp en sol şeritte tamamlamak (C) kural ihlalidir ve kaza riskini artırır.",
   "Answer": "C) Dönüşlerini en sol şeritte tamamlamaları",
   "Video": 1
  },
@@ -336,7 +336,7 @@
   "C": "C)",
   "D": "D)",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiUxXH7iDXMTHGsy9UYyYKbv3wH2w6TP1bNnONk3Npfgog2dzGC_QvfVo8v_OKEJOlgpSzq7qxX-B0nQLxlH0m7nbkubZ6zdfQj2E7h3kEljnvGp0kaV07y37TPQ4-DVAn4bvHKC-4zuOg4X68SaklNXje4Cr-fNAe43zG4hsd2GWIJRTRA2zP9dgXJkfld\/s1600\/Trafik%20Levhalar%C4%B1%2818%29-min.jpg",
-  "Explaination": 1,
+  "Explaination": "Siyah ve gri renkteki otomobillerin üzerinde çapraz bir siyah çizgi bulunan yuvarlak levha (C), 'Öndeki Taşıtı Geçme (Sollama) Yasağı Sonu' levhasıdır. Bu tabelayı gördükten sonra yol müsaitse güvenle sollama yapabilirsiniz.\n\n💡 Sınav Taktiği: Kırmızı çerçeveli levhalar yasağı 'Başlatır', siyah/beyaz zemin üzerine eğik çapraz çizgili levhalar ise o yasağı 'Bitirir'.",
   "Answer": "C)",
   "Video": 1
  },
@@ -347,7 +347,7 @@
   "C": "C) Can ve mal güvenliğini tehlikeye sokmamaya",
   "D": "D) Çevreyi rahatsız etmemeye",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Görev halindeki ambulans, itfaiye veya polis araçları acil durumlarda kırmızı ışıkta geçebilir veya hız sınırlarını aşabilirler. Ancak tüm bu ayrıcalıkları kullanırken diğer sürücülerin ve yayaların can ve mal güvenliğini tehlikeye sokmamak (C) zorundadırlar.",
   "Answer": "C) Can ve mal güvenliğini tehlikeye sokmamaya",
   "Video": 1
  },
@@ -358,7 +358,7 @@
   "C": "C) Kendi sınıflarındaki araçlar için belirlenen hızla gitmelidirler.",
   "D": "D) Aracın teknik özelliklerine uygun bir hız tespit etmelidirler.",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Tehlikeli madde taşıyan araçlar (örneğin akaryakıt tankerleri) yüklerini boşalttıklarında, tehlike ortadan kalktığı için ekstra kısıtlayıcı hız limitlerine tabi olmazlar. Kendi orijinal araç sınıflarının (kamyon veya çekici) yasal hız sınırlarına uyarak yollarına devam ederler (C).",
   "Answer": "C) Kendi sınıflarındaki araçlar için belirlenen hızla gitmelidirler.",
   "Video": 1
  },
@@ -369,7 +369,7 @@
   "C": "C) Dönüş sonrası hızının gerektirdiği şeride girmek",
   "D": "D) Ada etrafında dönerken gereksiz yere şerit değiştirmek",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Dönel kavşağa girdikten sonra dönüşünüzü tamamlayana kadar belirlediğiniz şeritte kalmalısınız. Ada etrafında dönerken sağa sola makas atmak veya gereksiz yere şerit değiştirmek (D) kazaya sebebiyet vereceği için yasaktır.",
   "Answer": "D) Ada etrafında dönerken gereksiz yere şerit değiştirmek",
   "Video": 1
  },
@@ -380,7 +380,7 @@
   "C": "C) II ve III",
   "D": "D) I, II ve III",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Yollardaki kesik çizgiler (I) görüşün açık olduğunu ve kurallara uyarak sollama/şerit değiştirme yapılabileceğini belirtir. Devamlı (düz) çizgiler (II ve III) ise viraj, tepe üstü veya kavşak yaklaşımı gibi tehlikeli bölgeleri ifade eder ve asla ihlal edilemez. Bu nedenle sadece I. öncül geçilebilir (A).",
   "Answer": "A) Yalnız I",
   "Video": 1
  },
@@ -391,7 +391,7 @@
   "C": "C) II ve III.",
   "D": "D) I, II ve III.",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Trafikte sürücülerin stres altında bile birbirine hoşgörülü olması (I) ve sadece kendi hakkını düşünmeyip (bencillikten uzak durarak) fedakarlık yapması (II) kazaları azaltır ve huzuru artırır. Olaylara aşırı tepki göstermek (III) ise kavgaya yol açar. Olumlu olanlar I ve II'dir (B).",
   "Answer": "B) I ve II.",
   "Video": 1
  },
@@ -402,7 +402,7 @@
   "C": "C) Yük yüklemek veya boşaltmak",
   "D": "D) Yolun kapalı olması durumunda beklemek",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Aracın yolcu indirmek/bindirmek veya yük boşaltmak için kısa süreli beklemesine 'Duraklama' denir. Ancak bu bekleme süresi 5 dakikayı aşarsa, yasal olarak bu eylem artık 'Park Etme' (A) sayılır.\n\n💡 Sınav Taktiği: 5 dakikadan az = Duraklama, 5 dakikadan fazla = Park Etme.",
   "Answer": "A) 5 dakikadan fazla beklemek",
   "Video": 1
  },
@@ -413,7 +413,7 @@
   "C": "C) İnatlaşma",
   "D": "D) Aşırı tepki",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Sıkışık trafikte kornaya basmanın önündeki araçları sihirli bir şekilde hareket ettirmeyeceğini bildiği halde kornaya yüklenen bir sürücü, tahammül sınırını aşmıştır. Bu durum kişinin trafikte zorlu durumlara karşı 'Sabır' (B) erdemine sahip olmadığını gösterir.",
   "Answer": "B) Sabır",
   "Video": 1
  },
@@ -424,7 +424,7 @@
   "C": "C) Eğimli yol kesimlerinde",
   "D": "D) Duraklamanın yasak olduğu yerlerde",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Dönemeçlerde (virajlarda), geçiş (yaya/okul vb.) yolları üzerinde ve zaten duraklamanın bile yasak olduğu yerlerde park etmek kesinlikle yasaktır. Ancak kurallara (el freni çekmek, vitesi takmak) uyulması şartıyla eğimli (yokuş) yollarda (C) park etmek serbesttir.",
   "Answer": "C) Eğimli yol kesimlerinde",
   "Video": 1
  },
@@ -435,7 +435,7 @@
   "C": "C) Distribütörün kablosu çıkarılır.",
   "D": "D) Marş motorunun kablosu çıkarılır.",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Araçlarda çıkan yangınların veya yanık kablo kokusunun en büyük sebebi elektriksel kısa devrelerdir. Yangını büyümeden önlemek için aracı besleyen elektrik akımını ana kaynaktan kesmek, yani derhal 'Akünün kutup başlarını sökmek/çıkarmak' (B) gerekir.",
   "Answer": "B) Akünün kutup başları çıkarılır.",
   "Video": 1
  },
@@ -446,7 +446,7 @@
   "C": "C) Diferansiyel ayarının",
   "D": "D) Vites kutusu ayarının",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Kampanalar (veya diskler) fren sisteminin sürtünme yüzeyleridir. Eğer fren ayarı (A) bozuk ve çok sıkıysa, ayağınız frende olmasa bile balatalar dönen kampanaya temas eder. Bu sürekli sürtünme aşırı ısınmaya ve tekerlekten yanık kokusu gelmesine neden olur.",
   "Answer": "A) Fren ayarının",
   "Video": 1
  },
@@ -457,7 +457,7 @@
   "C": "C) Araç lastiklerinin",
   "D": "D) Soğutma suyunun",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Aracın içine giren klimadaki havayı dışarıdaki toz, egzoz ve polenlerden temizleyen 'Polen Filtresi' (A), her periyodik bakımda (genellikle yılda bir veya 10-15 bin km'de) sağlığınız için değiştirilmesi gereken standart bir filtredir.\n\n💡 Sınav Taktiği: Yağ filtresi, hava filtresi ve polen filtresi periyodik bakımların 'değişmez' üçlüsüdür. Sıvılar ise her bakımda değişmez, seviyesi ölçülüp eksikse tamamlanır.",
   "Answer": "A) Polen filtresinin",
   "Video": 1
  },
@@ -468,7 +468,7 @@
   "C": "C) Marş motoru",
   "D": "D) Fan motoru",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Yeni nesil araçların soğutma sistemlerinde, radyatördeki sıcak suyu soğutmak için üfleyen pervaneyi (fanı) döndürme görevini, adından da anlaşılacağı üzere elektrikle çalışan 'Fan Motoru' (D) üstlenir. (Çok eski araçlarda bu işi vantilatör kayışı yapardı).",
   "Answer": "D) Fan motoru",
   "Video": 1
  },
@@ -479,7 +479,7 @@
   "C": "C) Fren pedalına tam basılmaması",
   "D": "D) Lastik hava basıncının düşük olması",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Debriyaj (kavrama) pedalına sonuna kadar basılmazsa veya sistem arızalı olduğu için motor ile şanzımanı tam ayırmıyorsa, dişliler dönmeye devam ederken birbirine geçer ve vites kutusundan 'carrrt' diye şiddetli bir sürtünme sesi gelir (A).",
   "Answer": "A) Kavramanın tam ayırmaması",
   "Video": 1
  },
@@ -490,7 +490,7 @@
   "C": "C) Fren hidroliğinin azalmasına",
   "D": "D) Bijon somunlarının gevşemesine",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Radyatör kapağı, soğutma sisteminin basıncını dengede tutar. Kapak arızalıysa veya contası erimişse su çabuk kaynar, buharlaşır ve sistem su eksiltir. İçerisinde su kalmayan motor yeterince soğuyamaz ve Hararet (B) yapar.",
   "Answer": "B) Motorun hararet yapmasına",
   "Video": 1
  },
@@ -501,7 +501,7 @@
   "C": "C) Bakım masrafının azalmasına",
   "D": "D) Yağın çamurlaşarak motora zarar vermesine",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Motor yağı yandıkça zamanla kayganlık özelliğini yitirir ve kararır. Yağı tamamen tahliye edip değiştirmek yerine sadece üzerine taze yağ eklemek, eski kirli yağ ile yeni yağın karışarak tortu oluşturmasına ve zamanla çamurlaşıp motor yataklarına zarar vermesine (D) neden olur.",
   "Answer": "D) Yağın çamurlaşarak motora zarar vermesine",
   "Video": 1
  },
@@ -512,7 +512,7 @@
   "C": "C) Yağ çubuğu",
   "D": "D) Yağ pompası",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Aracın motorundaki mevcut yağın seviyesini (azalıp azalmadığını) fiziksel olarak anlamamızı sağlayan, ucunda 'Min' ve 'Max' referans çizgileri bulunan uzun metal alete 'Yağ Çubuğu' (C) denir.\n\n💡 Sınav Taktiği: Yağ seviyesi ölçülürken araç düz bir zeminde olmalı ve yağ izi her zaman çubuktaki o iki çizgi arasında yer almalıdır.",
   "Answer": "C) Yağ çubuğu",
   "Video": 1
  },
@@ -523,7 +523,7 @@
   "C": "Her ikiside doğrudur",
   "D": "Her ikiside yanlıştır",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj_IMqz4HA-eEXMAPLozi4H1ZvtCvpPAdyHdh2FAwkBMfItvVSpc2kGEuKtFpYZJMcwjaQwJ5zUA_fwERBHP0rcUwdlfFPTghvViDbxGlIgilP16RpkbjpKf5OQG8P62g4x6w2Vx1mf7G8AEkJ-c9qOfo7piDbVL12fzcLYwqGmItxMwaKkKGY2Di98N_H1\/s1600\/1301103m.jpg",
-  "Explaination": "\"sagdan öncelikli\" Bu nedenle beklemeniz ve motosikletçiye yol  hakkı vermeniz gerekir.",
+  "Explaination": "Görseldeki kavşakta herhangi bir trafik ışığı veya geçiş üstünlüğü bildiren ana yol tabelası bulunmamaktadır. Eşit statüdeki bu tür kontrolsüz kavşaklarda 'Sağdan Gelenin Önceliği' kuralı geçerlidir. Motosiklet sizin sağınızda olduğu için ilk geçiş hakkı onundur. Bu nedenle sizin beklemeniz gerekir. (I Doğru, II Yanlış)",
   "Answer": "I-Doğru II-Yanlış",
   "Video": 1
  },
@@ -534,7 +534,7 @@
   "C": "C) I ve II",
   "D": "D) I,II ve III",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgLxVCekYzVOEXFR4lXbSjJDVRzyclZXXXUs_khW93MekPHXMoibo9vlvYwJR3pNIOU3Wl8FYRlXbspM1m6gnIJfjjnuO6VYffwdYTYqOb7Q6ZMkKfxpLJc8fUMSR8GyZeaWBwOEz7Y3z7L1PovNvKuWYwKTjm7zN-sdr241PsmFTlwP1pBPnPAWETijMPj\/s1600\/1102124m.jpg",
-  "Explaination": "İki taraflI park araçlarından dolayı görüş mesafesi sınırlıdır. Bu nedenle, çok dikkatli ve yavaş sürülmelidir. Solunuzda caddeyi geçen bir kadın var. Genel olarak, birçok yaya kaldırımda ve yoldadır. Burada hızınızı yürüme hızına düşürün ve frenlemeye hazır olun. Birçok araba sokağa park ettiginden, insanların dışarı çıkmaları için araç kapılarını açmaları muhtemeldir.",
+  "Explaination": "Yolun her iki tarafında park etmiş sıkışık araçlar olduğu için görüş mesafesi oldukça dardır (I). Araçların arasından yayalar veya oynayan çocuklar aniden yola fırlayabilir (II). Ayrıca yol kenarına park halindeki araçların sürücüleri çıkmak için kapılarını dikkatsizce açabilir (III). Bu yüzden üç büyük tehlikeye de hazırlıklı olup hız düşürülmelidir (D).",
   "Answer": "D) I,II ve III",
   "Video": 1
  },
@@ -545,7 +545,7 @@
   "C": "C) II ve II",
   "D": "D) I,II ve III",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjhMjH6KtCMY8wloYDNc4n_JS_aqfepr6wfYnzH9BVAh-b1R_l63pqvlupL4r5HsDfVrvmhXzgx95GfU0dgWBDBq57feO2e2iKMpzCvYklcBXLyL6IfaN1pltgJoMfn9A8iIdtY5Gwm9hW8NrL-YoO2pFdAnz5l1hNYFUlVT7HQuDE7u9hRnL5MQTKGn4Zc\/s1600\/1441015.png",
-  "Explaination": "Trafik işareti \"Sınırlı Süreli Park Bölgesi Levhası\" gösteriyor. Durdurma yasakları grubuna aittir. Park yeri genelde burada yasaktır. Bu, park kartının kullanılıp kullanılmadığına bakılmaksızın uygulanır. Yük yüklemek veya indirmek ve taşıda binmek veya taşıttan inmek için duraklamaya izin verilir. Üç dakikadan uzun süren, park etmek ve duraklamaya izin verilmez.",
+  "Explaination": "'Sınırlı Süreli Park Bölgesi' levhası, o alanda uzun süreli park etmenin yasak olduğunu belirtir. Park kartınız olsa dahi park edemezsiniz (I yanlış). Ancak trafik akışını bozmayacak şekilde, sadece yolcu indirme-bindirme veya eşya yükleme-boşaltma gibi kısa süreli duraklama işlemlerine (II) izin verilir.",
   "Answer": "C) II ve II",
   "Video": 1
  }
