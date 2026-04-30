@@ -6,7 +6,7 @@
   "C": "C) Hararet müşürü arızalıdır.",
   "D": "D) Su pompası arızalıdır.",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Eğer araç hararet yaptığı halde (su kaynattığı halde) içerideki hararet göstergesi (ibresi) hiç oynamıyor veya çalışmıyorsa, sorunun kaynağı soğutma sistemindeki ısıyı ölçüp göstergeye elektrik sinyali olarak gönderen 'Hararet Müşürünün' (C) arızalanmış olmasıdır.",
   "Answer": "C) Hararet müşürü arızalıdır.",
   "Video": 1
  },
@@ -17,7 +17,7 @@
   "C": "C) Lastik hava basıncını istenilen değerde tutmak için",
   "D": "D) Düzensiz lastik aşıntılarını önlemek ve aracın düzgün istikamet takibi için",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Rot ayarı, direksiyon simidi düzken ön tekerleklerin de yola tam düz (simetrik) basmasını sağlar. Bu ayarın bozuk olması lastiklerin içten veya dıştan yenmesine (kabaklaşmasına) ve direksiyonu bıraktığınızda aracın sağa/sola çekmesine neden olur. Bu yüzden 'Düzensiz lastik aşıntılarını önlemek ve aracın düzgün istikamet takibi için' (D) rot ayarı yapılır.",
   "Answer": "D) Düzensiz lastik aşıntılarını önlemek ve aracın düzgün istikamet takibi için",
   "Video": 1
  },
@@ -28,7 +28,7 @@
   "C": "C) Yakıt göstergesinden",
   "D": "D) Hararet göstergesinden",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Vantilatör (V) kayışı motordan aldığı güçle aynı anda hem su pompasını hem de alternatörü (şarj dinamosunu) çevirir. Kayış koptuğunda alternatör dönmeyi anında bırakır ve araç elektrik üretmeyi keser. Bu durum, suyun kaynamasından (hararetten) saniyeler önce ekranda beliren kırmızı 'Şarj (Akü) göstergesinden' (B) hemen anlaşılır.",
   "Answer": "B) Şarj göstergesinden",
   "Video": 1
  },
@@ -39,7 +39,7 @@
   "C": "C) Soğutma suyuna antifriz katılması",
   "D": "D) Lastik hava basınçlarının kontrol edilmesi",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Motorun gaza basılmadan, kendi kendine çalıştığı en düşük devrine 'Rölanti' denir. Eğer rölanti ayarı bozuksa ve devir normalden (genelde 800 rpm) çok 'yüksekse' (A), araç durduğu yerde (kırmızı ışıkta vb.) bile gereğinden çok daha fazla yakıt çeker ve tüketimi (sarfiyatı) artırır.",
   "Answer": "A) Rölanti devrinin yüksek olması",
   "Video": 1
  },
@@ -50,7 +50,7 @@
   "C": "C) Endüksiyon bobini",
   "D": "D) Hava filtresi",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Yakıt pompası, enjektörler (yakıtı püskürten parça) ve yakıtın rahat yanmasını sağlayan hava filtresi yakıt sisteminin temel elemanlarıdır. Ancak 'Endüksiyon Bobini' (C), aküden gelen 12 Voltluk elektriği bujiler için 20.000 Volta çıkaran 'Ateşleme Sisteminin' bir parçasıdır.",
   "Answer": "C) Endüksiyon bobini",
   "Video": 1
  },
@@ -61,7 +61,7 @@
   "C": "C) Diferansiyel yağının",
   "D": "D) Direksiyon kutusu yağının",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Motor yağı karterden çekilip silindirlere basılırken, içindeki metal talaşları, kurum ve pislikleri süzerek motor parçalarının çizilmesini (aşınmasını) önleyen filtreye 'Motor Yağ Filtresi' denir. Görevi doğrudan 'Motor yağının' (A) temizlenmesidir.",
   "Answer": "A) Motor yağının",
   "Video": 1
  },
@@ -72,7 +72,7 @@
   "C": "C) Silindir kapağı",
   "D": "D) Motor bloğu",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Motorun en büyük ve en ağır parçası olan; içerisinde pistonların çalıştığı yuvarlak silindir boşluklarını, su ceketlerini ve yağ kanallarını barındıran devasa döküm gövdeye 'Motor Bloğu' (D) denir.\n\nÇeldirici Analizi: Karter motorun altındaki yağ deposudur. Silindir kapağı ise bloğun üzerini kapatan üst parçadır.",
   "Answer": "D) Motor bloğu",
   "Video": 1
  },
@@ -83,7 +83,7 @@
   "C": "C)",
   "D": "D)",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhMTocdui227z38XtBZZxhYtO5tLZs2-NmB5PMpGbeLHMq8dF6IH6HBL1nT6pcp5XCQwYW0ibjNNuuaF8tpQHw8WusA5yOXtagr7lNGCHhCi85-dKhfFMY0_vQeRDrQJC0T6qulHtHhBZdbBOzBlFlv8FWChmWXCtYX0noHSZfeSFiw5lzxo6pM02XUnByI\/s1600\/Trafik%20Levhalar%C4%B1%28200%29.png",
-  "Explaination": 1,
+  "Explaination": "A şıkkında yer alan kırmızı renkli 'Akü (Şarj) İkaz Işığı' ve 'Yağ Basıncı İkaz Işığı' yandığı anda aracı derhal (güvenli bir yere çekip) durdurmak ve kontağı kapatmak hayati bir mecburiyettir. Aksi halde motor elektrik/yağsızlık yüzünden kalıcı hasar görür (kilitlenir). B, C ve D şıkları (park, kısa ve sis farları) durmayı gerektirmez.",
   "Answer": "A)",
   "Video": 1
  },
@@ -94,7 +94,7 @@
   "C": "C) Lastikte basınç kaybı olduğunu",
   "D": "D) Soğutma suyu sıcaklığının aşırı yükseldiğini",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi-JMqw8WRot0m9lw10n6U2ol9izH0u-FIv98fOmCzkSQKuGH-hZ_D0nZDGVLK1yYBOBEHL3jn5B4l20jSis49PloK3EL6wMLoWu-1ZHKrT-UWHuj25QZCjA0dw-Q1gTpFKcqNzrMpG1LQ-023f4EEMIQ38ZC-ZQchBnhVUStPYkdcJ9Ob7Zg0DWHrJuO89\/s1600\/Trafik%20Levhalar%C4%B1%28201%29.png",
-  "Explaination": 1,
+  "Explaination": "Göstergede dalgalı bir suyun içerisine batırılmış derece (termometre) şeklindeki kırmızı ikaz ışığı, motoru soğutan suyun kaynama noktasına geldiğini, yani 'Soğutma suyu sıcaklığının aşırı yükseldiğini (Aracın hararet yaptığını)' (D) bildirir. Araç derhal durdurulmalıdır.",
   "Answer": "D) Soğutma suyu sıcaklığının aşırı yükseldiğini",
   "Video": 1
  },
@@ -105,7 +105,7 @@
   "C": "C)",
   "D": "D)",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgMgSe_YKPEtfA1NwBSJ3BZ2LxIdYN42xAwox6rw7lrrRKhE6kmoAgsoyb1BRmN7pYd47gtzjVY054YrJHaCWPPtYmxNiIBG31OUvcWQg1rE3mC0HtekAmYe3COVfu6nlgQyXk6h-Fs-6_0SCxXwQqrmyaDMiZrJN7JEtXXtptGD6tcvE4lgFQYofcsGSmJ\/s1600\/Trafik%20Levhalar%C4%B1%28202%29.png",
-  "Explaination": 1,
+  "Explaination": "Daire içerisinde bulunan ve sağdan soldan parantez ile desteklenmiş kırmızı 'Ünlem (!)' işareti (veya P harfi), aracın mekanik park freninin, yani 'El Freninin çekili olduğunu' (B) ya da fren hidroliğinin eksildiğini gösterir.",
   "Answer": "B)",
   "Video": 1
  },
@@ -116,7 +116,7 @@
   "C": "C) İş makinesi, otomobil, minibüs",
   "D": "D) Kamyon, Moped, lastik tekerlekli traktör",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "C sınıfı ehliyet 'Kamyon' ve Çekici kullanmak içindir. C sınıfı ehliyete sahip bir sürücü, otomatik olarak kendisinden alt sınıfta olan M (Moped / Motorlu bisiklet) ve F (Lastik tekerlekli traktör) sınıfı araçları da yasal olarak kullanma hakkına (D) sahiptir.",
   "Answer": "D) Kamyon, Moped, lastik tekerlekli traktör",
   "Video": 1
  },
@@ -127,7 +127,7 @@
   "C": "C)Bencil davranmaya",
   "D": "D)Aşırı tepki göstermeye",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Zor durumda (arıza/kaza) kalmış ve bu yüzden farkında olmadan trafiği tıkamış bir sürücüye korna çalıp kızmak yerine, durup aracı itmesine veya tamir etmesine destek olmak, toplumun ve trafik adabının temel taşı olan 'Yardımlaşmaya' (A) en güzel örnektir.",
   "Answer": "A)Yardımlaşmaya",
   "Video": 1
  },
@@ -138,7 +138,7 @@
   "C": "C) Araç kullanırken yanında birisini bulundurmak şartı ile",
   "D": "D) Belli bir hızdan fazla seyretmemek şartı ile",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Doğuştan veya sonradan işitme kaybı (sağırlık) yaşayan bireyler, doktor raporuyla onaylandığı takdirde, ancak 'İşitme cihazı kullanarak belirli bir duyma yeterliliğine ulaşabiliyorlarsa' (B) koşullu olarak sürücü belgesi (B sınıfı) alabilirler.",
   "Answer": "B) İşitme cihazı ile belli yeterliliğe ulaşabiliyorsa",
   "Video": 1
  },
@@ -149,7 +149,7 @@
   "C": "C) Dikkatli geçmelidir.",
   "D": "D) Kalkışa hazırlanmalıdır.",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Trafik ışıklarında kırmızı yanıyorken (beklerken), kırmızı ışıkla BİRLİKTE aynı anda sarı ışığın da yanması, çok kısa bir süre (1-2 saniye) sonra yeşil ışığın yanacağını belirtir. Sürücü bu evrede debriyaja basıp vitese takarak 'Kalkışa (harekete) hazırlanmalıdır' (D).",
   "Answer": "D) Kalkışa hazırlanmalıdır.",
   "Video": 1
  },
@@ -160,7 +160,7 @@
   "C": "C) Saygıyı ön plana alan trafik algısı oluşmuştur",
   "D": "D) Sorumluluk duygusu yeterince gelişmemiştir",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Kuralsızlık, bencilce düşünme, cezaların caydırıcı olmaması ve empati yoksunluğu kasıtlı kural ihlallerinin temel nedenleridir (A, B, D). Ancak 'Saygıyı ön plana alan bir trafik algısının oluşması' (C) kural ihlaline değil, tam tersi kusursuz bir trafik düzenine yol açar. Bu yüzden neden olamaz.",
   "Answer": "C) Saygıyı ön plana alan trafik algısı oluşmuştur",
   "Video": 1
  },
@@ -171,7 +171,7 @@
   "C": "C) 2,4",
   "D": "D) Hepsi",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Rutin bir trafik denetiminde polis; aracı kullanma yetkinizi gösteren Ehliyeti (1), kaza anında 3. şahısları koruyan Trafik Sigortasını (2), aracın trafiğe çıkmaya uygun olduğunu belirten Ruhsatı (Trafik ve tescil belgesi) (3) ve çevre temizliği için Egzoz Muayenesini (4) eksiksiz olarak kontrol eder. Yani 'Hepsi'nin (D) gösterilmesi zorunludur.",
   "Answer": "D) Hepsi",
   "Video": 1
  },
@@ -182,7 +182,7 @@
   "C": "C)",
   "D": "D)",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgpePBrAiFJB_oq38b44631_uP6WJgWknbzMMY07eFb8ukNtUehjfWF_Xpfd2iHY2OGVMZwk7ZzP4lAVhryPvOEgAOyoCpSQxRqO3vdHyEbcAd8kUxg7bPuHCF7jF3a9vdMNQCf16Lz6vmfpeAE4W7OAck-ZtnUQbWuQ0wZapCnJkzRQO49jMTR674Si3w4\/s1600\/Trafik%20Levhalar%C4%B1%28203%29.png",
-  "Explaination": 1,
+  "Explaination": "Kırmızı çember içerisinde yazan siyah '70' rakamı (A şıkkı), o yoldaki en yüksek hızın (azami hızın) 70 km/s ile sınırlandırıldığını gösterir.\n\nÇeldirici Analizi: B şıkkı bu yasağın bittiğini, C şıkkı minimum hızı (mavi zemin), D şıkkı ise taşıma haddini (ton) gösterir.",
   "Answer": "A)",
   "Video": 1
  },
@@ -193,7 +193,7 @@
   "C": "C) Şerit",
   "D": "D) Banket",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Bölünmüş yollarda karşı yönden gelen araçların kafa kafaya çarpışmasını (ters yöne geçmesini) fiziksel olarak tamamen engelleyen bariyer, orta refüj veya beton blok gibi yapılara genel adıyla 'Ayırıcı' (B) denir.",
   "Answer": "B) Ayırıcı",
   "Video": 1
  },
@@ -204,7 +204,7 @@
   "C": "C) Paylaşmayı bilmek ve saygılı olmak",
   "D": "D) Saygıyı öncelikle başkalarından beklemek",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Trafik kuralları evrenseldir ve herkes için geçerlidir (A yanlış). Haklı bile olsa kavşaklarda veya dar yollarda önceliği diğer insanlara vermek, yani 'Paylaşmayı bilmek ve saygılı olmak' (C), ideal bir sürücüde bulunması gereken en olumlu ahlaki tutumdur.",
   "Answer": "C) Paylaşmayı bilmek ve saygılı olmak",
   "Video": 1
  },
@@ -215,7 +215,7 @@
   "C": "C) Geçme, dönme gibi mecburi hâller dışında şerit değiştirmesi",
   "D": "D) Şerit değiştirmeden önce, gireceği şeritte sürülen araçların güvenle geçişlerini beklemesi",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Türkiye'de trafik sağdan akar ve sürücüler gidiş yönlerine göre en sağ veya orta şeridi kullanmalıdır. Zevk için, trafiği tehlikeye atarak, 'Geçme (sollama) veya dönme gibi mecburi haller DıŞINDA sürekli (gereksiz yere) şerit değiştirmek' (C) (makas atmak) çok ciddi bir kural ihlali ve trafik suçudur.",
   "Answer": "C) Geçme, dönme gibi mecburi hâller dışında şerit değiştirmesi",
   "Video": 1
  },
@@ -226,7 +226,7 @@
   "C": "C) Torpido gözünde",
   "D": "D) Arka bagajda",
   "Image": 1,
-  "Explaination": "Yangın söndürme cihazı sürücünün  yanında olmalıdır doğru seçenek A şıkkıdır.\n",
+  "Explaination": "Motor/yakıt yangınları ilk 30 saniyede söndürülemezse araç tamamen kül olur. Bu yüzden yangın söndürme cihazı (tüpü) bagaj gibi ulaşılması zor ve vakit kaybettiren yerlerde değil; şoförün en acil anda anında eliyle ulaşabileceği 'Sürücünün hemen yanında' (A) (genellikle koltuğun ön kısmında) sabitlenmiş olmalıdır.",
   "Answer": "A) Sürücünün hemen yanında",
   "Video": 1
  },
@@ -237,7 +237,7 @@
   "C": " C) 2 - 3 - 1 - 4",
   "D": "D) 3 - 4 - 1 - 2",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Öndeki aracı sollamak (geçmek) için sırasıyla; önce sola sinyal verilir (2), daha sonra önünüzdeki araca yapışmadan takip mesafesindeyken sol şeride çıkılır (3), geçilen araçla araya güvenli mesafe girene kadar düz ilerlenir (1) ve son olarak şeride geri dönmek için sağa sinyal verilir (4). Sıralama 2 - 3 - 1 - 4 (C) olmalıdır.",
   "Answer": " C) 2 - 3 - 1 - 4",
   "Video": 1
  },
@@ -248,7 +248,7 @@
   "C": "C) 20",
   "D": "D) 25",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Avrupa Birliği uyum yasaları çerçevesinde yeni nesil çiplerle donatılan hafif araç sürücü belgeleri (Otomobil, Motosiklet, Traktör sınıfı), kişilerin sağlık durumu ve görme yetisinin yenilenmesi amacıyla '10 Yıl' (A) süreyle geçerlidir. 10 yılın sonunda sağlık raporu ile yenilenmeleri şarttır.\n\n💡 Sınav Taktiği: Ağır vasıta (kamyon, otobüs, tır - C ve D sınıfları) ehliyetleri ise '5 Yıl' geçerlidir.",
   "Answer": "A) 10",
   "Video": 1
  },
@@ -259,7 +259,7 @@
   "C": "C) Yolcu kusurları",
   "D": "D) Sürücü kusurları",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Sinyal vermeden aniden manevra yapmak (kısmak) ve takip mesafesine uymayıp öndeki araca yapışmak, tamamen aracı idare eden kişinin (şoförün) kendi inisiyatifiyle yaptığı ölümcül hatalardır. Bu yüzden bunlar 'Sürücü Kusurları' (D) kapsamında değerlendirilir.",
   "Answer": "D) Sürücü kusurları",
   "Video": 1
  },
@@ -270,7 +270,7 @@
   "C": "C) Trafik kazalarında güvenli alan olarak kullanma",
   "D": "D) Acil durumda durma veya duraklama",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Otoyolların en sağındaki emniyet şeritleri; arıza, kaza ve ambulans/itfaiyenin geçişi (A, C, D şıkları) gibi hayati durumlar için ayrılmıştır. Görevi olmadığı halde sırf trafiğe takılmamak için 'çakar kullanan sahte/yetkisiz araçların veya sivillerin bir ulaşım yolu' (B) kesinlikle Olamaz ve cezası çok ağırdır.",
   "Answer": "B) Görevi dışında çakar kullanan araçların ulaşım yoludur.",
   "Video": 1
  },
@@ -281,7 +281,7 @@
   "C": "C) Hızlan",
   "D": "D) Dur",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhTaYg5ePq24VjABUoISP4N3YqQDv1QvCGLndcAvj2otek-UXek3W7R9JZUNtXv_5jFT2P1RvjsLed5INiL3jRt5WKkZzJwHFtoOp076Wl3zOFH5YsEhgB4yIxnn9M8Wwe59nCP7g2e-ojO63aJQGNBdXU_WL_e215kqNkMtaL3Z2tG3nwywjNGQiTv-qio\/s1600\/Trafik%20Levhalar%C4%B1%28204%29.png",
-  "Explaination": 1,
+  "Explaination": "Trafik polisinin kolunu dirsekten kırarak (90 derece açı ile) kendi yüzüne (vücuduna) doğru ritmik ve seri bir şekilde sallaması/çağırması hareketi, sürücülerin trafiği açmak için 'Hızlan (Geç)' (C) talimatını verdiğini ifade eder.",
   "Answer": "C) Hızlan",
   "Video": 1
  },
@@ -292,7 +292,7 @@
   "C": "C) Tahribat",
   "D": "D) Trafik kazası",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Bir olayın trafik kazası sayılabilmesi için şartlar şunlardır: Karayolu üzerinde olmalıdır, araçlardan en az biri hareket halinde olmalıdır ve olay can veya mal kaybı/zararı ile sonuçlanmalıdır. Bu 3 şartın bir araya geldiği olayların yasal tanımı 'Trafik Kazası'dır (D).",
   "Answer": "D) Trafik kazası",
   "Video": 1
  },
@@ -303,7 +303,7 @@
   "C": "C) 0,40",
   "D": "D) 0,50",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Trafik Kanunlarına göre, hususi (kişisel) otomobil kullanan sürücülerin yasal alkol sınırı '0,50 Promil'dir (D). Bu sınırın üzerindeki bir oran tespit edildiğinde ceza yazılır ve ehliyete el konulur.\n\n💡 Sınav Taktiği: Eğer araç hususi değil de ticari bir araç olsaydı (taksi, otobüs, kamyon vb.), yasal alkol sınırı '0,20 Promil' olurdu.",
   "Answer": "D) 0,50",
   "Video": 1
  },
@@ -314,7 +314,7 @@
   "C": "C) Park yapan aracın çekileceğini",
   "D": "D) Sadece arızalı araçların çekileceğini",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhAxmdAmMlSrlUuflo_Syb-YZATjqik8vOggYJDz4KGWlSmTVbKzfLoWBY50Dh08mgw8hglVmwn4Zh_-sPvgCpCq7XRLb_1kPT2LoDQutwuBepMLqhuF1rvl9VGfxNA0dc2MCOOpy2k39imaozZYWNVGkxVYA_IWSonBIzs8RQ1Ibv0nwym_MESi_Px6Awa\/s1600\/Trafik%20Levhalar%C4%B1%28205%29.png",
-  "Explaination": 1,
+  "Explaination": "Kırmızı çapraz çizgili 'Park Etmek Yasaktır' levhasının altına asılmış olan çekici (kurtarıcı araç) simgesi, o noktaya inatla park yasağını ihlal eden araçların ceza yazılmakla kalmayıp 'çekici marifetiyle otoparka Çekileceğini' (C) sert bir dille sürücülere bildirir.",
   "Answer": "C) Park yapan aracın çekileceğini",
   "Video": 1
  },
@@ -325,7 +325,7 @@
   "C": "C) 2",
   "D": "D) 2,5",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "İki araç arasındaki çeki halatının güvenli uzunluğu en fazla 5 metredir. Ancak aradaki mesafe açıldıkça başka araçların (veya motosikletlerin) araya girip halata takılma riski doğar. Bu yüzden halatın boyu '2,5 metreyi (D) aştığı andan itibaren', ortasına gündüzleri kırmızı bir bez, geceleri ise kırmızı yansıtıcı (reflektör/ışık) asılması mecburidir.",
   "Answer": "D) 2,5",
   "Video": 1
  },
@@ -336,7 +336,7 @@
   "C": "C) Aşırı yük yüklemek",
   "D": "D) Karşı şeridi ihlal etmek",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Trafik kazalarında %100 suçlu sayılacağınız ağır ihlallere Asli Kusur denir. Bunların en ölümcül olanlarından biri, bölünmüş veya çift yönlü yollarda karşı yönden gelen trafiğin şeridine girmek, yani 'Karşı şeridi (şerit tecavüzü) ihlal etmektir' (D). Kafa kafaya çarpışmalara yol açar.",
   "Answer": "D) Karşı şeridi ihlal etmek",
   "Video": 1
  },
@@ -347,7 +347,7 @@
   "C": "Beyaz",
   "D": "Kırmızı",
   "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhucEL0ZZxuT5Aa2YhUjhMOaJyUiSv_txlgtOTjy_16FV-0w6uBhzPxVbVu4JS7vdRiaYJItVTRFxXWB9U1WOJIh5711MiRqBm43w71QDa83yLN56Nb0OGFm3cRmitQ7rvmPon0BIGbGmNmHHek4OSMseurkokYxK7s47Kvo6AdqKd-dpX0WGoQD6stADmH\/s1600\/Trafik%20Levhalar%C4%B1%28206%29.png",
-  "Explaination": 1,
+  "Explaination": "Araçların tasarım standartlarına göre (Fren=Kırmızı, Sinyal=Sarı/Turuncu yanar). Ancak sürücü aracı 'Geri Vitese' taktığı an, hem gece arkanın aydınlanması hem de arkadaki yaya/araçların üzerine gelen aracı açıkça fark edebilmesi için geri vites lambaları daima parlak 'BEYAZ' (C) renkte yanar.",
   "Answer": "Beyaz",
   "Video": 1
  },
@@ -358,7 +358,7 @@
   "C": "C) Zarar verdiği aracın sahibini bulması",
   "D": "D) Trafik görevlisine haber vermesi",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Bir araca çarpıp zarar verdiyseniz ahlaki ve hukuki olarak sahibini bulmalı (C), bulamıyorsanız sileceklerine iletişim bilgilerinizi yazılı bir not olarak (A) bırakmalısınız. 'Zarar az diyerek (veya kaçarak) olay yerinden uzaklaşmak' (B), maddi hasarlı kazayı terk etmek anlamına gelir ve yasal olarak suçtur/yanlıştır.",
   "Answer": "B) Zarar fazla değilse olay yerinden uzaklaşması",
   "Video": 1
  },
@@ -369,7 +369,7 @@
   "C": "C) 15",
   "D": "D) 20",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Trafikte yolcu indirmek, eşya yüklemek veya kısa bir ihtiyaç için beklemeye 'Duraklama' denir. Ancak yasa koyucu bu süreyi sınırlamıştır. Bir aracın dörtlüleri yanık dahi olsa bekleme süresi 'en çok 5 dakikadır' (A). Eğer 5 dakikayı geçerse bu eylem Park Etme sayılır ve park yasağı varsa ceza kesilir.",
   "Answer": "A) 5",
   "Video": 1
  },
@@ -380,7 +380,7 @@
   "C": "C) İstiap haddi",
   "D": "D) Kapasite",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Kara yollarındaki asfaltın çökelmemesi (bozulmaması) için köprülerde ve yollarda ağırlık limitleri vardır. Bir aracın (örneğin kamyonun) karşılıklı iki tekerleğini birleştiren tek bir milin (dingilin) üzerine binen ve oradan da asfalta basan ağırlık miktarına 'Dingil Ağırlığı' (A) denir.",
   "Answer": "A) Dingil ağırlığı",
   "Video": 1
  },
@@ -391,7 +391,7 @@
   "C": "C) Ağızdan köpüklü kan gelmesi",
   "D": "D) Yaralanma bölgesinin alt tarafında felç",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Sırtımızdaki omurga kemiklerinin (omurların) ortasında beyinden vücuda giden ana şalter yani Omurilik sinirleri bulunur. Eğer omurga kırılır ve bu sinirleri keserse, o noktadan itibaren aşağıya giden tüm his ve hareket sinyalleri kopacağı için hastanın 'Yaralanma bölgesinin alt tarafında kalıcı Felç' (D) meydana gelir.",
   "Answer": "D) Yaralanma bölgesinin alt tarafında felç",
   "Video": 1
  },
@@ -402,7 +402,7 @@
   "C": "C) İlk yardım",
   "D": "D) Yöntem",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Bir kaza veya acil sağlık krizinde, sağlık ekipleri (ambulans) gelene kadar; hastanın hayatta kalmasını sağlamak ve mevcut yaralarının/kırıklarının durumunun daha da kötüye gitmesini en aza indirmek için eldeki imkanlarla yapılan ilaçsız uygulamalara 'İlk Yardım' (C) denir.",
   "Answer": "C) İlk yardım",
   "Video": 1
  },
@@ -413,7 +413,7 @@
   "C": "C) Çıkarılır ve yaralı hastaneye sevk edilir.",
   "D": "D) Çıkarılır ve yaraya tentürdiyot dökülür.",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Bıçak, demir veya cam gibi vücuda saplanmış olan (batan) cisimler, deldikleri damarı aynı zamanda bir tıpa gibi kapatarak kanamayı tutuyor olabilir. Çekip çıkarırsanız (C ve D) devasa bir kanama başlar. Yapılması gereken tek doğru hareket; batan cismi etrafından sargılarla destekleyip 'ÇIKARMADAN yaralıyı hastaneye sevk etmektir' (A).",
   "Answer": "A) Çıkarılmadan yaralı hastaneye sevk edilir.",
   "Video": 1
  },
@@ -424,7 +424,7 @@
   "C": "C) II - I - III",
   "D": "D) III - II - I",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Hayat kurtarma (ABC) zincirinin temel adımları kesindir. İlk olarak nefes alabilmesi için dil/kusmuk engeli olan 'Ağız içi temizlenip hava yolu (Baş-çene pozisyonu) açılır' (II). Sonra hasta nefes alıyor mu diye 10 sn boyunca 'Solunum kontrolü' (I) yapılır. Son olarak da kalp atıyor mu diye 'Dolaşım (Nabız) kontrolü' (III) yapılır. Doğru sıra: II - I - III (C).",
   "Answer": "C) II - I - III",
   "Video": 1
  },
@@ -435,7 +435,7 @@
   "C": "C) Kanama bölgesindeki kan basıncı düşer.",
   "D": "D) Atardamarlardan nabız hissedilemez.",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Fizikteki sıvıların yerçekimine karşı direnci kan için de geçerlidir. Kol veya bacaktaki bir yara (kanayan bölge), kanı pompalayan motordan (kalpten) daha 'yukarıda (üstte)' tutulursa; kan yerçekimine karşı o bölgeye çıkarken zorlanır, bu da 'kanama bölgesindeki kan basıncının (ve dolayısıyla kanamanın) düşmesine' (C) yol açar. Hayat kurtarıcı bir müdahaledir.",
   "Answer": "C) Kanama bölgesindeki kan basıncı düşer.",
   "Video": 1
  },
@@ -446,7 +446,7 @@
   "C": "C) Kandaki karbondioksit oranının düşmesi",
   "D": "D) Dokuların oksijenlenmesinin kolaylaşması",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Eğer hastanın boğazına (soluk borusuna) yabancı bir cisim kaçar veya dil kökü geriye kayıp solunum yolunu tıkarsa (boğulma), dışarıdaki temiz havanın ciğerlere dolması imkansız hale gelir. Bu tıkanıklık doğrudan 'Oksijenin akciğerlere ulaşamamasına' (B) ve hastanın morarmasına (siyanoz) neden olur.",
   "Answer": "B) Oksijenin akciğerlere ulaşamaması",
   "Video": 1
  },
@@ -457,7 +457,7 @@
   "C": "C) Köprücük kemiğinin kırılması",
   "D": "D) Kulaktan ya da burundan kan ya da sıvı gelmesi",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Trafik kazalarında kafaya alınan çok şiddetli darbeler sonucu kafatası kemiği çatladığında veya kırıldığında, beyin içindeki kan veya omurilik sıvısı (BOS), en zayıf bulduğu kanallardan olan 'Kulaktan ya da burundan kan/sıvı gelmesi' (D) şeklinde dışarı sızar. Bu en ölümcül beyin kanaması ve kafatası kırığı belirtisidir.",
   "Answer": "D) Kulaktan ya da burundan kan ya da sıvı gelmesi",
   "Video": 1
  },
@@ -468,7 +468,7 @@
   "C": "C) Açık göğüs yaralanması olanlar",
   "D": "D) Kol ve köprücük kemiğinde kırık olanlar",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Göğüs, kol veya kaburga yaralanmalarında (A, C, D şıkları) hasta rahat nefes alabilmesi için yarı oturur taşınabilir. Ancak vücudu ayakta tutan ana iskelet merkezi olan 'Kalça kemiğinde (Pelvis)' (B) kırık olan bir hasta oturtulursa, kemikler organları kesebilir ve hasta şoka girer. Bu yüzden kalça ve omurga kırıkları sadece ve kesinlikle 'Sırtüstü/Düz' taşınmalıdır.",
   "Answer": "B) Kalça kemiğinde kırık olanlar",
   "Video": 1
  },
@@ -479,7 +479,7 @@
   "C": "C) Kol ya da bacakta bozulmuş şekli düzeltme­ye çalışmak",
   "D": "D) Kırık bölgenin hareket ettirilmesini sağlamak",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Her türlü kemik, eklem ve kas zedelenmesinde (Kırık-Çıkık-Burkulma) İLK YARDIMIN 1. ALTIN KURALI: Hasarlı bölge asla yerine oturtulmaya (düzeltilmeye) çalışılmaz, hareket ettirilmez. İlk yardımcının tek ve yegane görevi 'Sorunlu (kırık) bölgeyi atel vb. malzemelerle HAREKETSİZ duruma getirerek (sabitleyerek) kemiklerin etleri kesmesini (durumun kötüleşmesini) önlemektir' (A).",
   "Answer": "A) Sorunlu bölgeyi hareketsiz duruma getire­rek kazazedenin durumunun kötüleşmesini önlemek",
   "Video": 1
  },
@@ -490,7 +490,7 @@
   "C": "C) Dizin ön üst kısmı",
   "D": "D) Karın ön üst kısmı",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Vücudumuzdaki kanamaları durdurmak için uygulanan 'Baskı Noktaları', kanayan yaranın kalp tarafında kalan (kalbe en yakın) atardamar noktalarıdır. Bacağa ve ayağa giden atardamarlar, leğen kemiğinin bittiği 'Kasık İç Kısmından' (A) geçer. Ayağı kanayan birine turnike yerine ilk olarak kasık iç bölgesinden sert bir basınç uygulanır.",
   "Answer": "A) Kasık iç kısmı",
   "Video": 1
  },
@@ -501,7 +501,7 @@
   "C": "C) Hücre - Doku - Organ - Sistem",
   "D": "D) Hücre - Organ - Doku - Sistem",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Canlıların ve insanın biyolojik organizasyon şeması (küçükten büyüğe doğru) şu hiyerarşiyi izler: En küçük yapı taşı Hücre'dir. Benzer hücreler birleşip Dokuları (Kas/Sinir), dokular birleşip Organları (Kalp/Mide), organlar da birleşip yaşamsal Sistemleri (Dolaşım/Sindirim) oluşturur. Doğru dizilim: Hücre - Doku - Organ - Sistem (C) şeklindedir.",
   "Answer": "C) Hücre - Doku - Organ - Sistem",
   "Video": 1
  },
@@ -512,7 +512,7 @@
   "C": "C) Solunumu",
   "D": "D) Diş eti kanaması",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "Bir kişinin hayatta kalabilmesi için gerekli olan temel göstergelere 'Yaşam Bulguları' denir. Bunlar; Bilinç, Solunum, Dolaşım (Nabız), Tansiyon ve Vücut Isısı'dır. Bunlar var ise hasta yaşıyor demektir. Ancak 'Diş eti kanaması' (D) basit bir yara belirtisi olup, insanın yaşayıp yaşamadığını (yaşam bulgusunu) gösteren hayati bir gösterge DEĞİLDİR.",
   "Answer": "D) Diş eti kanaması",
   "Video": 1
  },
@@ -523,7 +523,7 @@
   "C": "C) Temel yaşam desteği sağlamak",
   "D": "D) Bulaşıcı hastalıklardan korunmayı sağlamak",
   "Image": 1,
-  "Explaination": 1,
+  "Explaination": "İlk yardımın temel felsefesi; hastaneye gidene kadar hastanın ölmesini engellemektir. Bu da en kritik an olan kalbin ve nefesin durması halinde, beyne oksijen gitmesini sağlayacak dış masaj ve suni solunum işlemlerini (Yani 'Temel yaşam desteği sağlamak' - C) içerir. Hastayı tedavi etmek (A) doktorun, bulaşıcı hastalığı önlemek (D) koruyucu tıbbın işidir.",
   "Answer": "C) Temel yaşam desteği sağlamak",
   "Video": 1
  },
@@ -534,7 +534,7 @@
   "C": "C) I ve II",
   "D": "D) II ve III ",
   "Image": 1,
-  "Explaination": "Traktör yolda değil ve bu nedenle bir risk faktörü degil.Tehlikeli Eğim (İniş) Levhasından sonra yaklaşmakta olan trafiği göremiyorsunuz. Bu nedenle her an karşınıza araç çıkabilir. Kırmızı araba burada geçiyor, ancak yaklaşmakta olan şerit hakkında yeterli bilgi yok. İçeri girmek zorunda kalIrsa bu çok tehlikeli olabilir.",
+  "Explaination": "Videonun/görselin ilerisinde %10 eğimli (yokuş aşağı) tehlikeli viraj levhası görünmektedir. Oraya girmeden hemen önce önünüzdeki Kırmızı otomobil, devamlı çizgiyi (sollama yasağını) ihlal edip aniden karşı şeride geçerek sollama yapmaya kalkmaktadır (I). Bu kör noktada (virajda) karşıdan hızla gelen ve görünmeyen bir trafik (başka araç) varsa (II) kafa kafaya feci bir çarpışma kaçınılmazdır. Traktör tarlada/yol dışındadır, tehlike arz etmez. Doğru cevap: Kırmızı araba ve Karşıdan gelen trafik (C).",
   "Answer": "C) I ve II",
   "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/97\/67\/ae\/9767aea1f56ca3aadb1bc63db56eeda7_t1.mp4"
  },
@@ -545,7 +545,7 @@
   "C": "C) Hızımı korurum ve sollama işlemine devam ederim",
   "D": "D) Önümdeki ağır vasıtanın hızlanması için onu korna çalarak uyarırım.",
   "Image": 1,
-  "Explaination": "Kırmızı araba geçsin ve geçene kadar sollama için bekleyin. Sollama işini kesin ve aracın arkasında kalın.",
+  "Explaination": "Videoda/senaryoda sol şeride çıkıp önünüzdeki ağır vasıtayı (kamyon/tır) sollamaya niyetleniyorsunuz, fakat dikiz aynasından veya yan aynadan arkanızdan sol şeritten çok daha hızlı gelen (kırmızı) bir aracın sizi geçtiğini/geçeceğini görüyorsunuz. Aynada sizi geçmekte olan bir araç varken önünüze çıkmak (B ve C) intihardır. En güvenli doğru davranış; derhal gaza basmayı bırakıp 'Sollama işlemine son vermek ve kendi şeridinizde (ağır vasıtanın arkasında) kalmaktır' (A).",
   "Answer": "A) Sollama işlemine son veririm ve ağır vasıtanın arkasında kalırım",
   "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/35\/91\/ae\/3591ae1b543be8463a47ed67facd6224_t1.mp4"
  }
